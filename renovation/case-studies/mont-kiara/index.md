@@ -19,6 +19,13 @@ stats:
 excerpt: >-
   A spacious condominium in Mont Kiara reimagined with Scandinavian design,
   optimised layout, and premium finishes for the expat rental market.
+gallery:
+  - label: Living Room
+    large: true
+  - label: Kitchen
+  - label: Bathroom
+  - label: Master Bedroom
+    large: true
 ---
 
 ## The Project Story

@@ -19,6 +19,13 @@ stats:
 excerpt: >-
   An executive condominium in Bangsar transformed with contemporary design,
   smart storage solutions, and rental-grade durability for families.
+gallery:
+  - label: Living Room
+    large: true
+  - label: Kitchen
+  - label: Bathroom
+  - label: Master Bedroom
+    large: true
 ---
 
 ## The Project Story

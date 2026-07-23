@@ -19,6 +19,13 @@ stats:
 excerpt: >-
   A 500 sqft serviced apartment transformed from an outdated rental into
   a high-demand home for young professionals.
+gallery:
+  - label: Living Room
+    large: true
+  - label: Kitchen
+  - label: Bathroom
+  - label: Master Bedroom
+    large: true
 ---
 
 ## The Project Story
