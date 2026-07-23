@@ -1,0 +1,41 @@
+[
+  {
+    "slug": "klcc",
+    "title": "KLCC Transformation: Serviced Apartment Renewal",
+    "category": "Serviced Apartment",
+    "location": "KLCC",
+    "yield": "+22%",
+    "excerpt": "A 500 sqft serviced apartment transformed from an outdated rental into a high-demand home for young professionals — now commanding RM 700 more per month with zero vacancy.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/klcc/images/thumbnail.jpg",
+    "tags": ["Urban Minimal", "KLCC"],
+    "featured": true,
+    "order": 1,
+    "status": "published"
+  },
+  {
+    "slug": "mont-kiara",
+    "title": "Mont Kiara Modern Condominium Makeover",
+    "category": "Modern Condominium",
+    "location": "Mont Kiara",
+    "yield": "+14%",
+    "excerpt": "A spacious condominium unit in Mont Kiara reimagined with Scandinavian-inspired design, optimised layout, and premium finishes for the expat rental market.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.jpg",
+    "tags": ["Scandinavian", "Expat Market"],
+    "featured": true,
+    "order": 2,
+    "status": "published"
+  },
+  {
+    "slug": "bangsar",
+    "title": "Bangsar Executive Condo Renewal",
+    "category": "Executive Condo",
+    "location": "Bangsar",
+    "yield": "+19%",
+    "excerpt": "An executive condominium in Bangsar transformed with contemporary design, smart storage solutions, and rental-grade durability for long-term tenant retention.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/bangsar/images/thumbnail.jpg",
+    "tags": ["Contemporary", "Family"],
+    "featured": true,
+    "order": 3,
+    "status": "published"
+  }
+]
