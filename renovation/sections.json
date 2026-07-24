@@ -1,0 +1,11 @@
+{
+  "hero": true,
+  "features": true,
+  "platform": true,
+  "me": false,
+  "carpentry": true,
+  "painting": true,
+  "portfolio": true,
+  "faq": true,
+  "cta": true
+}
