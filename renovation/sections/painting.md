@@ -6,13 +6,13 @@ features:
   - title: Premium Brand Standards
     description: We exclusively use industry-leading, high-grade paints from Nippon Paint or Jotun Paint to guarantee vibrant coverage, easy wipe-ability, and excellent lifespan against tenant wear.
     icon: PaintBucket
-    image: /images/renovation/painting/premium-brands.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/painting/premium-brands.png
   - title: The Zero-Shortcut Rule
     description: We never skip essential foundation layers. Every project strictly receives a dedicated coat of premium primer or wall sealer before any topcoat is applied, preventing future peeling, chalking, or moisture damage.
     icon: ShieldCheck
-    image: /images/renovation/painting/zero-shortcut.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/painting/zero-shortcut.png
   - title: Comprehensive Wall Treatment
     description: Our painting scope automatically includes full surface rectifications — hairline crack patching, minor skim-coating, sanding, and comprehensive blemish treatment before paint touches the wall.
     icon: Sparkles
-    image: /images/renovation/painting/wall-treatment.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/painting/wall-treatment.png
 ---

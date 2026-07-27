@@ -6,13 +6,13 @@ features:
   - title: Demographic Alignment
     description: Tailored aesthetics - contemporary Malay-styled designs for Malay-prominent enclaves, minimalist urban concepts for city-center professionals in Malaysia.
     icon: Compass
-    image: /images/renovation/features/demographic-alignment.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/demographic-alignment.png
   - title: Topology Optimization
     description: Layout configurations engineered to maximize the specific square footage and structural layout of your property type, from Apartment units to GCBs.
     icon: Ruler
-    image: /images/renovation/features/topology-optimization.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/topology-optimization.png
   - title: Built for Rental Durability
     description: High-aesthetic, low-maintenance materials chosen specifically to withstand tenant turnover while maintaining a premium look.
     icon: Shield
-    image: /images/renovation/features/rental-durability.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/rental-durability.png
 ---
