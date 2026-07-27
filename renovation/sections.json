@@ -1,7 +1,7 @@
 {
   "hero": true,
   "features": true,
-  "platform": true,
+  "platform": false,
   "me": false,
   "carpentry": true,
   "painting": true,
