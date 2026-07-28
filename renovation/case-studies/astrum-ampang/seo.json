@@ -1,11 +1,11 @@
 {
-  "title": "Astrum Ampang — Renovation Case Study | IdealHub",
-  "description": "Browse our Astrum Ampang renovation case study in Ampang. Details coming soon.",
+  "title": "Astrum Ampang Urban Haven — High-Yield Studio Renovation in Ampang | IdealHub",
+  "description": "Browse our Astrum Ampang studio renovation — a compact 250 sqft unit transformed into a fully furnished, tenant-ready rental. RM 22,000 all-inclusive budget, targeting RM 1,600/month.",
   "structuredData": {
     "@context": "https://schema.org",
     "@type": "Article",
-    "headline": "Astrum Ampang — Renovation Case Study",
-    "description": "A renovation case study at Astrum Ampang. Details coming soon.",
+    "headline": "Astrum Ampang Urban Haven — High-Yield Studio Condominium Renovation in Ampang",
+    "description": "A compact 250 sqft studio condominium at Astrum Ampang transformed into a fully equipped, tenant-ready rental unit on an RM 22,000 all-inclusive budget. Features fluted wood accent walls, custom built-in kitchenette with induction cooktop and washer, dedicated dining area, and compact sleeping-vanity layout targeting RM 1,600/month rental yield.",
     "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/living-room.webp",
     "datePublished": "2026-07-28",
     "author": { "@type": "Organization", "name": "IdealHub" },

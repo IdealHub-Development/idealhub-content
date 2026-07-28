@@ -146,18 +146,18 @@
     "status": "published"
   },
   {
-    "slug": "astrum-ampang",
-    "title": "Astrum Ampang",
-    "category": "",
+    "slug": "astrum-ampang-studio",
+    "title": "Astrum Ampang Urban Haven",
+    "category": "Studio Condominium",
     "location": "Ampang",
-    "yield": "",
-    "cost": "",
+    "yield": "Target RM 1,600 / month",
+    "cost": "RM 22,000",
     "datePublished": "2026-07-28",
-    "excerpt": "",
+    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit\u2014targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/living-room.webp",
-    "tags": [],
-    "featured": false,
+    "tags": ["High ROI Rental", "Fluted Wood Accent", "Compact Living"],
+    "featured": true,
     "order": 8,
-    "status": "draft"
+    "status": "published"
   }
 ]
