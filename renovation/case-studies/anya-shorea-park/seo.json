@@ -1,0 +1,14 @@
+{
+  "title": "Anya @ Shorea Park Modern Minimalist — 2-Bedroom Rental Renovation in Puchong | IdealHub",
+  "description": "Browse our Anya @ Shorea Park renovation — a 2-bedroom unit in Puchong transformed with warm minimalist styling. RM 24,000 all-in, including air conditioning, custom kitchen cabinetry, and designer lighting.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Anya @ Shorea Park Modern Minimalist — Strategic 2-Bedroom Rental Renovation in Puchong",
+    "description": "A 2-bedroom, 1-bathroom condominium at Anya @ Shorea Park, Puchong renovated on an RM 24,000 all-inclusive budget. Features air conditioning in every room, custom wood-grain L-shaped kitchen cabinetry with built-in hob, modern LED wave chandelier, floating TV console with wainscoting accent wall, and warm neutral interiors designed for high-yield rental appeal.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/anya-shorea-park/images/thumbnail.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

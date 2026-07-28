@@ -175,5 +175,23 @@
     "beds": 3,
     "baths": 2,
     "footerText": "**Yield Uplift:** +18%"
+  },
+  {
+    "slug": "anya-shorea-park-2-bedroom",
+    "title": "Anya @ Shorea Park Modern Minimalist",
+    "category": "Condominium",
+    "location": "Puchong",
+    "yield": "High-Yield Target",
+    "cost": "RM 24,000",
+    "datePublished": "2026-07-28",
+    "excerpt": "A 2-bedroom unit at Anya @ Shorea Park transformed into a high-appeal rental home for RM24,000 all-in, featuring air conditioning throughout, custom kitchen cabinetry, and warm designer lighting.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/anya-shorea-park/images/thumbnail.webp",
+    "tags": ["Modern Minimalist", "Soft Neutral Tones", "High-Yield Investment"],
+    "featured": true,
+    "order": 9,
+    "status": "published",
+    "buildingName": "Anya @ Shorea Park",
+    "beds": 2,
+    "baths": 1
   }
 ]
