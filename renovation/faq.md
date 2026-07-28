@@ -24,9 +24,11 @@ The timeline depends on the scope of work, site condition, material availability
 We will provide a project timeline before work begins and keep you updated throughout the renovation.
 
 **  Do you take on small renovation projects?  **  
+
 Yes. We can assist with anything from minor repairs and a room refresh to a complete home makeover.
 
 **  Can you work within my budget?  **  
+
 Yes. Share your preferred budget, and we will recommend the most suitable package and prioritise the works that matter most.
 
 **  How do I get a renovation quotation?  **
