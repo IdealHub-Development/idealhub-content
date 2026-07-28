@@ -24,6 +24,7 @@ gallery:
     large: true
     file:  kitchen.png
   - label: Kitchen
+    file: living-room.png
   - label: Bathroom
   - label: Master Bedroom
     large: true
