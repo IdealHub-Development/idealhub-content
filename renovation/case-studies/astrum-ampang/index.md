@@ -10,9 +10,10 @@ tags:
   - Fluted Wood Accent
   - Compact Living
   - Ampang
+  - Studio
 stats:
   - label: Property Context
-    value: 250 sqft Studio (1 Bath)
+    value: 250 sqft
   - label: Total Renovation Cost
     value: RM 22,000 (All-Inclusive)
   - label: Target Monthly Rental

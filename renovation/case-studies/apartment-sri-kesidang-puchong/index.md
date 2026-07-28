@@ -15,7 +15,7 @@ stats:
   - label: Total Renovation Cost
     value: RM 16,000
   - label: Renovation Period
-    value: 1 Month
+    value: 1.5 Month
     highlight: true
   - label: Monthly Rent Achieved
     value: RM 1,200
