@@ -28,7 +28,7 @@
     "status": "published"
   },
   {
-    "slug": "sri-kesidang",
+    "slug": "apartment-sri-kesidang-puchong",
     "title": "Sri Kesidang Apartment Transformation",
     "category": "Apartment",
     "location": "Puchong, Selangor",
@@ -40,5 +40,19 @@
     "featured": true,
     "order": 3,
     "status": "published"
+  },
+  {
+    "slug": "one-equine",
+    "title": "One Equine",
+    "category": "Condominium",
+    "location": "",
+    "yield": "",
+    "cost": "",
+    "excerpt": "",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.jpg",
+    "tags": [],
+    "featured": false,
+    "order": 4,
+    "status": "draft"
   }
 ]
