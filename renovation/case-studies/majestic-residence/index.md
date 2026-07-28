@@ -1,3 +1,4 @@
+---
 title: Majestic Residence Urban Oasis
 subtitle: Premium Rental Transformation
 category: 1-Bedroom Condominium
@@ -13,21 +14,27 @@ stats:
   - label: Property Context
     value: 459 sqft Condominium (1 Bed, 1 Bath)
   - label: Total Renovation Cost
-    value: RM67,200
+    value: RM 67,200
   - label: Target Market
     value: Premium Rental
     highlight: true
 excerpt: >-
   A compact 459 sqft 1-bedroom unit at Majestic Residence transformed into a premium, warm-toned urban rental featuring smart built-in workspaces and elegant living areas.
+beforeFile: before.webp
+afterFile: after.webp
 gallery:
   - label: Living Room & Workspace
     large: true
     alt: Cozy modern living room with a cream sofa, round glass coffee table, warm floor-to-ceiling brown curtains, black ceiling fan, and built-in full-height dark wood shelving integrated with a study desk.
+    file: living-rooom.webp
   - label: TV Feature Wall
     large: true
     alt: Wall-mounted flat-screen TV over a floating light wood TV console, accented with a light beige vertical fluted wall panel, potted indoor plant, and round dark glass coffee table.
+    file: tv-panel.webp
   - label: Dining Area & Kitchenette
     alt: Dining area with a round walnut dining table, four upholstered chairs, a modern dome pendant light, wall wainscoting framed artwork, and an adjacent compact kitchen space.
+    file: dining.webp
+---
 
 ## The Project Story
 
