@@ -1,4 +1,23 @@
 {
+  "organization": {
+    "name": "IdealHub",
+    "legalName": "Terasquad Technologies Sdn. Bhd.",
+    "url": "https://rental.idealhub.duckdns.org",
+    "email": "ask@idealhub.com",
+    "telephone": "",
+    "address": {
+      "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+      "addressLocality": "Kuala Lumpur",
+      "postalCode": "57000",
+      "addressCountry": "MY"
+    },
+    "logo": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+    "sameAs": [
+      "https://www.facebook.com/IdealHub.co/",
+      "https://www.instagram.com/idealhub.co/",
+      "https://www.linkedin.com/company/idealhub"
+    ]
+  },
   "renovation": {
     "title": "IdealHub — Tech-Driven Turnkey Renovation for Malaysian Landlords",
     "description": "We don't just renovate; we engineer spaces to rent faster and at higher yields for Malaysia's most discerning landlords."
@@ -14,5 +33,27 @@
   "faq": {
     "title": "Renovation FAQ — Pricing, Process & What to Expect | IdealHub",
     "description": "Find answers to common questions about our renovation process, pricing, timelines, and more."
+  },
+  "caseStudies": {
+    "plaza-rah": {
+      "title": "Plaza Rah Refurbishment — Serviced Apartment in Kampung Baru, KL | IdealHub",
+      "description": "Browse our Plaza Rah renovation — a complete cosmetic & functional refurbishment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, move-in ready."
+    },
+    "mont-kiara": {
+      "title": "Mont Kiara Condominium Makeover — Scandinavian Design Renovation | IdealHub",
+      "description": "Browse our Mont Kiara renovation — a Scandinavian-inspired condominium transformation for the expat rental market in Kuala Lumpur."
+    },
+    "apartment-sri-kesidang-puchong": {
+      "title": "Sri Kesidang Apartment Refurbishment — Rental Yield Renovation in Puchong | IdealHub",
+      "description": "Browse our Sri Kesidang apartment renovation in Puchong. RM 16,000 budget, 1-month turnaround, achieving 33% rental premium."
+    },
+    "one-equine": {
+      "title": "One Equine Modern Refurbishment — Serviced Apartment in Seri Kembangan | IdealHub",
+      "description": "Browse our One Equine renovation — a complete furnishing transformation in Seri Kembangan, Selangor. RM 35,000 budget, 1-month turnaround."
+    },
+    "sunway-belfield": {
+      "title": "Sunway Belfield Soft Furnishing & Styling — Rental Investment Renovation | IdealHub",
+      "description": "Browse our Sunway Belfield Japandi-style furnishing project in Kuala Lumpur. RM 35,000 budget, 1.5-month turnaround, premium rental ready."
+    }
   }
 }
