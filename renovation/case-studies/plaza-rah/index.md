@@ -20,6 +20,8 @@ stats:
 excerpt: >-
   A targeted refurbishment of a Plaza Rah apartment, creating a cozy, modern, 
   and highly functional sanctuary tailored for comfortable own-stay living.
+beforeFile: before.webp
+afterFile: after.webp
 gallery:
   - label: Living Room
     large: true
