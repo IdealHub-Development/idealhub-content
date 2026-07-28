@@ -54,5 +54,19 @@
     "featured": true,
     "order": 4,
     "status": "published"
+  },
+  {
+    "slug": "sunway-belfield",
+    "title": "Sunway Belfield Modern Furnishing & Styling",
+    "category": "Serviced Apartment",
+    "location": "Kuala Lumpur",
+    "yield": "Premium Rental Yield",
+    "cost": "RM 35,000",
+    "excerpt": "A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
+    "tags": ["Modern Japandi", "Soft Furnishing", "Rental Investment"],
+    "featured": true,
+    "order": 5,
+    "status": "published"
   }
 ]
