@@ -35,8 +35,6 @@ gallery:
     file: master-bedroom.webp
   - label: Second Bedroom
     file: second-bedroom.webp
-    beforeFile: beforefile.webp
-    afterfile: afterfile.webp
 ---
 
 ### The Project Story
