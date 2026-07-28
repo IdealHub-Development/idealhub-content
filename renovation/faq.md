@@ -33,7 +33,6 @@ Yes. Share your preferred budget, and we will recommend the most suitable packag
 
 Send us your floor plan, photos or videos of the unit, and a brief description of what you need. If available, include your budget and target completion date. We will prepare a clear quotation based on the agreed scope.
 
-## 
 
 ## Scope & Process
 
