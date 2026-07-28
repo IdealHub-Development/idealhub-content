@@ -22,6 +22,7 @@ excerpt: >-
 gallery:
   - label: Living Room
     large: true
+    file:  kitchen.png
   - label: Kitchen
   - label: Bathroom
   - label: Master Bedroom
