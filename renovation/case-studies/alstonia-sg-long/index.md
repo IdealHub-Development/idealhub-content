@@ -4,7 +4,7 @@ subtitle: Modern Comfort Renewal
 category: Condominium
 location: Sungai Long
 yield: N/A (Own Stay)
-slug: alstonia-residence-sg-long
+slug: alstonia-sg-long
 tags:
   - Modern Warmth
   - Muted Blue Accents
