@@ -19,7 +19,8 @@
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
-    "baths": 1
+    "baths": 1,
+    "footerText": "**Yield Uplift:** +15%"
   },
   {
     "slug": "alstonia-sg-long",
@@ -42,7 +43,8 @@
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
-    "baths": 2
+    "baths": 2,
+    "footerText": "**Yield Uplift:** N/A (Own Stay)"
   },
   {
     "slug": "majestic-residence-kuala-lumpur",
