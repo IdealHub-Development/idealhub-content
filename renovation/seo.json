@@ -24,44 +24,22 @@
       "https://www.linkedin.com/company/idealhub"
     ],
     "priceRange": "RM 15k - 70k",
-    "description": "Tech-driven turnkey renovation for Malaysian landlords — we engineer spaces to rent faster and at higher yields."
+    "description": "Tech-driven turnkey renovation for Malaysian landlords \u2014 we engineer spaces to rent faster and at higher yields."
   },
   "renovation": {
-    "title": "IdealHub — Tech-Driven Turnkey Renovation for Malaysian Landlords",
+    "title": "IdealHub \u2014 Tech-Driven Turnkey Renovation for Malaysian Landlords",
     "description": "We don't just renovate; we engineer spaces to rent faster and at higher yields for Malaysia's most discerning landlords."
   },
   "quote": {
-    "title": "Request a Quote — Turnkey Renovation | IdealHub",
+    "title": "Request a Quote \u2014 Turnkey Renovation | IdealHub",
     "description": "Fill out our renovation quotation form and get a customised estimate for your property."
   },
   "gallery": {
-    "title": "Renovation Portfolio — Before & After Transformations | IdealHub",
+    "title": "Renovation Portfolio \u2014 Before & After Transformations | IdealHub",
     "description": "Browse real high-yield rental renovation projects across Malaysia. See transformations in KLCC, Mont Kiara, Bangsar and more."
   },
   "faq": {
-    "title": "Renovation FAQ — Pricing, Process & What to Expect | IdealHub",
+    "title": "Renovation FAQ \u2014 Pricing, Process & What to Expect | IdealHub",
     "description": "Find answers to common questions about our renovation process, pricing, timelines, and more."
-  },
-  "caseStudies": {
-    "plaza-rah": {
-      "title": "Plaza Rah Refurbishment — Serviced Apartment in Kampung Baru, KL | IdealHub",
-      "description": "Browse our Plaza Rah renovation — a complete cosmetic & functional refurbishment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, move-in ready."
-    },
-    "mont-kiara": {
-      "title": "Mont Kiara Condominium Makeover — Scandinavian Design Renovation | IdealHub",
-      "description": "Browse our Mont Kiara renovation — a Scandinavian-inspired condominium transformation for the expat rental market in Kuala Lumpur."
-    },
-    "apartment-sri-kesidang-puchong": {
-      "title": "Sri Kesidang Apartment Refurbishment — Rental Yield Renovation in Puchong | IdealHub",
-      "description": "Browse our Sri Kesidang apartment renovation in Puchong. RM 16,000 budget, 1-month turnaround, achieving 33% rental premium."
-    },
-    "one-equine": {
-      "title": "One Equine Modern Refurbishment — Serviced Apartment in Seri Kembangan | IdealHub",
-      "description": "Browse our One Equine renovation — a complete furnishing transformation in Seri Kembangan, Selangor. RM 35,000 budget, 1-month turnaround."
-    },
-    "sunway-belfield": {
-      "title": "Sunway Belfield Soft Furnishing & Styling — Rental Investment Renovation | IdealHub",
-      "description": "Browse our Sunway Belfield Japandi-style furnishing project in Kuala Lumpur. RM 35,000 budget, 1.5-month turnaround, premium rental ready."
-    }
   }
 }
