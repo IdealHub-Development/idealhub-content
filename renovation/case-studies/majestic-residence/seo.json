@@ -1,0 +1,14 @@
+{
+  "title": "Majestic Residence Urban Oasis — 1-Bedroom Premium Rental Renovation in KL | IdealHub",
+  "description": "Browse our Majestic Residence renovation — a compact 459 sqft 1-bedroom condo in Kuala Lumpur transformed for premium rental. RM 67,200 budget, modern warm-earth styling, built-in workspaces.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Majestic Residence Urban Oasis — Premium 1-Bedroom Rental Renovation in Kuala Lumpur",
+    "description": "A compact 459 sqft 1-bedroom condominium at Majestic Residence in Kuala Lumpur transformed on an RM 67,200 budget. Features built-in full-height wood shelving with integrated study desk, floating TV console with fluted accent panel, warm earth-tone drapes, and a curated dining space — designed for premium urban rental.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/majestic-residence/images/after.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}
