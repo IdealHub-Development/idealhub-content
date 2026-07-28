@@ -7,9 +7,13 @@
     "yield": "Target RM 1,600 / month",
     "cost": "RM 22,000",
     "datePublished": "2026-07-28",
-    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit—targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
+    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit\u2014targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/thumbnail.webp",
-    "tags": ["High ROI Rental", "Fluted Wood Accent", "Compact Living"],
+    "tags": [
+      "High ROI Rental",
+      "Fluted Wood Accent",
+      "Compact Living"
+    ],
     "featured": true,
     "order": 1,
     "status": "published",
@@ -27,7 +31,12 @@
     "datePublished": "2026-07-28",
     "excerpt": "A spacious 1,469 sqft home at Alstonia Residence redesigned into a cozy, family-focused retreat featuring muted duck-egg blue cabinetry and rich fluted wood details.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/alstonia-sg-long/images/living-room.webp",
-    "tags": ["Modern Warmth", "Muted Blue Accents", "Dark Walnut", "Sungai Long"],
+    "tags": [
+      "Modern Warmth",
+      "Muted Blue Accents",
+      "Dark Walnut",
+      "Sungai Long"
+    ],
     "featured": true,
     "order": 2,
     "status": "published",
@@ -45,13 +54,18 @@
     "datePublished": "2026-07-28",
     "excerpt": "A compact 459 sqft 1-bedroom unit at Majestic Residence transformed into a premium, warm-toned urban rental featuring smart built-in workspaces and elegant living areas.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/majestic-residence/images/living-rooom.webp",
-    "tags": ["Modern Urban", "Warm Earth Tones", "Space Optimization"],
+    "tags": [
+      "Modern Urban",
+      "Warm Earth Tones",
+      "Space Optimization"
+    ],
     "featured": true,
     "order": 3,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
-    "baths": 1
+    "baths": 1,
+    "footerText": "**Yield Uplift:** +20%"
   },
   {
     "slug": "sunway-belfield",
@@ -63,13 +77,18 @@
     "datePublished": "2026-07-28",
     "excerpt": "A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
-    "tags": ["Modern Japandi", "Soft Furnishing", "Rental Investment"],
+    "tags": [
+      "Modern Japandi",
+      "Soft Furnishing",
+      "Rental Investment"
+    ],
     "featured": true,
     "order": 4,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
-    "baths": 3
+    "baths": 3,
+    "footerText": "**Yield Uplift:** premium rental"
   },
   {
     "slug": "plaza-rah",
@@ -79,15 +98,20 @@
     "yield": "N/A (Own Stay)",
     "cost": "RM 33,000",
     "datePublished": "2026-07-27",
-    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur — creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
+    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur \u2014 creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/plaza-rah/images/after.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Own Stay"],
+    "tags": [
+      "Modern Contemporary",
+      "Refurbishment",
+      "Own Stay"
+    ],
     "featured": true,
     "order": 5,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
-    "baths": 2
+    "baths": 2,
+    "footerText": "**Yield Uplift:** N/A (Own Stay)"
   },
   {
     "slug": "apartment-sri-kesidang-puchong",
@@ -99,13 +123,18 @@
     "datePublished": "2026-07-27",
     "excerpt": "A targeted refurbishment of a 4th-floor walk-up unit at Sri Kesidang, overcoming logistics challenges to create a clean, modern, and high-yield rental space.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Rental Investment"],
+    "tags": [
+      "Modern Contemporary",
+      "Refurbishment",
+      "Rental Investment"
+    ],
     "featured": true,
     "order": 6,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
-    "baths": 1
+    "baths": 1,
+    "footerText": "**Yield Uplift:** 33% premium"
   },
   {
     "slug": "sanderling-lakefront-residence",
@@ -117,13 +146,18 @@
     "datePublished": "2026-07-28",
     "excerpt": "A Sanderling Lakefront Residence condominium transformed into a sophisticated, contemporary classic home featuring subtle wainscoting and rich walnut fluted accents.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sandeling-cyberjaya/images/thumbnail.webp",
-    "tags": ["Contemporary Classic", "Wainscoting", "Dark Walnut"],
+    "tags": [
+      "Contemporary Classic",
+      "Wainscoting",
+      "Dark Walnut"
+    ],
     "featured": true,
     "order": 7,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
-    "baths": 2
+    "baths": 2,
+    "footerText": "**Yield Uplift:** N/A (Own Stay)"
   },
   {
     "slug": "one-equine",
@@ -135,12 +169,17 @@
     "datePublished": "2026-07-28",
     "excerpt": "A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Fully Furnished"],
+    "tags": [
+      "Modern Contemporary",
+      "Refurbishment",
+      "Fully Furnished"
+    ],
     "featured": true,
     "order": 8,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
-    "baths": 2
+    "baths": 2,
+    "footerText": "**Yield Uplift:** +18%"
   }
 ]
