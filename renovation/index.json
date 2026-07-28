@@ -22,6 +22,27 @@
     "baths": 2
   },
   {
+    "slug": "mont-kiara",
+    "title": "Mont Kiara Modern Condominium",
+    "category": "Modern Condominium",
+    "location": "Mont Kiara",
+    "yield": "+14%",
+    "cost": "$45,000",
+    "datePublished": "2026-07-20",
+    "excerpt": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
+    "tags": [
+      "Scandinavian",
+      "Expat Market"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Arcoris",
+    "beds": 2,
+    "baths": 2
+  },
+  {
     "slug": "apartment-sri-kesidang-puchong",
     "title": "Sri Kesidang Apartment Transformation",
     "category": "Apartment",
@@ -105,7 +126,10 @@
     ],
     "featured": true,
     "order": 5,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Alstonia Residence",
+    "beds": 3,
+    "baths": 2
   },
   {
     "slug": "majestic-residence-kuala-lumpur",
@@ -124,7 +148,10 @@
     ],
     "featured": true,
     "order": 6,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Majestic Residence",
+    "beds": 1,
+    "baths": 1
   },
   {
     "slug": "sanderling-lakefront-residence",
@@ -143,7 +170,10 @@
     ],
     "featured": true,
     "order": 7,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Sanderling Lakefront",
+    "beds": 3,
+    "baths": 2
   },
   {
     "slug": "astrum-ampang-studio",
@@ -155,7 +185,11 @@
     "datePublished": "2026-07-28",
     "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit\u2014targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/living-room.webp",
-    "tags": ["High ROI Rental", "Fluted Wood Accent", "Compact Living"],
+    "tags": [
+      "High ROI Rental",
+      "Fluted Wood Accent",
+      "Compact Living"
+    ],
     "featured": true,
     "order": 8,
     "status": "published"
