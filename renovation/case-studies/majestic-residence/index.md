@@ -4,12 +4,13 @@ subtitle: Premium Rental Transformation
 category: 1-Bedroom Condominium
 location: Kuala Lumpur
 yield: +20%
-slug: majestic-residence-kuala-lumpur
+slug: majestic-residence
 tags:
   - Modern Urban
   - Warm Earth Tones
   - Space Optimization
   - Kuala Lumpur
+  - 1-Bedroom
 stats:
   - label: Property Context
     value: 459 sqft Condominium (1 Bed, 1 Bath)

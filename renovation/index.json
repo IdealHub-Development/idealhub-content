@@ -93,7 +93,7 @@
   {
     "slug": "majestic-residence-kuala-lumpur",
     "title": "Majestic Residence Urban Oasis",
-    "category": "1-Bedroom Condominium",
+    "category": "Condominium",
     "location": "Kuala Lumpur",
     "yield": "+20%",
     "cost": "RM 67,200",
@@ -103,6 +103,21 @@
     "tags": ["Modern Urban", "Warm Earth Tones", "Space Optimization"],
     "featured": true,
     "order": 6,
+    "status": "published"
+  },
+  {
+    "slug": "sanderling-lakefront-residence",
+    "title": "Sanderling Contemporary Elegance",
+    "category": "Condominium",
+    "location": "Cyberjaya",
+    "yield": "N/A (Own Stay)",
+    "cost": "RM 65,000",
+    "datePublished": "2026-07-28",
+    "excerpt": "A Sanderling Lakefront Residence condominium transformed into a sophisticated, contemporary classic home featuring subtle wainscoting and rich walnut fluted accents.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sandeling-cyberjaya/images/thumbnail.webp",
+    "tags": ["Contemporary Classic", "Wainscoting", "Dark Walnut"],
+    "featured": true,
+    "order": 7,
     "status": "published"
   }
 ]

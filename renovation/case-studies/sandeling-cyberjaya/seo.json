@@ -1,0 +1,14 @@
+{
+  "title": "Sanderling Contemporary Elegance — Classic Condominium Renovation in Cyberjaya | IdealHub",
+  "description": "Browse our Sanderling Lakefront Residence renovation — a 950 sqft 3-bedroom condominium in Cyberjaya transformed with contemporary classic wainscoting, walnut accents, and diamond-grid mirrors. RM 65,000 budget.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Sanderling Contemporary Elegance — Classic Condominium Renovation at Lakefront Residence, Cyberjaya",
+    "description": "A 950 sqft 3-bedroom, 2-bathroom condominium at Sanderling Lakefront Residence in Cyberjaya renovated on an RM 65,000 budget. Features soft cream wainscoting throughout, beveled diamond-grid accent mirrors, classical wall moulding, gold-trimmed upholstered master bed, custom entryway cabinetry, and built-in mirrored wardrobes.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sandeling-cyberjaya/images/thumbnail.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}
