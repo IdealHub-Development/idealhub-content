@@ -4,7 +4,7 @@ subtitle: Strategic 2-Bedroom Transformation
 category: Condominium
 location: Puchong
 yield: High-Yield Target
-slug: anya-shorea-park-2-bedroom
+slug: anya-shorea-park
 tags:
   - Modern Minimalist
   - Soft Neutral Tones
