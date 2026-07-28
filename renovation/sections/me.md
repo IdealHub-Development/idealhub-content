@@ -6,17 +6,17 @@ features:
   - title: Electrical Fittings
     description: Full-scope electrical installation including wiring extensions, strategic plug point additions, track lighting, downlights, and fan installations.
     icon: Plug
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/electrical.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/electrical.webp
   - title: Plumbing & Piping
     description: Comprehensive water-system checks, plumbing rectifications, leak mitigation, water heater installations, and sanitary fixture fit-outs engineered for high tenant usage.
     icon: Droplets
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/plumbing.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/plumbing.webp
   - title: False Ceiling & Ambient Lighting
     description: Seamless plaster ceiling design and installation. Topology adjustments to conceal beams, hide conduit wiring, and integrate modern recessed LED lighting.
     icon: Lamp
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/false-ceiling.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/false-ceiling.webp
   - title: Appliance & Defect Care
     description: Complete coordination and mounting of core rental appliances - air-conditioning units, hood, and hob - plus property defect profiling before handover.
     icon: Wrench
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/appliance-care.png
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/me/appliance-care.webp
 ---
