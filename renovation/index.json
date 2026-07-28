@@ -1,23 +1,5 @@
 [
   {
-    "slug": "mont-kiara",
-    "title": "Mont Kiara Modern Condominium",
-    "category": "Modern Condominium",
-    "location": "Mont Kiara",
-    "yield": "+14%",
-    "cost": "$45,000",
-    "datePublished": "2026-07-20",
-    "excerpt": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
-    "tags": [
-      "Scandinavian",
-      "Expat Market"
-    ],
-    "featured": true,
-    "order": 1,
-    "status": "published"
-  },
-  {
     "slug": "plaza-rah",
     "title": "Plaza Rah Modern Refurbishment",
     "category": "Serviced Apartment",
@@ -33,7 +15,7 @@
       "Own Stay"
     ],
     "featured": true,
-    "order": 2,
+    "order": 1,
     "status": "published"
   },
   {
@@ -52,7 +34,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 3,
+    "order": 2,
     "status": "published"
   },
   {
@@ -71,7 +53,7 @@
       "Fully Furnished"
     ],
     "featured": true,
-    "order": 4,
+    "order": 3,
     "status": "published"
   },
   {
@@ -90,7 +72,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 5,
+    "order": 4,
     "status": "published"
   },
   {
@@ -105,7 +87,7 @@
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/alstonia-sg-long/images/living-room.webp",
     "tags": ["Modern Warmth", "Muted Blue Accents", "Dark Walnut", "Sungai Long"],
     "featured": true,
-    "order": 6,
+    "order": 5,
     "status": "published"
   }
 ]
