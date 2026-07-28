@@ -1,44 +1,36 @@
-title: Astrum Ampang Urban Haven
-subtitle: High-Yield Studio Transformation
-category: Studio Condominium
-location: Ampang
-yield: Target RM 1,600 / month
-slug: astrum-ampang-studio
+title: Majestic Residence Urban Oasis
+subtitle: Premium Rental Transformation
+category: 1-Bedroom Condominium
+location: Kuala Lumpur
+yield: +20%
+slug: majestic-residence-kuala-lumpur
 tags:
-  - High ROI Rental
-  - Fluted Wood Accent
-  - Compact Living
-  - Ampang
+  - Modern Urban
+  - Warm Earth Tones
+  - Space Optimization
+  - Kuala Lumpur
 stats:
   - label: Property Context
-    value: 250 sqft Studio (1 Bath)
+    value: 459 sqft Condominium (1 Bed, 1 Bath)
   - label: Total Renovation Cost
-    value: RM22,000 (All-Inclusive)
-  - label: Target Monthly Rental
-    value: RM1,600 / month
+    value: RM67,200
+  - label: Target Market
+    value: Premium Rental
     highlight: true
 excerpt: >-
-  A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit—targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.
-beforeFile: before.webp
-afterFile: after.webp
+  A compact 459 sqft 1-bedroom unit at Majestic Residence transformed into a premium, warm-toned urban rental featuring smart built-in workspaces and elegant living areas.
 gallery:
-  - label: Living & Dining Layout
+  - label: Living Room & Workspace
     large: true
-    alt: Open studio room layout showing a double bed with fluted wood headboard, wooden wardrobe, vanity table, ceiling fan, and white dining table with chairs in the foreground.
-    file: living-room_2.webp
-  - label: Sleeping & Vanity Niche
+    alt: Cozy modern living room with a cream sofa, round glass coffee table, warm floor-to-ceiling brown curtains, black ceiling fan, and built-in full-height dark wood shelving integrated with a study desk.
+  - label: TV Feature Wall
     large: true
-    alt: Bedroom area featuring a vertical fluted wood accent headboard, a white upholstered bed frame, natural wood wardrobe, and a small built-in vanity desk with a tall mirror.
-    file: bed-area.webp
-  - label: TV Feature & Dining Niche
-    alt: Television area with a dark wood console, fluted wooden wall panel with floating display shelves between two window frames, and a white dining table set.
-    file: tv-area.webp
-  - label: Compact Kitchenette & Laundry
-    alt: Built-in dark grey and natural oak kitchen cabinets equipped with an induction cooker, cooker hood, under-counter washing machine, and standing refrigerator.
-    file: kitchen.JPG
+    alt: Wall-mounted flat-screen TV over a floating light wood TV console, accented with a light beige vertical fluted wall panel, potted indoor plant, and round dark glass coffee table.
+  - label: Dining Area & Kitchenette
+    alt: Dining area with a round walnut dining table, four upholstered chairs, a modern dome pendant light, wall wainscoting framed artwork, and an adjacent compact kitchen space.
 
 ## The Project Story
 
-Designed as a high-performing investment property at **Astrum Ampang**, this **250 sqft studio condominium** was transformed into an attractive, move-in-ready rental unit targeting **RM1,600/month**. To maximize investor returns, the entire fit-out was executed within a tight **RM22,000 budget—fully inclusive of custom built-in furniture, loose items, and essential appliances.**
+Designed specifically to stand out in the competitive rental market, this compact 459 sqft 1-bedroom condominium at Majestic Residence in Kuala Lumpur was transformed on a highly efficient RM67,200 budget. The design embraces a modern urban aesthetic infused with warm earth tones, maximizing both space and functionality to attract premium urban professionals.
 
-To appeal to urban professionals and expatriate tenants seeking turn-key convenience, the studio prioritizes space efficiency and high visual impact. Warm wood textures—such as the vertical fluted wood headboard feature wall and matching TV backdrop—give the compact space a stylish, boutique-hotel feel. The open layout accommodates a double bed, dedicated wardrobe storage, a full vanity/study desk, and a dining station without feeling cramped. Opposite the living zone, the fully equipped kitchenette features an induction cooktop, slim cooker hood, under-counter front-load washer, and standing refrigerator—delivering a hassle-free, fully furnished rental package designed for fast tenant acquisition and strong rental yield.
+To optimize the limited footprint, the living area features custom floor-to-ceiling wooden cabinetry that seamlessly integrates a dedicated study desk, offering a smart work-from-home solution. A tailored beige sofa and rich brown floor-to-ceiling drapery bring cozy sophistication to the room, while the minimalist floating wood TV console is elevated by a subtle fluted accent panel. In the adjacent space, classic wall wainscoting and a modern textured dome pendant frame a round walnut dining table, creating a highly inviting, turnkey home that feels both spacious and meticulously curated.
