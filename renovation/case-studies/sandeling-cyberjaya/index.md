@@ -10,9 +10,12 @@ tags:
   - Wainscoting
   - Dark Walnut
   - Cyberjaya
+  - 3-bed, 2-bath
 stats:
   - label: Property Context
-    value: 950 sqft Condominium (3 bed, 2 bath)
+    value: 950 sqft
+  - label: Type
+    value: 3-bed, 2-bath
   - label: Total Renovation Cost
     value: RM 65,000
   - label: Design Style
