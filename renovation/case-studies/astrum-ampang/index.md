@@ -4,7 +4,7 @@ subtitle: High-Yield Studio Transformation
 category: Studio Condominium
 location: Ampang
 yield: Target RM 1,600 / month
-slug: astrum-ampang-studio
+slug: astrum-ampang
 tags:
   - High ROI Rental
   - Fluted Wood Accent
