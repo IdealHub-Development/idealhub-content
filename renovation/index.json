@@ -15,7 +15,10 @@
     ],
     "featured": true,
     "order": 1,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Arcoris",
+    "beds": 2,
+    "baths": 2
   },
   {
     "slug": "plaza-rah",
@@ -34,7 +37,10 @@
     ],
     "featured": true,
     "order": 2,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Plaza Rah",
+    "beds": 3,
+    "baths": 2
   },
   {
     "slug": "apartment-sri-kesidang-puchong",
@@ -53,7 +59,10 @@
     ],
     "featured": true,
     "order": 3,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Sri Kesidang",
+    "beds": 2,
+    "baths": 1
   },
   {
     "slug": "one-equine",
@@ -72,7 +81,10 @@
     ],
     "featured": true,
     "order": 4,
-    "status": "published"
+    "status": "published",
+    "buildingName": "One Equine",
+    "beds": 3,
+    "baths": 2
   },
   {
     "slug": "sunway-belfield",
@@ -91,6 +103,9 @@
     ],
     "featured": true,
     "order": 5,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Sunway Belfield",
+    "beds": 3,
+    "baths": 3
   }
 ]
