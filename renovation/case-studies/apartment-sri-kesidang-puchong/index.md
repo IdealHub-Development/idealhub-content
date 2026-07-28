@@ -27,14 +27,16 @@ excerpt: >-
 gallery:
   - label: Living Room
     large: true
-    file: living-room.jpg
+    file: living-room.webp
   - label: Kitchen
     large: true
-    file: kitchen.jpg
+    file: kitchen.webp
   - label: Master Bedroom
-    file: master-bedroom.jpg
+    file: master-bedroom.webp
   - label: Second Bedroom
-    file: second-bedroom.jpg
+    file: second-bedroom.webp
+    beforeFile: beforefile.webp
+    afterfile: afterfile.webp
 ---
 
 ### The Project Story

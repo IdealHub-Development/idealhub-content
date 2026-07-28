@@ -22,14 +22,14 @@ excerpt: >-
 gallery:
   - label: Living & Dining Area
     large: true
-    file: living-room.jpg
+    file: living-room.webp
   - label: Kitchen Area
     large: true
-    file: kitchen.jpg
+    file: kitchen.webp
   - label: Master Bedroom
-    file: master-bedroom.jpg
+    file: master-bedroom.webp
   - label: Bathroom
-    file: bathroom.jpg
+    file: bathroom.webp
 ---
 
 ### The Project Story
