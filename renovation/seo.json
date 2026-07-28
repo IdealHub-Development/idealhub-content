@@ -24,22 +24,120 @@
       "https://www.linkedin.com/company/idealhub"
     ],
     "priceRange": "RM 15k - 70k",
-    "description": "Tech-driven turnkey renovation contractor serving Klang Valley, Kuala Lumpur, and Selangor. We engineer apartment and condo interiors to rent faster and at higher yields \u2014 RM 15k to RM 70k budgets."
+    "areaServed": {
+      "@type": "City",
+      "name": "Klang Valley"
+    },
+    "description": "Tech-driven turnkey renovation contractor serving Klang Valley, Kuala Lumpur, and Selangor. We engineer apartment and condo interiors to rent faster and at higher yields — RM 15k to RM 70k budgets."
+  },
+  "servicePage": {
+    "@context": "https://schema.org",
+    "@type": "Service",
+    "name": "Turnkey Renovation Service",
+    "provider": {
+      "@type": "LocalBusiness",
+      "name": "IdealHub"
+    },
+    "serviceType": "Residential Renovation & Refurbishment",
+    "areaServed": {
+      "@type": "City",
+      "name": "Klang Valley"
+    },
+    "description": "End-to-end turnkey renovation for condominiums, apartments, serviced residences, and landed homes in Klang Valley. Includes custom carpentry, premium painting, M&E, soft furnishing, and rental-ready handover.",
+    "offers": {
+      "@type": "Offer",
+      "priceSpecification": {
+        "@type": "PriceSpecification",
+        "minPrice": 15000,
+        "maxPrice": 70000,
+        "priceCurrency": "MYR"
+      }
+    }
   },
   "renovation": {
-    "title": "Turnkey Renovation Service in Klang Valley & Kuala Lumpur \u2014 High-Yield Rental Interiors | IdealHub",
+    "title": "Turnkey Renovation Service in Klang Valley & Kuala Lumpur — High-Yield Rental Interiors | IdealHub",
     "description": "IdealHub is a Klang Valley renovation contractor specializing in turnkey apartment and condo refurbishment for landlords. 500+ high-yield rental transformations across Kuala Lumpur, Puchong, Ampang, Cyberjaya, and Sungai Long. Get an instant renovation quote."
   },
   "quote": {
-    "title": "Request a Quote \u2014 Turnkey Renovation | IdealHub",
-    "description": "Fill out our renovation quotation form and get a customised estimate for your property."
+    "title": "Request a Quote — Turnkey Renovation | IdealHub",
+    "description": "Fill out our renovation quotation form and get a customised estimate for your property in Klang Valley, Kuala Lumpur, or Selangor."
   },
   "gallery": {
-    "title": "Renovation Portfolio \u2014 Before & After Transformations | IdealHub",
+    "title": "Renovation Portfolio — Before & After Transformations | IdealHub",
     "description": "Browse real high-yield rental renovation projects across Klang Valley and Kuala Lumpur. See before-and-after transformations in Puchong, Ampang, Cyberjaya, Sungai Long, Kampung Baru, and Seri Kembangan."
   },
   "faq": {
-    "title": "Renovation FAQ \u2014 Pricing, Process & What to Expect | IdealHub",
-    "description": "Find answers to common questions about our renovation process, pricing, timelines, and more."
+    "title": "Renovation FAQ — Pricing, Process & What to Expect | IdealHub",
+    "description": "Find answers to common questions about our Klang Valley renovation process, pricing, timelines, and more. Turnkey renovation for apartments, condos, and landed homes.",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "What renovation package is right for me?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We offer three service categories: Essential Rental Setup (lights, fans, aircon, curtains), Minor Renovation & Refresh (painting, repairs, upgrades), and Complete Renovation (space planning, built-in carpentry, furniture, appliances)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What types of properties do you renovate?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "We primarily renovate residential properties including serviced apartments, condominiums, landed homes, SOHO units, and studio apartments across Klang Valley."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How long will my renovation take?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Essential Rental Setup takes from 2 weeks, Minor Renovation & Refresh from 2 weeks, and Complete Renovation from 1 month onwards. We provide a project timeline before work begins."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Can you work within my budget?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Yes. Share your preferred budget and we will recommend the most suitable package and prioritise the works that matter most. Budgets range from RM 15,000 to RM 70,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What is the renovation process?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Our process is simple: (1) Share your requirements via floor plan, photos, and budget. (2) We prepare the quotation. (3) We renovate and hand over with progress updates throughout."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What does a Complete Renovation include?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "A Complete Renovation includes space planning and design, electrical, plumbing, lighting, and painting works, ceiling and feature-wall works, custom carpentry (kitchen cabinets, wardrobes, TV consoles), furniture, curtains, bathroom accessories, and optional appliances."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "What warranty do you provide?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "All renovation works come with a 3-month workmanship warranty. Materials and appliances are covered by their respective manufacturer warranties."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "How do I get a renovation quotation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Send us your floor plan, photos or videos of the unit, and a brief description of what you need. Include your budget and target completion date, and we will prepare a clear quotation based on the agreed scope."
+          }
+        }
+      ]
+    }
   }
 }
