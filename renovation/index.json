@@ -1,182 +1,211 @@
-[
-  {
-    "slug": "mont-kiara",
-    "title": "Mont Kiara Modern Condominium",
-    "category": "Modern Condominium",
-    "location": "Mont Kiara",
-    "yield": "+14%",
-    "cost": "$45,000",
-    "datePublished": "2026-07-20",
-    "excerpt": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
-    "tags": ["Scandinavian", "Expat Market"],
-    "featured": true,
-    "order": 1,
-    "status": "published",
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Mont Kiara Modern Condominium Makeover — Scandinavian Renovation for Expat Rentals",
-      "description": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market. RM 45,000 budget, +14% rental yield uplift.",
-      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
+{
+  "organization": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
+    "name": "IdealHub",
+    "legalName": "Terasquad Technologies Sdn. Bhd.",
+    "url": "https://rental.idealhub.duckdns.org",
+    "email": "ask@idealhub.com",
+    "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+    },
+    "address": {
+      "@type": "PostalAddress",
+      "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+      "addressLocality": "Kuala Lumpur",
+      "postalCode": "57000",
+      "addressCountry": "MY"
+    },
+    "sameAs": [
+      "https://www.facebook.com/IdealHub.co/",
+      "https://www.instagram.com/idealhub.co/",
+      "https://www.linkedin.com/company/idealhub"
+    ],
+    "priceRange": "RM 15k - 70k",
+    "description": "Tech-driven turnkey renovation for Malaysian landlords — we engineer spaces to rent faster and at higher yields."
+  },
+  "caseStudies": [
+    {
+      "slug": "mont-kiara",
+      "title": "Mont Kiara Modern Condominium",
+      "category": "Modern Condominium",
+      "location": "Mont Kiara",
+      "yield": "+14%",
+      "cost": "$45,000",
       "datePublished": "2026-07-20",
-      "author": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "url": "https://rental.idealhub.duckdns.org"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      "excerpt": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market.",
+      "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
+      "tags": ["Scandinavian", "Expat Market"],
+      "featured": true,
+      "order": 1,
+      "status": "published",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Mont Kiara Modern Condominium Makeover — Scandinavian Renovation for Expat Rentals",
+        "description": "A spacious condominium in Mont Kiara reimagined with Scandinavian design, optimised layout, and premium finishes for the expat rental market. RM 45,000 budget, +14% rental yield uplift.",
+        "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/mont-kiara/images/thumbnail.png",
+        "datePublished": "2026-07-20",
+        "author": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "url": "https://rental.idealhub.duckdns.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+          }
         }
       }
-    }
-  },
-  {
-    "slug": "plaza-rah",
-    "title": "Plaza Rah Modern Refurbishment",
-    "category": "Serviced Apartment",
-    "location": "Kampung Baru, Kuala Lumpur",
-    "yield": "N/A (Own Stay)",
-    "cost": "RM 33,000",
-    "datePublished": "2026-07-27",
-    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur — creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/plaza-rah/images/after.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Own Stay"],
-    "featured": true,
-    "order": 2,
-    "status": "published",
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Plaza Rah Apartment Refurbishment — Modern Contemporary Renovation in Kampung Baru, KL",
-      "description": "A complete cosmetic and functional refurbishment of a Plaza Rah serviced apartment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, featuring acoustic wall panels, kitchen cabinetry, and bathroom tile resurfacing.",
-      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/plaza-rah/images/after.webp",
+    },
+    {
+      "slug": "plaza-rah",
+      "title": "Plaza Rah Modern Refurbishment",
+      "category": "Serviced Apartment",
+      "location": "Kampung Baru, Kuala Lumpur",
+      "yield": "N/A (Own Stay)",
+      "cost": "RM 33,000",
       "datePublished": "2026-07-27",
-      "author": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "url": "https://rental.idealhub.duckdns.org"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur — creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
+      "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/plaza-rah/images/after.webp",
+      "tags": ["Modern Contemporary", "Refurbishment", "Own Stay"],
+      "featured": true,
+      "order": 2,
+      "status": "published",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Plaza Rah Apartment Refurbishment — Modern Contemporary Renovation in Kampung Baru, KL",
+        "description": "A complete cosmetic and functional refurbishment of a Plaza Rah serviced apartment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, featuring acoustic wall panels, kitchen cabinetry, and bathroom tile resurfacing.",
+        "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/plaza-rah/images/after.webp",
+        "datePublished": "2026-07-27",
+        "author": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "url": "https://rental.idealhub.duckdns.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+          }
         }
       }
-    }
-  },
-  {
-    "slug": "apartment-sri-kesidang-puchong",
-    "title": "Sri Kesidang Apartment Transformation",
-    "category": "Apartment",
-    "location": "Puchong, Selangor",
-    "yield": "Premium Rental Yield",
-    "cost": "RM 16,000",
-    "datePublished": "2026-07-27",
-    "excerpt": "A targeted refurbishment of a 4th-floor walk-up unit at Sri Kesidang, overcoming logistics challenges to create a clean, modern, and high-yield rental space.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Rental Investment"],
-    "featured": true,
-    "order": 3,
-    "status": "published",
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Sri Kesidang Walk-Up Apartment Refurbishment — High-Yield Rental Renovation in Puchong",
-      "description": "A 4th-floor walk-up apartment refurbishment at Sri Kesidang, Puchong. RM 16,000 budget, 1-month turnaround, achieving RM 1,200 monthly rent — a 33% premium over market rate.",
-      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
+    },
+    {
+      "slug": "apartment-sri-kesidang-puchong",
+      "title": "Sri Kesidang Apartment Transformation",
+      "category": "Apartment",
+      "location": "Puchong, Selangor",
+      "yield": "Premium Rental Yield",
+      "cost": "RM 16,000",
       "datePublished": "2026-07-27",
-      "author": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "url": "https://rental.idealhub.duckdns.org"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      "excerpt": "A targeted refurbishment of a 4th-floor walk-up unit at Sri Kesidang, overcoming logistics challenges to create a clean, modern, and high-yield rental space.",
+      "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
+      "tags": ["Modern Contemporary", "Refurbishment", "Rental Investment"],
+      "featured": true,
+      "order": 3,
+      "status": "published",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sri Kesidang Walk-Up Apartment Refurbishment — High-Yield Rental Renovation in Puchong",
+        "description": "A 4th-floor walk-up apartment refurbishment at Sri Kesidang, Puchong. RM 16,000 budget, 1-month turnaround, achieving RM 1,200 monthly rent — a 33% premium over market rate.",
+        "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
+        "datePublished": "2026-07-27",
+        "author": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "url": "https://rental.idealhub.duckdns.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+          }
         }
       }
-    }
-  },
-  {
-    "slug": "one-equine",
-    "title": "One Equine Modern Refurbishment",
-    "category": "Serviced Apartment",
-    "location": "Seri Kembangan, Selangor",
-    "yield": "N/A (Own Stay)",
-    "cost": "RM 35,000",
-    "datePublished": "2026-07-28",
-    "excerpt": "A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.webp",
-    "tags": ["Modern Contemporary", "Refurbishment", "Fully Furnished"],
-    "featured": true,
-    "order": 4,
-    "status": "published",
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "One Equine Serviced Apartment Refurbishment — Fully Furnished Renovation in Seri Kembangan",
-      "description": "A complete transformation of a One Equine serviced apartment in Seri Kembangan, Selangor. RM 35,000 budget, 1-month turnaround, featuring custom kitchen cabinetry, full air-conditioning, and modern furnishings.",
-      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.webp",
+    },
+    {
+      "slug": "one-equine",
+      "title": "One Equine Modern Refurbishment",
+      "category": "Serviced Apartment",
+      "location": "Seri Kembangan, Selangor",
+      "yield": "N/A (Own Stay)",
+      "cost": "RM 35,000",
       "datePublished": "2026-07-28",
-      "author": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "url": "https://rental.idealhub.duckdns.org"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      "excerpt": "A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.",
+      "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.webp",
+      "tags": ["Modern Contemporary", "Refurbishment", "Fully Furnished"],
+      "featured": true,
+      "order": 4,
+      "status": "published",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "One Equine Serviced Apartment Refurbishment — Fully Furnished Renovation in Seri Kembangan",
+        "description": "A complete transformation of a One Equine serviced apartment in Seri Kembangan, Selangor. RM 35,000 budget, 1-month turnaround, featuring custom kitchen cabinetry, full air-conditioning, and modern furnishings.",
+        "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.webp",
+        "datePublished": "2026-07-28",
+        "author": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "url": "https://rental.idealhub.duckdns.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+          }
         }
       }
-    }
-  },
-  {
-    "slug": "sunway-belfield",
-    "title": "Sunway Belfield Modern Furnishing & Styling",
-    "category": "Serviced Apartment",
-    "location": "Kuala Lumpur",
-    "yield": "Premium Rental Yield",
-    "cost": "RM 35,000",
-    "datePublished": "2026-07-28",
-    "excerpt": "A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
-    "tags": ["Modern Japandi", "Soft Furnishing", "Rental Investment"],
-    "featured": true,
-    "order": 5,
-    "status": "published",
-    "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "Article",
-      "headline": "Sunway Belfield Soft Furnishing & Styling — Japandi-Inspired Turnkey Renovation in KL",
-      "description": "A complete soft furnishing and Japandi-inspired styling project at Sunway Belfield, Kuala Lumpur. 1,150 sqft, RM 35,000 budget, 1.5-month turnaround, turning a hard-to-rent unit into a premium rental asset.",
-      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
+    },
+    {
+      "slug": "sunway-belfield",
+      "title": "Sunway Belfield Modern Furnishing & Styling",
+      "category": "Serviced Apartment",
+      "location": "Kuala Lumpur",
+      "yield": "Premium Rental Yield",
+      "cost": "RM 35,000",
       "datePublished": "2026-07-28",
-      "author": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "url": "https://rental.idealhub.duckdns.org"
-      },
-      "publisher": {
-        "@type": "Organization",
-        "name": "IdealHub",
-        "logo": {
-          "@type": "ImageObject",
-          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      "excerpt": "A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.",
+      "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
+      "tags": ["Modern Japandi", "Soft Furnishing", "Rental Investment"],
+      "featured": true,
+      "order": 5,
+      "status": "published",
+      "structuredData": {
+        "@context": "https://schema.org",
+        "@type": "Article",
+        "headline": "Sunway Belfield Soft Furnishing & Styling — Japandi-Inspired Turnkey Renovation in KL",
+        "description": "A complete soft furnishing and Japandi-inspired styling project at Sunway Belfield, Kuala Lumpur. 1,150 sqft, RM 35,000 budget, 1.5-month turnaround, turning a hard-to-rent unit into a premium rental asset.",
+        "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sunway-belfield/images/living-room.webp",
+        "datePublished": "2026-07-28",
+        "author": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "url": "https://rental.idealhub.duckdns.org"
+        },
+        "publisher": {
+          "@type": "Organization",
+          "name": "IdealHub",
+          "logo": {
+            "@type": "ImageObject",
+            "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+          }
         }
       }
     }
-  }
-]
+  ]
+}

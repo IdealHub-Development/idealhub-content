@@ -1,22 +1,30 @@
 {
-  "organization": {
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "LocalBusiness",
     "name": "IdealHub",
     "legalName": "Terasquad Technologies Sdn. Bhd.",
     "url": "https://rental.idealhub.duckdns.org",
     "email": "ask@idealhub.com",
-    "telephone": "",
+    "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+    },
     "address": {
+      "@type": "PostalAddress",
       "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
       "addressLocality": "Kuala Lumpur",
       "postalCode": "57000",
       "addressCountry": "MY"
     },
-    "logo": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
     "sameAs": [
       "https://www.facebook.com/IdealHub.co/",
       "https://www.instagram.com/idealhub.co/",
       "https://www.linkedin.com/company/idealhub"
-    ]
+    ],
+    "priceRange": "RM 15k - 70k",
+    "description": "Tech-driven turnkey renovation for Malaysian landlords — we engineer spaces to rent faster and at higher yields."
   },
   "renovation": {
     "title": "IdealHub — Tech-Driven Turnkey Renovation for Malaysian Landlords",
