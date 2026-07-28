@@ -43,16 +43,16 @@
   },
   {
     "slug": "one-equine",
-    "title": "One Equine",
-    "category": "Condominium",
-    "location": "",
-    "yield": "",
-    "cost": "",
-    "excerpt": "",
+    "title": "One Equine Modern Refurbishment",
+    "category": "Serviced Apartment",
+    "location": "Seri Kembangan, Selangor",
+    "yield": "N/A (Own Stay)",
+    "cost": "RM 35,000",
+    "excerpt": "A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/one-equine/images/living-room.jpg",
-    "tags": [],
-    "featured": false,
+    "tags": ["Modern Contemporary", "Refurbishment", "Fully Furnished"],
+    "featured": true,
     "order": 4,
-    "status": "draft"
+    "status": "published"
   }
 ]

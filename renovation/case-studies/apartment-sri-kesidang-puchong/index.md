@@ -27,30 +27,20 @@ excerpt: >-
 gallery:
   - label: Living Room
     large: true
+    file: living-room.jpg
   - label: Kitchen
     large: true
+    file: kitchen.jpg
   - label: Master Bedroom
+    file: master-bedroom.jpg
   - label: Second Bedroom
+    file: second-bedroom.jpg
 ---
 
 ### The Project Story
 
-Located in the established neighborhood of Puchong, this unit at Apartment Sri Kesidang underwent a swift and targeted refurbishment. Situated on the 4th floor of a walk-up building, the project required careful logistics to clear out old materials and haul in new fittings, transforming a dated property into an attractive, move-in-ready space designed to maximize market value.
+Located in Puchong, Selangor, this 4th-floor walk-up apartment at Sri Kesidang underwent a complete modern refurbishment tailored for the rental market. Managing logistics was a key priority; our team manually hauled away all old furniture, outdated fixtures, and debris down four flights of stairs to create a clean slate.
 
-### The Challenge
+Executed within a strict 1-month timeline and an efficient RM 16,000 budget, the project focused on high-impact upgrades without overcapitalizing. We installed warm wood-look vinyl flooring in the bedrooms, applied a fresh neutral paint coat to all walls, doors, and window grills, and updated the lighting with sleek matte-black ceiling fans and track spotlights. To improve functionality, the kitchen was expanded with new matching wall cabinets and durable countertops.
 
-As a 4th-floor walk-up apartment, handling logistics and material transport was a primary hurdle alongside the property's dated interior. Featuring worn surfaces, basic lighting, limited kitchen storage, and leftover bulky furniture, the unit struggled to compete in the local market. The owner aimed to significantly boost rental yield without overcapitalizing, setting a tight budget of RM 16,000 and demanding a rapid 1-month execution timeline to minimize vacancy.
-
-### Our Approach
-
-We adopted a **Modern Minimalist strategy with bright neutrals**, prioritizing high-impact upgrades to refresh the entire ambiance efficiently:
-
-- **Site clearing & 4th-floor logistics**: Managed the manual haul-down and proper disposal of all old, worn furniture, clearing the slate for efficient renovation work.
-- **Warm wood-look flooring**: Upgraded the bedroom flooring with warm oak-tone vinyl planks, instantly introducing cozy texture and a contemporary feel.
-- **Lighting and ceiling upgrades**: Replaced basic fixtures with modern matte-black ceiling fans and track spotlights in key areas, giving the living and bedroom spaces a stylish architectural accent and balanced lighting.
-- **Kitchen cabinet expansion**: Added continuous overhead wall cabinets matching the lower units to maximize storage space, creating a clean, streamlined kitchen layout complete with durable countertops and an integrated sink area.
-- **Full repainting & surface refresh**: Applied a fresh, light neutral coat of paint to all walls, doors, and window grills, brightening up the entire unit and creating a crisp, clean finish.
-
-### The Result
-
-Completed strictly within the 1-month timeline and right on the RM 16,000 budget despite the walk-up access, the transformation yielded immediate results. The revitalized apartment was rented out within just 1 month at **RM 1,200 per month**—a **33% premium over the area's RM 900 market rate**.
+The transformation turned a dated unit into an attractive, turnkey home. Within just one month of completion, the property was successfully rented out at RM 1,200 per month—achieving a remarkable 33% premium over the local RM 900 market average and delivering high-yield performance for the owner.
