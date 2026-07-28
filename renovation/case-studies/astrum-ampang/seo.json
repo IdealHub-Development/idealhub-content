@@ -1,0 +1,14 @@
+{
+  "title": "Astrum Ampang — Renovation Case Study | IdealHub",
+  "description": "Browse our Astrum Ampang renovation case study in Ampang. Details coming soon.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Astrum Ampang — Renovation Case Study",
+    "description": "A renovation case study at Astrum Ampang. Details coming soon.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/living-room.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

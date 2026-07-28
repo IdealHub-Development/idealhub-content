@@ -144,5 +144,20 @@
     "featured": true,
     "order": 7,
     "status": "published"
+  },
+  {
+    "slug": "astrum-ampang",
+    "title": "Astrum Ampang",
+    "category": "",
+    "location": "Ampang",
+    "yield": "",
+    "cost": "",
+    "datePublished": "2026-07-28",
+    "excerpt": "",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/astrum-ampang/images/living-room.webp",
+    "tags": [],
+    "featured": false,
+    "order": 8,
+    "status": "draft"
   }
 ]
