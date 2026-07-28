@@ -192,6 +192,9 @@
     ],
     "featured": true,
     "order": 8,
-    "status": "published"
+    "status": "published",
+    "buildingName": "Astrum Ampang",
+    "beds": 1,
+    "baths": 1
   }
 ]
