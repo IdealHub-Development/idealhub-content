@@ -17,7 +17,7 @@ stats:
   - label: Total Renovation Cost
     value: RM 35,000
   - label: Renovation Period
-    value: 1 Month
+    value: 1.5 Month
     highlight: true
 excerpt: >-
   A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.
