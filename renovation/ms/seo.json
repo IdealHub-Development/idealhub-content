@@ -1,0 +1,143 @@
+{
+  "renovation": {
+    "title": "Perkhidmatan Pengubahsuaian Turnkey di Lembah Klang & Kuala Lumpur — Dalaman Sewaan Hasil Tinggi | IdealHub",
+    "description": "IdealHub ialah kontraktor pengubahsuaian Lembah Klang yang mengkhusus dalam pengubahsuaian pangsapuri dan kondo turnkey untuk tuan rumah. 500+ transformasi sewaan hasil tinggi di seluruh Kuala Lumpur, Puchong, Ampang, Cyberjaya, dan Sungai Long. Dapatkan sebut harga pengubahsuaian segera.",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://rental.idealhub.duckdns.org",
+      "email": "ask@idealhub.com",
+      "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "priceRange": "RM 15k - 70k",
+      "areaServed": {
+        "@type": "City",
+        "name": "Lembah Klang"
+      },
+      "description": "Kontraktor pengubahsuaian turnkey dipacu teknologi yang berkhidmat di Lembah Klang, Kuala Lumpur, dan Selangor. Kami merekayasa dalaman pangsapuri dan kondo untuk disewa dengan lebih pantas dan pada hasil yang lebih tinggi — bajet RM 15k hingga RM 70k."
+    },
+    "servicePage": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Perkhidmatan Pengubahsuaian Turnkey",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Pengubahsuaian & Pembaikan Kediaman",
+      "areaServed": {
+        "@type": "City",
+        "name": "Lembah Klang"
+      },
+      "description": "Pengubahsuaian turnkey hujung-ke-hujung untuk kondominium, pangsapuri, kediaman servis, dan rumah bertanah di Lembah Klang. Termasuk pertukangan kayu tersuai, pengecatan premium, M&E, perabot lembut, dan penyerahan siap sedia untuk disewa.",
+      "offers": {
+        "@type": "Offer",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 15000,
+          "maxPrice": 70000,
+          "priceCurrency": "MYR"
+        }
+      }
+    }
+  },
+  "quote": {
+    "title": "Minta Sebut Harga — Pengubahsuaian Turnkey | IdealHub",
+    "description": "Isi borang sebut harga pengubahsuaian kami dan dapatkan anggaran tersuai untuk hartanah anda di Lembah Klang, Kuala Lumpur, atau Selangor."
+  },
+  "gallery": {
+    "title": "Portfolio Pengubahsuaian — Transformasi Sebelum & Selepas | IdealHub",
+    "description": "Lihat projek pengubahsuaian sewaan hasil tinggi sebenar di seluruh Lembah Klang dan Kuala Lumpur. Lihat transformasi sebelum-dan-selepas di Puchong, Ampang, Cyberjaya, Sungai Long, Kampung Baru, dan Seri Kembangan."
+  },
+  "faq": {
+    "title": "Soalan Lazim Pengubahsuaian — Harga, Proses & Apa yang Dijangkakan | IdealHub",
+    "description": "Cari jawapan kepada soalan lazim tentang proses pengubahsuaian, harga, garis masa, dan banyak lagi di Lembah Klang. Pengubahsuaian turnkey untuk pangsapuri, kondo, dan rumah bertanah.",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "Pakej pengubahsuaian manakah yang sesuai untuk saya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kami menawarkan tiga kategori perkhidmatan: Essential Rental Setup (lampu, kipas, penghawa dingin, langsir), Minor Renovation & Refresh (pengecatan, pembaikan, peningkatan), dan Complete Renovation (perancangan ruang, pertukangan kayu terbina dalam, perabot, peralatan)."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah jenis hartanah yang anda ubah suai?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Kami terutamanya mengubah suai hartanah kediaman termasuk pangsapuri servis, kondominium, rumah bertanah, unit SOHO, dan pangsapuri studio di seluruh Lembah Klang."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Berapa lamakah pengubahsuaian saya akan mengambil masa?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Essential Rental Setup mengambil masa dari 2 minggu, Minor Renovation & Refresh dari 2 minggu, dan Complete Renovation dari 1 bulan ke atas. Kami menyediakan garis masa projek sebelum kerja bermula."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bolehkah anda bekerja mengikut bajet saya?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Ya. Kongsikan bajet pilihan anda dan kami akan mengesyorkan pakej yang paling sesuai serta mengutamakan kerja yang paling penting. Bajet berkisar dari RM 15,000 hingga RM 70,000."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah proses pengubahsuaian?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Proses kami mudah: (1) Kongsikan keperluan anda melalui pelan lantai, foto, dan bajet. (2) Kami menyediakan sebut harga. (3) Kami mengubah suai dan menyerahkan dengan kemas kini kemajuan sepanjang proses."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah yang termasuk dalam Complete Renovation?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Complete Renovation merangkumi perancangan dan reka bentuk ruang, kerja elektrik, paip, pencahayaan, dan pengecatan, kerja siling dan dinding ciri, pertukangan kayu tersuai (kabinet dapur, almari pakaian, konsol TV), perabot, langsir, aksesori bilik mandi, dan peralatan pilihan."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Apakah jaminan yang anda berikan?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Semua kerja pengubahsuaian disertakan dengan jaminan mutu kerja 3 bulan. Bahan dan peralatan dilindungi oleh jaminan pengeluar masing-masing."
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Bagaimanakah cara mendapatkan sebut harga pengubahsuaian?",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Hantarkan pelan lantai, foto atau video unit anda, dan penerangan ringkas tentang apa yang anda perlukan. Sertakan bajet dan tarikh siap sasaran anda, dan kami akan menyediakan sebut harga yang jelas berdasarkan skop yang dipersetujui."
+          }
+        }
+      ]
+    }
+  }
+}

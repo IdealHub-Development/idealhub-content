@@ -1,0 +1,14 @@
+{
+  "title": "Alstonia Residence Sanctuary — Pembaikan Kondominium Moden di Sungai Long | IdealHub",
+  "description": "Lihat pengubahsuaian Alstonia Residence kami — kediaman keluarga 1,469 kps di Sungai Long direka semula dengan penggayaan kehangatan moden, kabinet biru telur itik yang lembut, dan perincian berjalur walnut mewah. Bajet RM 67,200.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Alstonia Residence Sanctuary — Pembaikan Kondominium Keluarga Moden di Sungai Long",
+    "description": "Sebuah kondominium 1,469 kps 3-bilik, 2-bilik mandi di Alstonia Residence, Sungai Long yang diubah suai dengan bajet RM 67,200. Menampilkan kabinet dapur biru telur itik yang lembut, panel dinding berjalur walnut gelap, almari pakaian lantai-ke-siling tersuai, dan dalaman bertekstur hangat moden yang direka untuk kehidupan keluarga.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/alstonia-sg-long/images/after.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}
