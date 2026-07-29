@@ -1,0 +1,143 @@
+{
+  "renovation": {
+    "title": "巴生谷与吉隆坡一站式装修服务 — 高收益租赁室内设计 | IdealHub",
+    "description": "IdealHub 是巴生谷装修承包商，专注于为房东提供一站式公寓和共管公寓翻新服务。在吉隆坡、蒲种、安邦、赛城和双溪龙完成了500+个高收益租赁改造项目。立即获取装修报价。",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://rental.idealhub.duckdns.org",
+      "email": "ask@idealhub.com",
+      "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "priceRange": "RM 15k - 70k",
+      "areaServed": {
+        "@type": "City",
+        "name": "巴生谷"
+      },
+      "description": "技术驱动的一站式装修承包商，服务于巴生谷、吉隆坡和雪兰莪。我们精心设计公寓和共管公寓室内空间，使其更快出租并获得更高收益 — 预算 RM 15k 至 RM 70k。"
+    },
+    "servicePage": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "一站式装修服务",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "住宅装修与翻新",
+      "areaServed": {
+        "@type": "City",
+        "name": "巴生谷"
+      },
+      "description": "为巴生谷的共管公寓、公寓、服务式住宅和排屋提供端到端一站式装修服务。包括定制木工、优质油漆、机电工程、软装家具和租赁就绪交房。",
+      "offers": {
+        "@type": "Offer",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 15000,
+          "maxPrice": 70000,
+          "priceCurrency": "MYR"
+        }
+      }
+    }
+  },
+  "quote": {
+    "title": "索取报价 — 一站式装修 | IdealHub",
+    "description": "填写我们的装修报价表，获取针对您在巴生谷、吉隆坡或雪兰莪的房产的定制估算。"
+  },
+  "gallery": {
+    "title": "装修案例 — 前后对比改造 | IdealHub",
+    "description": "浏览巴生谷和吉隆坡真实的高收益租赁装修项目。查看蒲种、安邦、赛城、双溪龙、甘榜巴鲁和斯里肯邦安的前后对比改造效果。"
+  },
+  "faq": {
+    "title": "装修常见问题 — 价格、流程与预期 | IdealHub",
+    "description": "查找关于我们在巴生谷的装修流程、价格、时间表等常见问题的答案。为公寓、共管公寓和排屋提供一站式装修服务。",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "FAQPage",
+      "mainEntity": [
+        {
+          "@type": "Question",
+          "name": "哪种装修套餐适合我？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我们提供三种服务类别：Essential Rental Setup（灯具、风扇、空调、窗帘）、Minor Renovation & Refresh（油漆、维修、升级）和 Complete Renovation（空间规划、定制木工、家具、电器）。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们装修哪些类型的房产？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我们主要装修住宅物业，包括服务式公寓、共管公寓、排屋、SOHO单元和单间公寓，覆盖巴生谷地区。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "装修需要多长时间？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Essential Rental Setup 大约需要 2 周，Minor Renovation & Refresh 大约 2 周，Complete Renovation 从 1 个月起。我们会在开工前提供项目时间表。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们能按我的预算施工吗？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "可以的。分享您的预算偏好，我们将推荐最适合的套餐并优先处理最重要的工作。预算范围从 RM 15,000 到 RM 70,000。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "装修流程是怎样的？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "我们的流程很简单：(1) 通过平面图、照片和预算分享您的需求。(2) 我们准备报价单。(3) 我们进行装修并在整个过程中提供进度更新后交房。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "Complete Renovation 包含哪些内容？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "Complete Renovation 包括空间规划与设计、电气、管道、照明和油漆工程、天花板和特色墙工程、定制木工（厨房橱柜、衣柜、电视柜）、家具、窗帘、浴室配件和可选的电器。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "你们提供什么保修？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "所有装修工程均附带 3 个月的工艺保修。材料和电器由其各自的制造商保修覆盖。"
+          }
+        },
+        {
+          "@type": "Question",
+          "name": "如何获取装修报价？",
+          "acceptedAnswer": {
+            "@type": "Answer",
+            "text": "请发送您的平面图、单元照片或视频，以及您需求的简要说明。包括您的预算和目标完工日期，我们将根据商定的范围准备清晰的报价单。"
+          }
+        }
+      ]
+    }
+  }
+}
