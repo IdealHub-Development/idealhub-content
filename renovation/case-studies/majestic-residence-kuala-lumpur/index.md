@@ -12,7 +12,7 @@ tags:
   - 1-bed, 1-bath
 stats:
   - label: Property Context
-    value: 459 sqft 1-Bed 1-Bath
+    value: 459 sqft
   - label: Total Renovation Cost
     value: RM 67,200
   - label: Target Market

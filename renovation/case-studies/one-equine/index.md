@@ -12,7 +12,7 @@ tags:
   - 2-bed, 1-bath
 stats:
   - label: Property Context
-    value: 800 sqft 2-bed 1-bath
+    value: 800 sqft
   - label: Total Renovation Cost
     value: RM 35,000
   - label: Renovation Period
