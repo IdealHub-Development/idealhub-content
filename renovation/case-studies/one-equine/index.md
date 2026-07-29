@@ -3,7 +3,7 @@ title: One Equine Modern Refurbishment
 subtitle: Modern Comfort & Functional Elegance
 category: Serviced Apartment
 location: Seri Kembangan, Selangor
-yield: N/A (Own Stay)
+yield: Own stay
 slug: one-equine
 tags:
   - Modern Contemporary
