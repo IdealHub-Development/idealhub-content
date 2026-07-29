@@ -19,7 +19,7 @@
     "buildingName": "Astrum Ampang",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Yield Uplift:** +15%"
+    "footerText": "Rental: **RM1,700**"
   },
   {
     "slug": "alstonia-sg-long",
@@ -42,7 +42,7 @@
     "buildingName": "Alstonia Residence",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "majestic-residence-kuala-lumpur",
@@ -52,7 +52,7 @@
     "cost": "RM 67,200",
     "datePublished": "2026-07-28",
     "excerpt": "A compact 459 sqft 1-bedroom unit at Majestic Residence transformed into a premium, warm-toned urban rental featuring smart built-in workspaces and elegant living areas.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/majestic-residence/images/living-rooom.webp",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/majestic-residence-kuala-lumpur/images/living-rooom.webp",
     "tags": [
       "Modern Urban",
       "Warm Earth Tones",
@@ -64,7 +64,7 @@
     "buildingName": "Majestic Residence",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Yield Uplift:** +20%"
+    "footerText": "Yield Uplift: **+20%**"
   },
   {
     "slug": "sunway-belfield",
@@ -86,7 +86,7 @@
     "buildingName": "Sunway Belfield",
     "beds": 3,
     "baths": 3,
-    "footerText": "**Yield Uplift:** premium rental"
+    "footerText": "Rental: **RM5,200**"
   },
   {
     "slug": "plaza-rah",
@@ -108,7 +108,7 @@
     "buildingName": "Plaza Rah",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "apartment-sri-kesidang-puchong",
@@ -130,7 +130,7 @@
     "buildingName": "Sri Kesidang",
     "beds": 2,
     "baths": 1,
-    "footerText": "**Yield Uplift:** 33% premium"
+    "footerText": "Yield Uplift: **+15%**"
   },
   {
     "slug": "sanderling-lakefront-residence",
@@ -140,7 +140,7 @@
     "cost": "RM 65,000",
     "datePublished": "2026-07-28",
     "excerpt": "A Sanderling Lakefront Residence condominium transformed into a sophisticated, contemporary classic home featuring subtle wainscoting and rich walnut fluted accents.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sandeling-cyberjaya/images/thumbnail.webp",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/sanderling-lakefront-residence/images/thumbnail.webp",
     "tags": [
       "Contemporary Classic",
       "Wainscoting",
@@ -152,7 +152,7 @@
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "one-equine",
@@ -174,7 +174,7 @@
     "buildingName": "One Equine",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** +18%"
+    "footerText": "Rented in **1 month**"
   },
   {
     "slug": "anya-shorea-park",
@@ -193,6 +193,6 @@
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
     "baths": 1,
-    "footerText": "**Yield Uplift:** High-Yield Target"
+    "footerText": "**Own Stay**"
   }
 ]

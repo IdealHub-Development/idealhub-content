@@ -40,7 +40,6 @@ gallery:
     file: bathroom.webp
 ---
 
-## The Project Story
 
 Designed to maximize tenant appeal and long-term rental performance, this **2-bedroom, 1-bathroom** unit at **Anya @ Shorea Park, Puchong** was crafted into a warm, modern sanctuary. Completed on a tight, high-ROI budget of **RM24,000**, the project delivers a complete turnkey space—fully equipped with air conditioning in all rooms, custom built-in kitchen cabinetry, and stylish lighting fixtures.
 

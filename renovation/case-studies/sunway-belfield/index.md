@@ -11,7 +11,7 @@ tags:
   - Rental Investment
 stats:
   - label: Property Size
-    value: 1,150 sqft
+    value: 1,150 sqft 3-bed 2-bath
   - label: Property Context
     value: Serviced Apartment
   - label: Total Renovation Cost
@@ -34,7 +34,6 @@ gallery:
     file: built-in-wardrobe.webp
 ---
 
-### The Project Story
 
 To help the owner overcome significant rental listing friction, this 1,150 sqft unit at Sunway Belfield underwent a complete soft furnishing and styling transformation. Initially offered as a partially furnished space, the property struggled to attract prospective tenants in a highly competitive market where renters demand move-in convenience.
 

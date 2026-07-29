@@ -11,7 +11,7 @@ tags:
   - Fully Furnished
 stats:
   - label: Property Context
-    value: Serviced Apartment
+    value: 800 sqft 2-bed 1-bath
   - label: Total Renovation Cost
     value: RM 35,000
   - label: Renovation Period
@@ -32,7 +32,6 @@ gallery:
     file: bathroom.webp
 ---
 
-### The Project Story
 
 Situated in the heart of Seri Kembangan, this unit at One Equine underwent a comprehensive refurbishment designed to maximize both aesthetic appeal and daily comfort. Completed within a swift 1-month execution window and an efficient RM 35,000 budget, the project focused on transforming a basic layout into a fully equipped, modern living space.
 

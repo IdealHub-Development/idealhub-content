@@ -13,7 +13,7 @@ tags:
   - Studio
 stats:
   - label: Property Context
-    value: 250 sqft
+    value: 250 sqft Studio
   - label: Total Renovation Cost
     value: RM 22,000 (All-Inclusive)
   - label: Target Monthly Rental
@@ -38,7 +38,6 @@ gallery:
     file: kitchen.webp
 ---
 
-## The Project Story
 
 Designed as a high-performing investment property at **Astrum Ampang**, this **250 sqft studio condominium** was transformed into an attractive, move-in-ready rental unit targeting **RM1,600/month**. To maximize investor returns, the entire fit-out was executed within a tight **RM22,000 budget—fully inclusive of custom built-in furniture, loose items, and essential appliances.**
 

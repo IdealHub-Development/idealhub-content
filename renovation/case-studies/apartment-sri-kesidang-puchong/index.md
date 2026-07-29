@@ -11,7 +11,7 @@ tags:
   - Rental Investment
 stats:
   - label: Property Context
-    value: 4th Floor Walk-Up Apartment
+    value: 900sqft 3-bed 2-bath
   - label: Total Renovation Cost
     value: RM 16,000
   - label: Renovation Period
@@ -37,7 +37,6 @@ gallery:
     file: second-bedroom.webp
 ---
 
-### The Project Story
 
 Located in Puchong, Selangor, this 4th-floor walk-up apartment at Sri Kesidang underwent a complete modern refurbishment tailored for the rental market. Managing logistics was a key priority; our team manually hauled away all old furniture, outdated fixtures, and debris down four flights of stairs to create a clean slate.
 

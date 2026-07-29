@@ -3,7 +3,7 @@ title: Alstonia Residence Sanctuary
 subtitle: Modern Comfort Renewal
 category: Condominium
 location: Sungai Long
-yield: N/A (Own Stay)
+yield: Own Stay
 slug: alstonia-sg-long
 tags:
   - Modern Warmth
@@ -13,7 +13,7 @@ tags:
   - 4-Bedroom 3-Bathroom
 stats:
   - label: Property Context
-    value: 1,469 sqft Condominium (3 Bed, 2 Bath)
+    value: 1,469 sqft 3 Bed, 2 Bath
   - label: Total Renovation Cost
     value: RM 67,200
   - label: Design Style
@@ -43,7 +43,6 @@ gallery:
     file: living 2.webp
 ---
 
-## The Project Story
 
 Designed as a tranquil home for owner's own stay, this 1,469 sqft 3-bedroom, 2-bathroom unit at Alstonia Residence in Sungai Long was renovated on an RM67,200 budget. The focus was on tailoring the layout for daily family living while elevating the interior with clean modern textures and cozy earthy accents.
 
