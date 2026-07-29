@@ -11,7 +11,7 @@ tags:
   - Fully Furnished
 stats:
   - label: Property Context
-    value: Serviced Apartment
+    value: 800 sqft 2-bed 1-bath
   - label: Total Renovation Cost
     value: RM 35,000
   - label: Renovation Period

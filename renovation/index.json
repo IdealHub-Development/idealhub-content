@@ -19,7 +19,7 @@
     "buildingName": "Astrum Ampang",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Yield Uplift:** +15%"
+    "footerText": "Rental: **RM1,700**"
   },
   {
     "slug": "alstonia-sg-long",
@@ -42,7 +42,7 @@
     "buildingName": "Alstonia Residence",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "majestic-residence-kuala-lumpur",
@@ -64,7 +64,7 @@
     "buildingName": "Majestic Residence",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Yield Uplift:** +20%"
+    "footerText": "Yield Uplift: **+20%**"
   },
   {
     "slug": "sunway-belfield",
@@ -86,7 +86,7 @@
     "buildingName": "Sunway Belfield",
     "beds": 3,
     "baths": 3,
-    "footerText": "**Yield Uplift:** premium rental"
+    "footerText": "Rental: **RM5,200**"
   },
   {
     "slug": "plaza-rah",
@@ -108,7 +108,7 @@
     "buildingName": "Plaza Rah",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "apartment-sri-kesidang-puchong",
@@ -130,7 +130,7 @@
     "buildingName": "Sri Kesidang",
     "beds": 2,
     "baths": 1,
-    "footerText": "**Yield Uplift:** 33% premium"
+    "footerText": "Yield Uplift: **+15%**"
   },
   {
     "slug": "sanderling-lakefront-residence",
@@ -152,7 +152,7 @@
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** N/A (Own Stay)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "one-equine",
@@ -174,7 +174,7 @@
     "buildingName": "One Equine",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Yield Uplift:** +18%"
+    "footerText": "Rented in **1 month**"
   },
   {
     "slug": "anya-shorea-park",
@@ -193,6 +193,6 @@
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
     "baths": 1,
-    "footerText": "**Yield Uplift:** High-Yield Target"
+    "footerText": "**Own Stay**"
   }
 ]

@@ -3,7 +3,7 @@ title: Alstonia Residence Sanctuary
 subtitle: Modern Comfort Renewal
 category: Condominium
 location: Sungai Long
-yield: N/A (Own Stay)
+yield: Own Stay
 slug: alstonia-sg-long
 tags:
   - Modern Warmth
@@ -13,7 +13,7 @@ tags:
   - 4-Bedroom 3-Bathroom
 stats:
   - label: Property Context
-    value: 1,469 sqft Condominium (3 Bed, 2 Bath)
+    value: 1,469 sqft 3 Bed, 2 Bath
   - label: Total Renovation Cost
     value: RM 67,200
   - label: Design Style

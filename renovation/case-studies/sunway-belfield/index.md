@@ -11,7 +11,7 @@ tags:
   - Rental Investment
 stats:
   - label: Property Size
-    value: 1,150 sqft
+    value: 1,150 sqft 3-bed 2-bath
   - label: Property Context
     value: Serviced Apartment
   - label: Total Renovation Cost

@@ -11,7 +11,7 @@ tags:
   - Rental Investment
 stats:
   - label: Property Context
-    value: 4th Floor Walk-Up Apartment
+    value: 900sqft 3-bed 2-bath
   - label: Total Renovation Cost
     value: RM 16,000
   - label: Renovation Period
