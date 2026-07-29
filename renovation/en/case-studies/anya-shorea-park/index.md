@@ -9,7 +9,7 @@ tags:
   - Modern Minimalist
   - Soft Neutral Tones
   - High-Yield Investment
-  - Puchong
+  - 2-bed, 1-bath
 stats:
   - label: Property Context
     value: 2-Bedroom, 1-Bathroom Condominium

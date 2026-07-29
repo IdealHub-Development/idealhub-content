@@ -9,7 +9,6 @@ tags:
   - Modern Warmth
   - Muted Blue Accents
   - Dark Walnut
-  - Sungai Long
   - 4-Bedroom 3-Bathroom
 stats:
   - label: Property Context

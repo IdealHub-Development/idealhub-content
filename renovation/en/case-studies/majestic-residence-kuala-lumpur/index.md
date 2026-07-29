@@ -1,7 +1,7 @@
 ---
 title: Majestic Residence Urban Oasis
 subtitle: Premium Rental Transformation
-category: 1-Bedroom Condominium
+category: Condominium
 location: Kuala Lumpur
 yield: +20%
 slug: majestic-residence-kuala-lumpur
@@ -9,10 +9,10 @@ tags:
   - Modern Urban
   - Warm Earth Tones
   - Space Optimization
-  - Kuala Lumpur
+  - 1-bed, 1-bath
 stats:
   - label: Property Context
-    value: 459 sqft 1-Bed 1-Bath
+    value: 459 sqft
   - label: Total Renovation Cost
     value: RM 67,200
   - label: Target Market

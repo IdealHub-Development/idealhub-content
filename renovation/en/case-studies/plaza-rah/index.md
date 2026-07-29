@@ -9,6 +9,7 @@ tags:
   - Modern Contemporary
   - Refurbishment
   - Own Stay
+  - 3-bed, 2-bath
 stats:
   - label: Property Context
     value: Serviced Apartment
@@ -18,25 +19,29 @@ stats:
     value: 2 Months
     highlight: true
 excerpt: >-
-  A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur — creating a cozy, 
+  A targeted apartment refurbishment of a Plaza Rah unit in Kampung Baru, Kuala Lumpur — creating a cozy, 
   modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.
 beforeFile: before.webp
 afterFile: after.webp
 gallery:
   - label: Living Room
     large: true
-    alt: Dark oak fluted panel feature wall with recessed ceiling cove lighting in living room
+    alt: Modern living room interior design at Plaza Rah Kuala Lumpur featuring a dark wood fluted acoustic wall panel, plaster ceiling cove lighting, grey sofa, and sheer white curtains.
     file: living.webp
   - label: Master Bedroom
     large: true
-    alt: Elegant master bedroom with wainscoting panels, upholstered headboard, and gold accent mirror
+    alt: Contemporary master bedroom renovation in Kampung Baru with elegant wall wainscoting trim, grey upholstered bed frame, framed wall mirror, and modern ceiling fan.
     file: master-bedroom.webp
   - label: Dining Area
-    alt: Modern dining space with solid wood 6-seater table and framed wall aperture to kitchen
+    alt: Modern dining space design in Kuala Lumpur with a dark wood 6-seater dining set, black ceiling fan, and open wall cutout offering a clear view into the kitchen.
     file: dining.webp
   - label: Bathroom
-    alt: Two-tone epoxy-refinished bathroom with modern black sanitary accessories and floating vanity
+    alt: Clean bathroom makeover featuring a modern white floating sink vanity, black handheld shower fittings, and refreshed teal blue and off-white tiled walls.
     file: bathroom.webp
 ---
 
-Located in the vibrant enclave of Kampung Baru, this unit at Plaza Rah underwent a complete cosmetic and functional refurbishment to transform an aging layout into a welcoming, modern home designed for long-term owner occupancy.
+Located in the vibrant enclave of Kampung Baru, this unit at Plaza Rah underwent a complete cosmetic and functional refurbishment to transform an aging layout into a welcoming, modern home designed for long-term owner occupancy. Executed through expert condominium renovation services in Kuala Lumpur within a 2-month timeline and an accessible RM 33,000 budget, the project highlights how smart interior design can revitalize classic serviced apartments.
+
+The living area received a striking visual upgrade with a dark wood fluted feature wall paired with ambient plaster ceiling cove lighting. The adjacent dining area features an open cutout aperture that seamlessly connects the space to a fully renovated kitchen outfitted with classic dark shaker-style cabinetry, dark solid countertops, and integrated cooking appliances. 
+
+In the master bedroom, subtle wall wainscoting, soft neutral tones, and an upholstered bed frame create a refined, hotel-inspired ambiance. The bathroom was given a functional refresh with a sleek white floating sink vanity and modern matte black sanitary fixtures. This turnkey home makeover demonstrates how tailored renovation services in Kampung Baru can balance timeless elegance with everyday practicality.

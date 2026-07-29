@@ -9,7 +9,6 @@ tags:
   - High ROI Rental
   - Fluted Wood Accent
   - Compact Living
-  - Ampang
   - Studio
 stats:
   - label: Property Context

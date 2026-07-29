@@ -9,6 +9,7 @@ tags:
   - Modern Contemporary
   - Refurbishment
   - Rental Investment
+  - 3-bed, 2-bath
 stats:
   - label: Property Context
     value: 900sqft 3-bed 2-bath
