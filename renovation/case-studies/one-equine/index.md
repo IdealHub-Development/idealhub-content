@@ -32,7 +32,6 @@ gallery:
     file: bathroom.webp
 ---
 
-### The Project Story
 
 Situated in the heart of Seri Kembangan, this unit at One Equine underwent a comprehensive refurbishment designed to maximize both aesthetic appeal and daily comfort. Completed within a swift 1-month execution window and an efficient RM 35,000 budget, the project focused on transforming a basic layout into a fully equipped, modern living space.
 
