@@ -89,6 +89,25 @@
     "footerText": "Rental: **RM5,200**"
   },
   {
+    "slug": "dorsett-waterfront-subang-jaya",
+    "title": "Dorsett Waterfront Modern Haven",
+    "category": "Condominium",
+    "location": "Subang Jaya",
+    "yield": "+22%",
+    "cost": "RM 33,100",
+    "datePublished": "2026-07-29",
+    "excerpt": "A compact 527 sqft 1-bedroom unit at Dorsett Waterfront redesigned into a modern, warm, and highly attractive rental home for urban professionals.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "tags": ["Modern Urban", "Warm Wood Tones", "Earthy Neutrals"],
+    "featured": true,
+    "order": 5,
+    "status": "published",
+    "buildingName": "Dorsett Waterfront",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**Yield Uplift:** +22%"
+  },
+  {
     "slug": "plaza-rah",
     "title": "Plaza Rah Modern Refurbishment",
     "category": "Serviced Apartment",
@@ -103,7 +122,7 @@
       "Own Stay"
     ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -125,7 +144,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
@@ -147,7 +166,7 @@
       "Dark Walnut"
     ],
     "featured": true,
-    "order": 7,
+    "order": 9,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -169,7 +188,7 @@
       "Fully Furnished"
     ],
     "featured": true,
-    "order": 8,
+    "order": 10,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
@@ -188,30 +207,11 @@
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/anya-shorea-park/images/thumbnail.webp",
     "tags": ["Modern Minimalist", "Soft Neutral Tones", "High-Yield Investment"],
     "featured": true,
-    "order": 9,
+    "order": 8,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
     "baths": 1,
     "footerText": "**Own Stay**"
-  },
-  {
-    "slug": "dorsett-waterfront-subang-jaya",
-    "title": "Dorsett Waterfront Modern Haven",
-    "category": "Condominium",
-    "location": "Subang Jaya",
-    "yield": "+22%",
-    "cost": "RM 33,100",
-    "datePublished": "2026-07-29",
-    "excerpt": "A compact 527 sqft 1-bedroom unit at Dorsett Waterfront redesigned into a modern, warm, and highly attractive rental home for urban professionals.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/dorsett-waterfront/images/thumbnail.webp",
-    "tags": ["Modern Urban", "Warm Wood Tones", "Earthy Neutrals"],
-    "featured": true,
-    "order": 10,
-    "status": "published",
-    "buildingName": "Dorsett Waterfront",
-    "beds": 1,
-    "baths": 1,
-    "footerText": "**Yield Uplift:** +22%"
   }
 ]
