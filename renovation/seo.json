@@ -1,62 +1,62 @@
 {
-  "structuredData": {
-    "@context": "https://schema.org",
-    "@type": "LocalBusiness",
-    "name": "IdealHub",
-    "legalName": "Terasquad Technologies Sdn. Bhd.",
-    "url": "https://rental.idealhub.duckdns.org",
-    "email": "ask@idealhub.com",
-    "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
-    "logo": {
-      "@type": "ImageObject",
-      "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
-    },
-    "address": {
-      "@type": "PostalAddress",
-      "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
-      "addressLocality": "Kuala Lumpur",
-      "postalCode": "57000",
-      "addressCountry": "MY"
-    },
-    "sameAs": [
-      "https://www.facebook.com/IdealHub.co/",
-      "https://www.instagram.com/idealhub.co/",
-      "https://www.linkedin.com/company/idealhub"
-    ],
-    "priceRange": "RM 15k - 70k",
-    "areaServed": {
-      "@type": "City",
-      "name": "Klang Valley"
-    },
-    "description": "Tech-driven turnkey renovation contractor serving Klang Valley, Kuala Lumpur, and Selangor. We engineer apartment and condo interiors to rent faster and at higher yields — RM 15k to RM 70k budgets."
-  },
-  "servicePage": {
-    "@context": "https://schema.org",
-    "@type": "Service",
-    "name": "Turnkey Renovation Service",
-    "provider": {
-      "@type": "LocalBusiness",
-      "name": "IdealHub"
-    },
-    "serviceType": "Residential Renovation & Refurbishment",
-    "areaServed": {
-      "@type": "City",
-      "name": "Klang Valley"
-    },
-    "description": "End-to-end turnkey renovation for condominiums, apartments, serviced residences, and landed homes in Klang Valley. Includes custom carpentry, premium painting, M&E, soft furnishing, and rental-ready handover.",
-    "offers": {
-      "@type": "Offer",
-      "priceSpecification": {
-        "@type": "PriceSpecification",
-        "minPrice": 15000,
-        "maxPrice": 70000,
-        "priceCurrency": "MYR"
-      }
-    }
-  },
   "renovation": {
     "title": "Turnkey Renovation Service in Klang Valley & Kuala Lumpur — High-Yield Rental Interiors | IdealHub",
-    "description": "IdealHub is a Klang Valley renovation contractor specializing in turnkey apartment and condo refurbishment for landlords. 500+ high-yield rental transformations across Kuala Lumpur, Puchong, Ampang, Cyberjaya, and Sungai Long. Get an instant renovation quote."
+    "description": "IdealHub is a Klang Valley renovation contractor specializing in turnkey apartment and condo refurbishment for landlords. 500+ high-yield rental transformations across Kuala Lumpur, Puchong, Ampang, Cyberjaya, and Sungai Long. Get an instant renovation quote.",
+    "structuredData": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://rental.idealhub.duckdns.org",
+      "email": "ask@idealhub.com",
+      "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "priceRange": "RM 15k - 70k",
+      "areaServed": {
+        "@type": "City",
+        "name": "Klang Valley"
+      },
+      "description": "Tech-driven turnkey renovation contractor serving Klang Valley, Kuala Lumpur, and Selangor. We engineer apartment and condo interiors to rent faster and at higher yields — RM 15k to RM 70k budgets."
+    },
+    "servicePage": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Turnkey Renovation Service",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Residential Renovation & Refurbishment",
+      "areaServed": {
+        "@type": "City",
+        "name": "Klang Valley"
+      },
+      "description": "End-to-end turnkey renovation for condominiums, apartments, serviced residences, and landed homes in Klang Valley. Includes custom carpentry, premium painting, M&E, soft furnishing, and rental-ready handover.",
+      "offers": {
+        "@type": "Offer",
+        "priceSpecification": {
+          "@type": "PriceSpecification",
+          "minPrice": 15000,
+          "maxPrice": 70000,
+          "priceCurrency": "MYR"
+        }
+      }
+    }
   },
   "quote": {
     "title": "Request a Quote — Turnkey Renovation | IdealHub",
