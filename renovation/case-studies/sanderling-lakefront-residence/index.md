@@ -9,7 +9,6 @@ tags:
   - Contemporary Classic
   - Wainscoting
   - Dark Walnut
-  - Cyberjaya
   - 3-bed, 2-bath
 stats:
   - label: Property Context

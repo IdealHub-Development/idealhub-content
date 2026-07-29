@@ -9,6 +9,7 @@ tags:
   - Modern Contemporary
   - Refurbishment
   - Fully Furnished
+  - 2-bed, 1-bath
 stats:
   - label: Property Context
     value: 800 sqft 2-bed 1-bath
@@ -18,23 +19,26 @@ stats:
     value: 1 Month
     highlight: true
 excerpt: >-
-  A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.
+  A complete transformation of an 800 sqft One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings in Seri Kembangan.
 gallery:
-  - label: Living & Dining Area
+  - label: Living Area & View
     large: true
+    alt: Modern apartment living room interior design at One Equine Seri Kembangan with light beige walls, wooden dining table set, dark ceiling fan, and soft curtains leading to the balcony.
     file: living-room.webp
   - label: Kitchen Area
     large: true
+    alt: Custom modern kitchen renovation in Seri Kembangan featuring light wood bottom cabinets, white quartz countertops, integrated induction cooker, and washing machine setup.
     file: kitchen.webp
   - label: Master Bedroom
+    alt: Contemporary master bedroom design at One Equine featuring a grey upholstered headboard, white wardrobe with wood handles, and floral wall art.
     file: master-bedroom.webp
   - label: Bathroom
+    alt: Modern apartment bathroom renovation with grey porcelain wall tiles, floating white vanity sink cabinet, and black rectangular mirror in Seri Kembangan.
     file: bathroom.webp
 ---
 
+Situated in the heart of Seri Kembangan, this serviced apartment unit at One Equine underwent a comprehensive home refurbishment designed to maximize both aesthetic appeal and daily comfort. Executed through professional renovation services in Seri Kembangan within a swift 1-month window and an efficient RM 35,000 budget, the project focused on transforming a basic developer layout into a fully equipped, modern living space.
 
-Situated in the heart of Seri Kembangan, this unit at One Equine underwent a comprehensive refurbishment designed to maximize both aesthetic appeal and daily comfort. Completed within a swift 1-month execution window and an efficient RM 35,000 budget, the project focused on transforming a basic layout into a fully equipped, modern living space.
+The interior design and renovation prioritized major functional upgrades, starting with a clean, custom-fitted kitchen complete with streamlined wood-tone cabinetry, durable composite countertops, an integrated induction cooktop, and built-in home appliances. To ensure optimal climate control throughout the residence, multi-room air conditioning systems were professionally installed across both the main living space and bedrooms.
 
-The renovation prioritized major functional upgrades, starting with a clean, fully fitted kitchen complete with streamlined wood-tone cabinetry, durable composite countertops, an integrated induction cooktop, and built-in appliances. To ensure optimal climate control throughout the home, air conditioning units were installed across both the main living space and bedrooms. 
-
-The living and dining areas were styled using a warm neutral palette, featuring track spotlighting, a stylish dark wood ceiling fan, a contemporary dining set, and comfortable soft furnishings. In the master suite, a plush upholstered headboard, crisp minimalist wardrobe, and framed artwork create a restful retreat, while the bathroom was upgraded with a modern floating vanity sink, rounded black-framed mirror, and sleek grey porcelain tiling. The result is a refined, turnkey home offering modern luxury and long-term functionality.
+The open-plan living and dining areas were styled using a warm neutral color palette, featuring accent track spotlighting, a stylish dark wood ceiling fan, a modern dining set, and comfortable soft furnishings. In the master suite, a plush upholstered headboard, crisp minimalist wardrobe, and framed artwork create a restful retreat, while the bathroom was upgraded with a modern floating vanity sink, rounded black-framed mirror, and sleek grey porcelain wall tiles. The final result is a refined, turnkey home transformation offering modern luxury and long-term functional quality for homeowners in Selangor.

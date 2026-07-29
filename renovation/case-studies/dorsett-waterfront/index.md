@@ -9,11 +9,10 @@ tags:
   - Modern Urban
   - Warm Wood Tones
   - Earthy Neutrals
-  - Subang Jaya
   - 1-bed 1-bath
 stats:
   - label: Property Context
-    value: 527 sqft 1-bed 1-bath
+    value: 527 sqft
   - label: Total Renovation Cost
     value: RM33,100
   - label: Rental Yield Uplift
