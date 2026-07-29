@@ -1,6 +1,6 @@
 ## Sebelum Anda Komited
 
-**  Apakah pakej pengubahsuaian yang sesuai untuk saya?  **  
+**  Apakah pakej pengubahsuaian yang sesuai untuk saya?  **
 Kami menawarkan tiga kategori perkhidmatan untuk memenuhi keperluan pengubahsuaian yang berbeza:
 
 - **Essential Rental Setup** — Ideal untuk unit baharu atau kosong yang memerlukan kelengkapan penting seperti lampu, kipas, penghawa dingin, langsir atau bidai, dan aksesori bilik mandi sebelum disewakan.
@@ -23,11 +23,11 @@ Garis masa bergantung pada skop kerja, keadaan tapak, ketersediaan bahan, dan ke
 
 Kami akan menyediakan garis masa projek sebelum kerja bermula dan memaklumkan anda sepanjang pengubahsuaian.
 
-**  Adakah anda menerima projek pengubahsuaian kecil?  **  
+**  Adakah anda menerima projek pengubahsuaian kecil?  **
 
 Ya. Kami boleh membantu dengan apa sahaja dari pembaikan kecil dan penyegaran bilik hingga pengubahsuaian menyeluruh kediaman.
 
-**  Bolehkah anda bekerja mengikut bajet saya?  **  
+**  Bolehkah anda bekerja mengikut bajet saya?  **
 
 Ya. Kongsikan bajet pilihan anda, dan kami akan mengesyorkan pakej yang paling sesuai serta mengutamakan kerja yang paling penting.
 

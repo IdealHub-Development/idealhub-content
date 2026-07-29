@@ -1,6 +1,6 @@
 ## Before You Commit
 
-**  What renovation package is right for me?  **  
+**  What renovation package is right for me?  **
 We offer three service categories to suit different renovation needs:
 
 - **Essential Rental Setup** — Ideal for new or vacant units that need essential fittings such as lights, fans, air-conditioning, curtains or blinds, and bathroom accessories before renting out.
@@ -23,11 +23,11 @@ The timeline depends on the scope of work, site condition, material availability
 
 We will provide a project timeline before work begins and keep you updated throughout the renovation.
 
-**  Do you take on small renovation projects?  **  
+**  Do you take on small renovation projects?  **
 
 Yes. We can assist with anything from minor repairs and a room refresh to a complete home makeover.
 
-**  Can you work within my budget?  **  
+**  Can you work within my budget?  **
 
 Yes. Share your preferred budget, and we will recommend the most suitable package and prioritise the works that matter most.
 
