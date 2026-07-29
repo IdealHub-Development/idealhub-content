@@ -1,0 +1,14 @@
+{
+  "title": "Alstonia Residence Sanctuary — Modern Condominium Refurbishment in Sungai Long | IdealHub",
+  "description": "Browse our Alstonia Residence renovation — a 1,469 sqft family home in Sungai Long redesigned with modern warmth styling, muted duck-egg blue cabinetry, and rich walnut fluted details. RM 67,200 budget.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Alstonia Residence Sanctuary — Modern Family Condominium Refurbishment in Sungai Long",
+    "description": "A 1,469 sqft 3-bedroom, 2-bathroom condominium at Alstonia Residence in Sungai Long renovated on an RM 67,200 budget. Features muted duck-egg blue kitchen cabinetry, dark walnut fluted wall panels, custom floor-to-ceiling wardrobes, and modern warm-textured interiors designed for family living.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/alstonia-sg-long/images/after.webp",
+    "datePublished": "2026-07-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

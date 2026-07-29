@@ -1,0 +1,14 @@
+{
+  "title": "Plaza Rah Refurbishment — Serviced Apartment in Kampung Baru, KL | IdealHub",
+  "description": "Browse our Plaza Rah renovation — a complete cosmetic & functional refurbishment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, move-in ready.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Plaza Rah Apartment Refurbishment — Modern Contemporary Renovation in Kampung Baru, KL",
+    "description": "A complete cosmetic and functional refurbishment of a Plaza Rah serviced apartment in Kampung Baru, Kuala Lumpur. RM 33,000 budget, 2-month turnaround, featuring acoustic wall panels, kitchen cabinetry, and bathroom tile resurfacing.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/plaza-rah/images/after.webp",
+    "datePublished": "2026-07-27",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

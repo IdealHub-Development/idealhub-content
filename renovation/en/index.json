@@ -2,16 +2,16 @@
   {
     "slug": "astrum-ampang",
     "title": "Astrum Ampang Urban Haven",
-    "category": "Kondominium",
+    "category": "Condominium",
     "location": "Ampang",
     "cost": "RM 22,000",
     "datePublished": "2026-07-28",
-    "excerpt": "Sebuah studio kompak 250 kps di Astrum Ampang diubah suai secara strategik menjadi unit sewaan lengkap siap sedia penyewa—menyasarkan RM1,600/bulan dengan perbelanjaan pengubahsuaian RM22,000 merangkumi semua.",
+    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit\u2014targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang/images/thumbnail.webp",
     "tags": [
-      "Sewaan ROI Tinggi",
-      "Aksen Kayu Berjalur",
-      "Kediaman Kompak"
+      "High ROI Rental",
+      "Fluted Wood Accent",
+      "Compact Living"
     ],
     "featured": true,
     "order": 1,
@@ -19,21 +19,21 @@
     "buildingName": "Astrum Ampang",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Peningkatan Hasil:** +15%"
+    "footerText": "Rental: **RM1,700**"
   },
   {
     "slug": "alstonia-sg-long",
     "title": "Alstonia Residence Sanctuary",
-    "category": "Kondominium",
+    "category": "Condominium",
     "location": "Sungai Long",
     "cost": "RM 67,200",
     "datePublished": "2026-07-28",
-    "excerpt": "Sebuah kediaman luas 1,469 kps di Alstonia Residence direka semula menjadi tempat perlindungan yang selesa dan berfokuskan keluarga menampilkan kabinet biru telur itik yang lembut dan perincian kayu berjalur yang mewah.",
+    "excerpt": "A spacious 1,469 sqft home at Alstonia Residence redesigned into a cozy, family-focused retreat featuring muted duck-egg blue cabinetry and rich fluted wood details.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/alstonia-sg-long/images/living-room.webp",
     "tags": [
-      "Kehangatan Moden",
-      "Aksen Biru Lembut",
-      "Walnut Gelap",
+      "Modern Warmth",
+      "Muted Blue Accents",
+      "Dark Walnut",
       "Sungai Long"
     ],
     "featured": true,
@@ -42,21 +42,21 @@
     "buildingName": "Alstonia Residence",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Peningkatan Hasil:** N/A (Kediaman Sendiri)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "majestic-residence-kuala-lumpur",
     "title": "Majestic Residence Urban Oasis",
-    "category": "Kondominium",
+    "category": "Condominium",
     "location": "Kuala Lumpur",
     "cost": "RM 67,200",
     "datePublished": "2026-07-28",
-    "excerpt": "Sebuah unit 1-bilik 459 kps yang kompak di Majestic Residence diubah menjadi sewaan bandar premium bertona hangat yang menampilkan ruang kerja terbina pintar dan ruang tamu elegan.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/majestic-residence-kuala-lumpur/images/living-room.webp",
+    "excerpt": "A compact 459 sqft 1-bedroom unit at Majestic Residence transformed into a premium, warm-toned urban rental featuring smart built-in workspaces and elegant living areas.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/majestic-residence-kuala-lumpur/images/living-rooom.webp",
     "tags": [
-      "Urban Moden",
-      "Tona Bumi Hangat",
-      "Pengoptimuman Ruang"
+      "Modern Urban",
+      "Warm Earth Tones",
+      "Space Optimization"
     ],
     "featured": true,
     "order": 3,
@@ -64,21 +64,21 @@
     "buildingName": "Majestic Residence",
     "beds": 1,
     "baths": 1,
-    "footerText": "**Peningkatan Hasil:** +20%"
+    "footerText": "Yield Uplift: **+20%**"
   },
   {
     "slug": "sunway-belfield",
     "title": "Sunway Belfield Modern Furnishing & Styling",
-    "category": "Pangsapuri Servis",
+    "category": "Serviced Apartment",
     "location": "Kuala Lumpur",
     "cost": "RM 35,000",
     "datePublished": "2026-07-28",
-    "excerpt": "Projek perabot lembut dan penggayaan bersasar di Sunway Belfield (1,150 kps), mengubah unit separa berperabot yang sukar disewa menjadi aset sewaan premium yang hangat dan lengkap berperabot.",
+    "excerpt": "A targeted soft furnishing and styling project at Sunway Belfield (1,150 sqft), transforming a hard-to-rent partially furnished unit into a warm, fully furnished premium rental asset.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/sunway-belfield/images/living-room.webp",
     "tags": [
-      "Japandi Moden",
-      "Perabot Lembut",
-      "Pelaburan Sewaan"
+      "Modern Japandi",
+      "Soft Furnishing",
+      "Rental Investment"
     ],
     "featured": true,
     "order": 4,
@@ -86,113 +86,132 @@
     "buildingName": "Sunway Belfield",
     "beds": 3,
     "baths": 3,
-    "footerText": "**Peningkatan Hasil:** sewaan premium"
+    "footerText": "Rental: **RM5,200**"
+  },
+  {
+    "slug": "dorsett-waterfront",
+    "title": "Dorsett Waterfront Modern Haven",
+    "category": "Condominium",
+    "location": "Subang Jaya",
+    "yield": "+22%",
+    "cost": "RM 33,100",
+    "datePublished": "2026-07-29",
+    "excerpt": "A compact 527 sqft 1-bedroom unit at Dorsett Waterfront redesigned into a modern, warm, and highly attractive rental home for urban professionals.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "tags": ["Modern Urban", "Warm Wood Tones", "Earthy Neutrals"],
+    "featured": true,
+    "order": 5,
+    "status": "published",
+    "buildingName": "Dorsett Waterfront",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**Yield Uplift:** +22%"
   },
   {
     "slug": "plaza-rah",
     "title": "Plaza Rah Modern Refurbishment",
-    "category": "Pangsapuri Servis",
+    "category": "Serviced Apartment",
     "location": "Kampung Baru, Kuala Lumpur",
     "cost": "RM 33,000",
     "datePublished": "2026-07-27",
-    "excerpt": "Pembaikan bersasar sebuah pangsapuri Plaza Rah di Kampung Baru, Kuala Lumpur — mencipta ruang moden yang selesa dengan kabinet dapur tersuai, dinding ciri akustik, dan penggayaan kontemporari.",
+    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur \u2014 creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/plaza-rah/images/after.webp",
     "tags": [
-      "Kontemporari Moden",
-      "Pembaikan",
-      "Kediaman Sendiri"
-    ],
-    "featured": true,
-    "order": 5,
-    "status": "published",
-    "buildingName": "Plaza Rah",
-    "beds": 3,
-    "baths": 2,
-    "footerText": "**Peningkatan Hasil:** N/A (Kediaman Sendiri)"
-  },
-  {
-    "slug": "apartment-sri-kesidang-puchong",
-    "title": "Transformasi Pangsapuri Sri Kesidang",
-    "category": "Pangsapuri",
-    "location": "Puchong, Selangor",
-    "cost": "RM 16,000",
-    "datePublished": "2026-07-27",
-    "excerpt": "Pembaikan bersasar unit tingkat 4 tanpa lif di Sri Kesidang, mengatasi cabaran logistik untuk mencipta ruang sewaan yang bersih, moden, dan berhasil tinggi.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
-    "tags": [
-      "Kontemporari Moden",
-      "Pembaikan",
-      "Pelaburan Sewaan"
+      "Modern Contemporary",
+      "Refurbishment",
+      "Own Stay"
     ],
     "featured": true,
     "order": 6,
     "status": "published",
-    "buildingName": "Sri Kesidang",
-    "beds": 2,
-    "baths": 1,
-    "footerText": "**Peningkatan Hasil:** 33% premium"
+    "buildingName": "Plaza Rah",
+    "beds": 3,
+    "baths": 2,
+    "footerText": "**Own Stay**"
   },
   {
-    "slug": "sanderling-lakefront-residence",
-    "title": "Sanderling Contemporary Elegance",
-    "category": "Kondominium",
-    "location": "Cyberjaya",
-    "cost": "RM 65,000",
-    "datePublished": "2026-07-28",
-    "excerpt": "Sebuah kondominium Sanderling Lakefront Residence diubah menjadi kediaman klasik kontemporari yang canggih menampilkan wainscoting halus dan aksen berjalur walnut yang mewah.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/sanderling-lakefront-residence/images/thumbnail.webp",
+    "slug": "apartment-sri-kesidang-puchong",
+    "title": "Sri Kesidang Apartment Transformation",
+    "category": "Apartment",
+    "location": "Puchong, Selangor",
+    "cost": "RM 16,000",
+    "datePublished": "2026-07-27",
+    "excerpt": "A targeted refurbishment of a 4th-floor walk-up unit at Sri Kesidang, overcoming logistics challenges to create a clean, modern, and high-yield rental space.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/apartment-sri-kesidang-puchong/images/thumbnail.webp",
     "tags": [
-      "Klasik Kontemporari",
-      "Wainscoting",
-      "Walnut Gelap"
+      "Modern Contemporary",
+      "Refurbishment",
+      "Rental Investment"
     ],
     "featured": true,
     "order": 7,
     "status": "published",
+    "buildingName": "Sri Kesidang",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "Yield Uplift: **+15%**"
+  },
+  {
+    "slug": "sanderling-lakefront-residence",
+    "title": "Sanderling Contemporary Elegance",
+    "category": "Condominium",
+    "location": "Cyberjaya",
+    "cost": "RM 65,000",
+    "datePublished": "2026-07-28",
+    "excerpt": "A Sanderling Lakefront Residence condominium transformed into a sophisticated, contemporary classic home featuring subtle wainscoting and rich walnut fluted accents.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/sanderling-lakefront-residence/images/thumbnail.webp",
+    "tags": [
+      "Contemporary Classic",
+      "Wainscoting",
+      "Dark Walnut"
+    ],
+    "featured": true,
+    "order": 9,
+    "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Peningkatan Hasil:** N/A (Kediaman Sendiri)"
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "one-equine",
     "title": "One Equine Modern Refurbishment",
-    "category": "Pangsapuri Servis",
+    "category": "Serviced Apartment",
     "location": "Seri Kembangan, Selangor",
     "cost": "RM 35,000",
     "datePublished": "2026-07-28",
-    "excerpt": "Transformasi lengkap unit One Equine menjadi ruang moden yang hangat menampilkan kabinet dapur tersuai, integrasi penghawa dingin penuh, dan perabot kontemporari.",
+    "excerpt": "A complete transformation of a One Equine unit into a warm, modern sanctuary featuring tailored kitchen cabinetry, full air-conditioning integration, and contemporary furnishings.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/one-equine/images/living-room.webp",
     "tags": [
-      "Kontemporari Moden",
-      "Pembaikan",
-      "Berperabot Lengkap"
+      "Modern Contemporary",
+      "Refurbishment",
+      "Fully Furnished"
     ],
     "featured": true,
-    "order": 8,
+    "order": 10,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
     "baths": 2,
-    "footerText": "**Peningkatan Hasil:** +18%"
+    "footerText": "Rented in **1 month**"
   },
   {
     "slug": "anya-shorea-park",
     "title": "Anya @ Shorea Park Modern Minimalist",
-    "category": "Kondominium",
+    "category": "Condominium",
     "location": "Puchong",
-    "yield": "Sasaran Hasil Tinggi",
+    "yield": "High-Yield Target",
     "cost": "RM 24,000",
     "datePublished": "2026-07-28",
-    "excerpt": "Sebuah unit 2-bilik di Anya @ Shorea Park diubah menjadi kediaman sewaan berdaya tarikan tinggi dengan RM24,000 merangkumi semua, menampilkan penghawa dingin di seluruh unit, kabinet dapur tersuai, dan pencahayaan pereka yang hangat.",
+    "excerpt": "A 2-bedroom unit at Anya @ Shorea Park transformed into a high-appeal rental home for RM24,000 all-in, featuring air conditioning throughout, custom kitchen cabinetry, and warm designer lighting.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/anya-shorea-park/images/thumbnail.webp",
-    "tags": ["Minimalis Moden", "Tona Neutral Lembut", "Pelaburan Hasil Tinggi"],
+    "tags": ["Modern Minimalist", "Soft Neutral Tones", "High-Yield Investment"],
     "featured": true,
-    "order": 9,
+    "order": 8,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
     "baths": 1,
-    "footerText": "**Peningkatan Hasil:** Sasaran Hasil Tinggi"
+    "footerText": "**Own Stay**"
   }
 ]
