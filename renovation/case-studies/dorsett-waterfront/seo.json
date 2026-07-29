@@ -1,0 +1,14 @@
+{
+  "title": "Dorsett Waterfront Modern Haven — 1-Bedroom Rental Renovation in Subang Jaya | IdealHub",
+  "description": "Browse our Dorsett Waterfront renovation in Subang Jaya — a 527 sqft 1-bedroom condo transformed with modern urban styling. RM 33,100 budget, +22% rental yield uplift, forest green accents.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Dorsett Waterfront Modern Haven — Urban Rental Condo Renovation in Subang Jaya",
+    "description": "A 527 sqft 1-bedroom condominium at Dorsett Waterfront in Subang Jaya renovated on an RM 33,100 budget. Features forest green accent walls, warm wood cabinetry, custom built-in wardrobes, compact kitchenette, and open-concept living-dining layout. Achieved +22% rental yield uplift for urban professionals.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "datePublished": "2026-07-29",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

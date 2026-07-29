@@ -194,5 +194,24 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Own Stay**"
+  },
+  {
+    "slug": "dorsett-waterfront-subang-jaya",
+    "title": "Dorsett Waterfront Modern Haven",
+    "category": "Condominium",
+    "location": "Subang Jaya",
+    "yield": "+22%",
+    "cost": "RM 33,100",
+    "datePublished": "2026-07-29",
+    "excerpt": "A compact 527 sqft 1-bedroom unit at Dorsett Waterfront redesigned into a modern, warm, and highly attractive rental home for urban professionals.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "tags": ["Modern Urban", "Warm Wood Tones", "Earthy Neutrals"],
+    "featured": true,
+    "order": 10,
+    "status": "published",
+    "buildingName": "Dorsett Waterfront",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**Yield Uplift:** +22%"
   }
 ]
