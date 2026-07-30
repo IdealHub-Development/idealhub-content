@@ -3,7 +3,7 @@ title: Sanderling Contemporary Elegance
 subtitle: Contemporary Classic Transformation
 category: Condominium
 location: Cyberjaya
-yield: N/A (Own Stay)
+yield: Own stay
 slug: sanderling-lakefront-residence
 tags:
   - Contemporary Classic

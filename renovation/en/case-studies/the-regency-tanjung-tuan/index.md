@@ -2,7 +2,7 @@ title: Regency Tanjung Tuan Coastal Homestay Refurbishment
 subtitle: Homestay Transformation & Turnkey Rental Styling
 category: Apartment
 location: Port Dickson
-yield: High Rental Yield
+yield: Homestay
 slug: regency-tanjung-tuan
 tags:
   - Malay Style Renovation
