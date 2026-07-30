@@ -3,12 +3,12 @@
   "title": "Dapatkan Senarai Semak Kecacatan Hartanah DIY Lengkap Anda (PDF)",
   "description": "PDF yang boleh dimuat turun ini termasuk hamparan pemeriksaan bilik demi bilik yang meliputi jubin berongga, resapan air, kekutuban elektrik, penjajaran pintu - serta templat penyerahan pemaju sedia guna.",
   "fields": {
-    "fullName": "Nama Penuh *",
-    "email": "Alamat Emel *",
-    "phoneNumber": "Nombor Telefon *",
-    "buildingName": "Bangunan / Nama Projek *",
-    "propertyType": "Jenis Hartanah *",
-    "builtUpSize": "Saiz Binaan (kps) *"
+    "fullName": "Nama Penuh",
+    "email": "Alamat Emel",
+    "phoneNumber": "Nombor Telefon",
+    "buildingName": "Bangunan / Nama Projek",
+    "propertyType": "Jenis Hartanah",
+    "builtUpSize": "Saiz Binaan (kps)"
   },
   "placeholders": {
     "fullName": "cth., Alex Tan",
