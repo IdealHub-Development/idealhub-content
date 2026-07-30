@@ -1,0 +1,46 @@
+{
+  "title": "Your Defect Checklist Is Downloading!",
+  "description": "Thank you for downloading the IdealHub DIY Property Defect Checklist. Your PDF will begin downloading automatically. Check your email for a backup copy.",
+  "fallbackText": "If your download does not start, click here",
+  "whatsNext": {
+    "label": "WHAT HAPPENS NEXT",
+    "steps": [
+      {
+        "title": "Inspect Your Property",
+        "description": "Use the room-by-room checklist to systematically document every defect — from hollow tiles and water seepage to electrical faults and door alignment issues."
+      },
+      {
+        "title": "Submit Defects to Your Developer",
+        "description": "Use the ready-to-use submission templates included in the PDF to formally notify your developer within your Defect Liability Period (DLP)."
+      },
+      {
+        "title": "Plan Your Renovation & Fit-Out",
+        "description": "Once defects are resolved, let IdealHub handle your renovation. Our turnkey service covers carpentry, electrical, plumbing, painting, and full interior fit-outs — all managed through our platform."
+      }
+    ]
+  },
+  "renovationTeaser": {
+    "eyebrow": "WHY IDEALHUB FOR YOUR RENOVATION?",
+    "title": "From Defect-Free to Dream Home — We Handle Everything",
+    "cards": [
+      {
+        "title": "Transparent Pricing",
+        "description": "No hidden costs. Get a detailed renovation quotation with itemised breakdowns before any work begins."
+      },
+      {
+        "title": "Live Progress Tracking",
+        "description": "Monitor your renovation in real-time through the IdealHub platform. Track milestones, payments, and timelines."
+      },
+      {
+        "title": "Quality Guaranteed",
+        "description": "Every project backed by our workmanship warranty. We handle the entire fit-out so you can move in stress-free."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Transform Your New Property?",
+    "description": "Our renovation consultants can walk you through options. Get a personalised quote based on your unit type and built-up size.",
+    "buttonText": "Request a Free Quote →",
+    "responseTime": "Response time under 2 hours • Available Mon-Sat"
+  }
+}

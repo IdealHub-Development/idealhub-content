@@ -1,0 +1,31 @@
+{
+  "badge": "Instant PDF Access",
+  "title": "Get Your Complete DIY Property Defect Checklist (PDF)",
+  "description": "This downloadable PDF includes a room-by-room inspection spreadsheet covering hollow tiles, water seepage, electrical polarity, door alignment - plus ready-to-use developer submission templates.",
+  "fields": {
+    "fullName": "Full Name *",
+    "email": "Email Address *",
+    "phoneNumber": "Phone Number *",
+    "buildingName": "Building / Project Name *",
+    "propertyType": "Property Type *",
+    "builtUpSize": "Built-up Size (sqft) *"
+  },
+  "placeholders": {
+    "fullName": "e.g., Alex Tan",
+    "email": "e.g., alex@example.com",
+    "phoneNumber": "e.g., +60 12-345 6789",
+    "buildingName": "e.g., The Grand Residences",
+    "propertyType": "High-rise / Condo",
+    "builtUpSize": "e.g., 950"
+  },
+  "propertyTypeOptions": [
+    { "label": "High-rise / Condo", "value": "highrise" },
+    { "label": "Landed / Terrace", "value": "landed" },
+    { "label": "Townhouse", "value": "townhouse" },
+    { "label": "Semi-D / Bungalow", "value": "semid" },
+    { "label": "Serviced Apartment", "value": "serviced" },
+    { "label": "SOHO / SOVO", "value": "soho" }
+  ],
+  "submitLabel": "Send Me the Free Defect Checklist →",
+  "privacyText": "🔒 100% Privacy. We respect your data and never spam."
+}
