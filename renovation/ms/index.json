@@ -194,5 +194,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Peningkatan Hasil:** Sasaran Hasil Tinggi"
+  },
+  {
+    "slug": "regency-tanjung-tuan",
+    "title": "Regency Tanjung Tuan Pengubahsuaian Homestay Pantai",
+    "category": "Pangsapuri",
+    "location": "Port Dickson",
+    "cost": "RM 30,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "Pengubahsuaian bertema pantai yang disasarkan di Regency Tanjung Tuan, Port Dickson, mengubah pangsapuri lama menjadi homestay yang hangat dan lengkap berperabot bersedia untuk kadar sewaan premium.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/the-regency-tanjung-tuan/images/living-room.webp",
+    "tags": ["Renovasi Gaya Melayu", "Kehidupan Pantai", "Homestay"],
+    "featured": true,
+    "order": 10,
+    "status": "published",
+    "buildingName": "Regency Tanjung Tuan",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**Hasil Sewaan Tinggi**"
   }
 ]

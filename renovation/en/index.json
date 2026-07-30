@@ -213,5 +213,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Own Stay**"
+  },
+  {
+    "slug": "regency-tanjung-tuan",
+    "title": "Regency Tanjung Tuan Coastal Homestay Refurbishment",
+    "category": "Apartment",
+    "location": "Port Dickson",
+    "cost": "RM 30,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "A targeted coastal-themed refurbishment at Regency Tanjung Tuan, Port Dickson, transforming a dated apartment into a warm, fully furnished homestay ready to command premium rental rates.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/the-regency-tanjung-tuan/images/living-room.webp",
+    "tags": ["Malay Style Renovation", "Coastal Living", "Homestay"],
+    "featured": true,
+    "order": 11,
+    "status": "published",
+    "buildingName": "Regency Tanjung Tuan",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**Homestay Design**"
   }
 ]

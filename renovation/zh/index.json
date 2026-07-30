@@ -161,5 +161,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**收益提升：** 高收益目标"
+  },
+  {
+    "slug": "regency-tanjung-tuan",
+    "title": "Regency Tanjung Tuan 海滨民宿翻新",
+    "category": "公寓",
+    "location": "波德申",
+    "cost": "RM 30,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "在波德申 Regency Tanjung Tuan 进行的定向海滨主题翻新，将一间过时公寓改造为温馨、全家具的民宿，准备以溢价租金出租。",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/the-regency-tanjung-tuan/images/living-room.webp",
+    "tags": ["马来风格装修", "海滨生活", "民宿"],
+    "featured": true,
+    "order": 10,
+    "status": "published",
+    "buildingName": "Regency Tanjung Tuan",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**高租赁收益**"
   }
 ]
