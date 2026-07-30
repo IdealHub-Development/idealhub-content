@@ -1,0 +1,46 @@
+{
+  "title": "Senarai Semak Kecacatan Anda Sedang Dimuat Turun!",
+  "description": "Terima kasih kerana memuat turun Senarai Semak Kecacatan Hartanah DIY IdealHub. PDF anda akan mula dimuat turun secara automatik. Semak emel anda untuk salinan sandaran.",
+  "fallbackText": "Jika muat turun anda tidak bermula, klik di sini",
+  "whatsNext": {
+    "label": "APA YANG BERLAKU SETERUSNYA",
+    "steps": [
+      {
+        "title": "Periksa Hartanah Anda",
+        "description": "Gunakan senarai semak bilik demi bilik untuk mendokumenkan setiap kecacatan secara sistematik — dari jubin berongga dan resapan air ke kerosakan elektrik dan isu penjajaran pintu."
+      },
+      {
+        "title": "Hantar Kecacatan Kepada Pemaju Anda",
+        "description": "Gunakan templat penyerahan sedia guna yang disertakan dalam PDF untuk memaklumkan pemaju anda secara rasmi dalam Tempoh Liabiliti Kecacatan (DLP) anda."
+      },
+      {
+        "title": "Rancang Pengubahsuaian & Kelengkapan Anda",
+        "description": "Setelah kecacatan diselesaikan, biarkan IdealHub mengendalikan pengubahsuaian anda. Perkhidmatan turnkey kami meliputi pertukangan kayu, elektrik, paip, pengecatan, dan kelengkapan dalaman penuh — semuanya diuruskan melalui platform kami."
+      }
+    ]
+  },
+  "renovationTeaser": {
+    "eyebrow": "KENAPA IDEALHUB UNTUK PENGUBAHSUAIAN ANDA?",
+    "title": "Dari Bebas Kecacatan ke Rumah Impian — Kami Mengendalikan Segalanya",
+    "cards": [
+      {
+        "title": "Harga Telus",
+        "description": "Tiada kos tersembunyi. Dapatkan sebut harga pengubahsuaian terperinci dengan pecahan terperinci sebelum sebarang kerja bermula."
+      },
+      {
+        "title": "Penjejakan Kemajuan Langsung",
+        "description": "Pantau pengubahsuaian anda dalam masa nyata melalui platform IdealHub. Jejaki pencapaian, pembayaran, dan garis masa."
+      },
+      {
+        "title": "Kualiti Dijamin",
+        "description": "Setiap projek disokong oleh jaminan mutu kerja kami. Kami mengendalikan keseluruhan kelengkapan supaya anda boleh berpindah tanpa tekanan."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Bersedia Untuk Mengubah Hartanah Baru Anda?",
+    "description": "Perunding pengubahsuaian kami boleh membimbing anda melalui pilihan. Dapatkan sebut harga peribadi berdasarkan jenis unit dan saiz binaan anda.",
+    "buttonText": "Minta Sebut Harga Percuma →",
+    "responseTime": "Masa respons bawah 2 jam • Tersedia Isnin-Sabtu"
+  }
+}

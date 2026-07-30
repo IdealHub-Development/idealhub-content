@@ -1,0 +1,31 @@
+{
+  "badge": "即时PDF访问",
+  "title": "获取完整的DIY房产缺陷检查清单 (PDF)",
+  "description": "此可下载PDF包含逐室检查电子表格，涵盖空心瓷砖、渗水、电气极性、门对齐——以及即用型开发商提交模板。",
+  "fields": {
+    "fullName": "全名 *",
+    "email": "电子邮箱 *",
+    "phoneNumber": "电话号码 *",
+    "buildingName": "建筑/项目名称 *",
+    "propertyType": "房产类型 *",
+    "builtUpSize": "建筑面积（平方英尺）*"
+  },
+  "placeholders": {
+    "fullName": "例如：Alex Tan",
+    "email": "例如：alex@example.com",
+    "phoneNumber": "例如：+60 12-345 6789",
+    "buildingName": "例如：The Grand Residences",
+    "propertyType": "高层/公寓",
+    "builtUpSize": "例如：950"
+  },
+  "propertyTypeOptions": [
+    { "label": "高层/公寓", "value": "highrise" },
+    { "label": "排屋", "value": "landed" },
+    { "label": "联排别墅", "value": "townhouse" },
+    { "label": "半独立/独立式", "value": "semid" },
+    { "label": "服务式公寓", "value": "serviced" },
+    { "label": "SOHO / SOVO", "value": "soho" }
+  ],
+  "submitLabel": "发送免费缺陷检查清单 →",
+  "privacyText": "🔒 100%隐私。我们尊重您的数据，绝不发送垃圾信息。"
+}

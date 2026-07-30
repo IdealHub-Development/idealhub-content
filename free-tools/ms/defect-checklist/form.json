@@ -1,0 +1,31 @@
+{
+  "badge": "Akses PDF Segera",
+  "title": "Dapatkan Senarai Semak Kecacatan Hartanah DIY Lengkap Anda (PDF)",
+  "description": "PDF yang boleh dimuat turun ini termasuk hamparan pemeriksaan bilik demi bilik yang meliputi jubin berongga, resapan air, kekutuban elektrik, penjajaran pintu - serta templat penyerahan pemaju sedia guna.",
+  "fields": {
+    "fullName": "Nama Penuh *",
+    "email": "Alamat Emel *",
+    "phoneNumber": "Nombor Telefon *",
+    "buildingName": "Bangunan / Nama Projek *",
+    "propertyType": "Jenis Hartanah *",
+    "builtUpSize": "Saiz Binaan (kps) *"
+  },
+  "placeholders": {
+    "fullName": "cth., Alex Tan",
+    "email": "cth., alex@example.com",
+    "phoneNumber": "cth., +60 12-345 6789",
+    "buildingName": "cth., The Grand Residences",
+    "propertyType": "Bertingkat / Kondominium",
+    "builtUpSize": "cth., 950"
+  },
+  "propertyTypeOptions": [
+    { "label": "Bertingkat / Kondominium", "value": "highrise" },
+    { "label": "Rumah Teres", "value": "landed" },
+    { "label": "Rumah Bandar", "value": "townhouse" },
+    { "label": "Semi-D / Banglo", "value": "semid" },
+    { "label": "Apartmen Servis", "value": "serviced" },
+    { "label": "SOHO / SOVO", "value": "soho" }
+  ],
+  "submitLabel": "Hantar Senarai Semak Kecacatan Percuma →",
+  "privacyText": "🔒 100% Privasi. Kami menghormati data anda dan tidak sekali-kali menghantar spam."
+}
