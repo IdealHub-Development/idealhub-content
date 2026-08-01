@@ -9,10 +9,10 @@
       "legalName": "Terasquad Technologies Sdn. Bhd.",
       "url": "https://rental.idealhub.duckdns.org",
       "email": "ask@idealhub.com",
-      "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/sunway-belfield/images/living-room.webp",
       "logo": {
         "@type": "ImageObject",
-        "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+        "url": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/sunway-belfield/images/living-room.webp"
       },
       "address": {
         "@type": "PostalAddress",
