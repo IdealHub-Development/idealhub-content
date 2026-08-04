@@ -1,23 +1,25 @@
 ---
 title: Pavillion Ceylon Contemporary Elegance
-subtitle: Luxury 2-Bedroom Transformation
+subtitle: New Unit Setup — Luxury 2-Bedroom Rental
 category: Condominium
 location: Kuala Lumpur
+yield: High Rental Yield
 slug: pavillion-ceylon
 tags:
   - Contemporary Classic
   - Wall Panelling
   - Warm Earth Tones
+  - 2-bed 2-bath
 stats:
   - label: Property Context
-    value: 2-Bedroom Luxury Condominium
+    value: 2-Bedroom 2-Bath Luxury Condominium
   - label: Total Renovation Cost
-    value: RM 22,000
+    value: RM 25,250
   - label: Design Style
     value: Contemporary Classic
     highlight: true
 excerpt: >-
-  A 2-bedroom luxury condominium at Pavillion Ceylon, Kuala Lumpur, elegantly transformed on an efficient RM 22,000 budget in 2024 with contemporary classic styling, warm earth tones, and refined wall panelling throughout.
+  A 2-bedroom luxury condominium at Pavillion Ceylon, Kuala Lumpur, set up turnkey for the premium rental market in 2024 — contemporary classic styling, warm earth tones, and refined wall panelling throughout, on an efficient RM 25,250 all-in budget.
 gallery:
   - label: Living Room
     large: true
@@ -37,6 +39,6 @@ gallery:
     file: second-bedroom.webp
 ---
 
-Completed in 2024, this 2-bedroom luxury condominium at Pavillion Ceylon in Kuala Lumpur was transformed on an efficient RM 22,000 budget into a refined, turnkey home. The project balances high-impact aesthetic updates with smart value engineering, elevating a spacious luxury layout without unnecessary structural works.
+Set up as a brand-new unit for the premium rental market, this 2-bedroom, 2-bathroom condominium at Pavillion Ceylon in Kuala Lumpur was completed in 2024 on an all-in RM 25,250 budget. From the digital smart door lock to final photography, the project delivered a complete rental-ready home — painting and wainscoting, full furnishing, appliances, and multi-platform listing handled in one seamless package.
 
-The design language blends contemporary classic elegance with warm earth tones. Decorative wall panelling frames the living spaces, while a light grey tufted sofa, mauve-and-grey abstract rug, and rustic wooden world map artwork create a layered, inviting lounge. Terrazzo flooring runs through the common areas, complemented by a dark wood dining set under white pendant lights and a glossy white kitchen with glass backsplash. Both bedrooms feature warm mustard-yellow panelled walls, navy upholstered headboards, and rich hardwood flooring, delivering a cohesive, hotel-quality retreat throughout.
+The design language blends contemporary classic elegance with warm earth tones. Decorative wall panelling frames the living space, while a light grey tufted sofa, mauve-and-grey abstract rug, and rustic wooden world map artwork create a layered, inviting lounge — anchored by a 55-inch smart TV above a dark wood console. Terrazzo flooring runs through the common areas, complemented by a dark wood dining set under white pendant lights and a glossy white kitchen with glass backsplash. Both bedrooms feature warm mustard-yellow panelled walls, queen beds with navy upholstered headboards, and rich hardwood flooring. Blackout curtains with sheers, Alpha ceiling fans, downlights and track lighting complete the package — a cohesive, hotel-quality retreat ready for immediate tenancy.

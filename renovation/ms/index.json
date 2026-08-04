@@ -218,9 +218,9 @@
     "title": "Pavillion Ceylon Keanggunan Kontemporari",
     "category": "Kondominium",
     "location": "Kuala Lumpur",
-    "cost": "RM 22,000",
+    "cost": "RM 25,250",
     "datePublished": "2026-07-30",
-    "excerpt": "Kondominium mewah 2-bilik di Pavillion Ceylon, Kuala Lumpur, diubah dengan elegan pada bajet cekap RM 22,000 pada tahun 2024 dengan gaya klasik kontemporari, tona bumi hangat, dan panel dinding yang halus di seluruh kediaman.",
+    "excerpt": "Kondominium mewah 2-bilik di Pavillion Ceylon, Kuala Lumpur, disediakan secara turnkey untuk pasaran sewaan premium pada tahun 2024 — gaya klasik kontemporari, tona bumi hangat, dan panel dinding yang halus di seluruh kediaman, dengan bajet menyeluruh RM 25,250 yang cekap.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
     "tags": ["Klasik Kontemporari", "Panel Dinding", "Tona Bumi Hangat"],
     "featured": true,
@@ -230,5 +230,23 @@
     "beds": 2,
     "baths": 2,
     "footerText": "**Kediaman Sendiri**"
+  },
+  {
+    "slug": "henna-wangsa-maju",
+    "title": "Henna Residensi Penggayaan Sewaan Turnkey",
+    "category": "Pangsapuri Servis",
+    "location": "Wangsa Maju, Kuala Lumpur",
+    "cost": "RM 30,600",
+    "datePublished": "2026-07-30",
+    "excerpt": "Unit 2-bilik baharu di Henna Residensi, Wangsa Maju, disediakan secara turnkey untuk pasaran sewaan — lengkap berperabot, digayakan dalam gaya Skandinavia moden dengan wainscoting biru-kelabu, dan sedia untuk disenaraikan sekaligus.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/henna-wangsa-maju/images/living-room.webp",
+    "tags": ["Skandinavia Moden", "Persediaan Sewaan Turnkey", "Wainscoting"],
+    "featured": true,
+    "order": 12,
+    "status": "published",
+    "buildingName": "Henna Residensi",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**Sewaan Turnkey**"
   }
 ]
