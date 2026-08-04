@@ -179,5 +179,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**高租赁收益**"
+  },
+  {
+    "slug": "pavillion-ceylon",
+    "title": "Pavillion Ceylon 当代优雅",
+    "category": "共管公寓",
+    "location": "吉隆坡",
+    "cost": "RM 22,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "位于吉隆坡 Pavillion Ceylon 的两卧室豪华共管公寓，于 2024 年以 RM 22,000 的高效预算优雅改造，采用当代经典风格、温暖大地色调，全屋铺设精致的墙面线条。",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
+    "tags": ["当代经典", "墙面线条", "温暖大地色调"],
+    "featured": true,
+    "order": 11,
+    "status": "published",
+    "buildingName": "Pavillion Ceylon",
+    "beds": 2,
+    "baths": 2,
+    "footerText": "**自住**"
   }
 ]

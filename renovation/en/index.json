@@ -231,5 +231,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Homestay Design**"
+  },
+  {
+    "slug": "pavillion-ceylon",
+    "title": "Pavillion Ceylon Contemporary Elegance",
+    "category": "Condominium",
+    "location": "Kuala Lumpur",
+    "cost": "RM 22,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "A 2-bedroom luxury condominium at Pavillion Ceylon, Kuala Lumpur, elegantly transformed on an efficient RM 22,000 budget in 2024 with contemporary classic styling, warm earth tones, and refined wall panelling throughout.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
+    "tags": ["Contemporary Classic", "Wall Panelling", "Warm Earth Tones"],
+    "featured": true,
+    "order": 12,
+    "status": "published",
+    "buildingName": "Pavillion Ceylon",
+    "beds": 2,
+    "baths": 2,
+    "footerText": "**Own Stay**"
   }
 ]

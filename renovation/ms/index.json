@@ -212,5 +212,23 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Hasil Sewaan Tinggi**"
+  },
+  {
+    "slug": "pavillion-ceylon",
+    "title": "Pavillion Ceylon Keanggunan Kontemporari",
+    "category": "Kondominium",
+    "location": "Kuala Lumpur",
+    "cost": "RM 22,000",
+    "datePublished": "2026-07-30",
+    "excerpt": "Kondominium mewah 2-bilik di Pavillion Ceylon, Kuala Lumpur, diubah dengan elegan pada bajet cekap RM 22,000 pada tahun 2024 dengan gaya klasik kontemporari, tona bumi hangat, dan panel dinding yang halus di seluruh kediaman.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
+    "tags": ["Klasik Kontemporari", "Panel Dinding", "Tona Bumi Hangat"],
+    "featured": true,
+    "order": 11,
+    "status": "published",
+    "buildingName": "Pavillion Ceylon",
+    "beds": 2,
+    "baths": 2,
+    "footerText": "**Kediaman Sendiri**"
   }
 ]
