@@ -231,5 +231,41 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Homestay Design**"
+  },
+  {
+    "slug": "pavillion-ceylon",
+    "title": "Pavillion Ceylon Contemporary Elegance",
+    "category": "Condominium",
+    "location": "Kuala Lumpur",
+    "cost": "RM 25,250",
+    "datePublished": "2026-07-30",
+    "excerpt": "A 2-bedroom luxury condominium at Pavillion Ceylon, Kuala Lumpur, set up turnkey for the premium rental market in 2024 — contemporary classic styling, warm earth tones, and refined wall panelling throughout, on an efficient RM 25,250 all-in budget.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
+    "tags": ["Contemporary Classic", "Wall Panelling", "Warm Earth Tones"],
+    "featured": true,
+    "order": 12,
+    "status": "published",
+    "buildingName": "Pavillion Ceylon",
+    "beds": 2,
+    "baths": 2,
+    "footerText": "**Own Stay**"
+  },
+  {
+    "slug": "henna-wangsa-maju",
+    "title": "Henna Residensi Turnkey Rental Styling",
+    "category": "Serviced Apartment",
+    "location": "Wangsa Maju, Kuala Lumpur",
+    "cost": "RM 30,600",
+    "datePublished": "2026-07-30",
+    "excerpt": "A brand-new 2-bedroom unit at Henna Residensi, Wangsa Maju, set up turnkey for the rental market — fully furnished, styled in Scandinavian modern with blue-grey wainscoting, and ready for listing in one go.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/henna-wangsa-maju/images/living-room.webp",
+    "tags": ["Scandinavian Modern", "Turnkey Rental Setup", "Wainscoting"],
+    "featured": true,
+    "order": 13,
+    "status": "published",
+    "buildingName": "Henna Residensi",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**Turnkey Rental**"
   }
 ]
