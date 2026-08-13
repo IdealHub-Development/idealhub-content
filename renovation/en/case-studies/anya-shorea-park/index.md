@@ -38,6 +38,33 @@ gallery:
   - label: Clean Modern Bathroom
     alt: Contemporary bathroom with neutral wall tiles, modern water heater shower, white porcelain toilet and basin, with sleek black mirror shelf and towel racks.
     file: bathroom.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Framed wainscoting accent wall
+      - LED wave chandelier
+      - Ceiling fans
+      - Bathroom water heater and modern fixtures
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - L-shaped kitchen cabinetry with black stone countertop
+      - Floating wooden TV console
+      - Dark wooden bedroom wardrobes
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Beige sofa
+      - Round wooden dining table set
+      - Double bed
+  - title: Electrical Appliances
+    icon: plug
+    items:
+      - Air conditioning in all rooms
+      - Built-in electric hob
+      - Cooker hood
+
 ---
 
 

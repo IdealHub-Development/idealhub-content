@@ -36,6 +36,20 @@ gallery:
     file: master-bedroom.webp
   - label: Second Bedroom
     file: second-bedroom.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Warm wood-look vinyl flooring
+      - Fresh neutral paint coat
+      - Matte-black ceiling fans
+      - Track spotlights
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - New matching kitchen wall cabinets
+      - Durable countertops
+
 ---
 
 

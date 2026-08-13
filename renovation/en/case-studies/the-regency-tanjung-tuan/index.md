@@ -1,3 +1,4 @@
+---
 title: Regency Tanjung Tuan Coastal Homestay Refurbishment
 subtitle: Homestay Transformation & Turnkey Rental Styling
 category: Apartment
@@ -39,6 +40,26 @@ gallery:
   - label: Retro Bathroom
     file: bathroom.webp
     alt: Bathroom featuring retro olive green wall and floor tiles, a sunken corner tub, and matching toilet.
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Artificial grass balcony flooring
+      - Heavy brown drapes
+      - Patterned blue rug
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Warm wood kitchen cabinetry
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Rattan living room furniture
+      - Rattan bar stools
+      - New beds with hotel-quality linens
+      - Wall art
+      - Balcony outdoor seating
+
 ---
 
 To help the owner tap into the lucrative Port Dickson homestay market, this apartment at Regency Tanjung Tuan underwent a targeted, low-cost refurbishment. The project focused on transforming a dated space into an inviting, cost-effective homestay, perfect for weekend getaways.

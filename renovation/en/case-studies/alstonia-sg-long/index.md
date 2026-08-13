@@ -40,6 +40,31 @@ gallery:
   - label: L-Shape Sofa Lounge
     alt: Close-up of the cozy living room seating area featuring an L-shaped beige sectional couch with throw pillows, a dark fluted accent wall, abstract art, and ceiling track lights.
     file: living 2.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Dark fluted wall feature
+      - Track lighting
+      - Floor-to-ceiling sheer curtains
+      - Vertical sconce lights
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Duck-egg blue and light oak kitchen cabinets
+      - Floor-to-ceiling mirrored wardrobes
+      - Integrated dressing vanity
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - L-shaped beige sectional sofa
+      - Black coffee table
+  - title: Electrical Appliances
+    icon: plug
+    items:
+      - Refrigerator
+      - Water dispenser
+
 ---
 
 

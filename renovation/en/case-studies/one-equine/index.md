@@ -35,6 +35,34 @@ gallery:
   - label: Bathroom
     alt: Modern apartment bathroom renovation with grey porcelain wall tiles, floating white vanity sink cabinet, and black rectangular mirror in Seri Kembangan.
     file: bathroom.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Accent track spotlighting
+      - Dark wood ceiling fan
+      - Grey porcelain bathroom wall tiles
+      - Black-framed mirror
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Wood-tone kitchen cabinetry with composite countertops
+      - Built-in wardrobe
+      - Floating bathroom vanity sink
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Dining table set
+      - Upholstered headboard
+      - Soft furnishings
+      - Framed artwork
+  - title: Electrical Appliances
+    icon: plug
+    items:
+      - Integrated induction cooktop
+      - Built-in home appliances
+      - Multi-room air conditioning
+
 ---
 
 Situated in the heart of Seri Kembangan, this serviced apartment unit at One Equine underwent a comprehensive home refurbishment designed to maximize both aesthetic appeal and daily comfort. Executed through professional renovation services in Seri Kembangan within a swift 1-month window and an efficient RM 35,000 budget, the project focused on transforming a basic developer layout into a fully equipped, modern living space.

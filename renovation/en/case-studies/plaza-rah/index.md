@@ -38,6 +38,32 @@ gallery:
   - label: Bathroom
     alt: Clean bathroom makeover featuring a modern white floating sink vanity, black handheld shower fittings, and refreshed teal blue and off-white tiled walls.
     file: bathroom.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Dark wood fluted acoustic feature wall
+      - Plaster ceiling cove lighting
+      - Wall wainscoting trim
+      - Refreshed bathroom tiling
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Dark shaker-style kitchen cabinetry with solid countertops
+      - Floating bathroom sink vanity
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Grey sofa
+      - Six-seater dining set
+      - Upholstered bed frame
+      - Framed wall mirror
+  - title: Electrical Appliances
+    icon: plug
+    items:
+      - Integrated cooking appliances
+      - Ceiling fans
+
 ---
 
 Located in the vibrant enclave of Kampung Baru, this unit at Plaza Rah underwent a complete cosmetic and functional refurbishment to transform an aging layout into a welcoming, modern home designed for long-term owner occupancy. Executed through expert condominium renovation services in Kuala Lumpur within a 2-month timeline and an accessible RM 33,000 budget, the project highlights how smart interior design can revitalize classic serviced apartments.

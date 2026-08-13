@@ -37,6 +37,31 @@ gallery:
   - label: Living Room & Dining Area
     alt: Open concept dining and TV wall design in Subang Jaya featuring a round wooden dining table set, sleek TV console, and wall-mounted television.
     file: dining.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Forest-green accent feature walls
+      - Track lighting
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Kitchenette base and wall cabinets
+      - Custom TV console
+      - Full-height built-in bedroom wardrobe
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Beige sofa
+      - Round wooden coffee tables
+      - Round dining table set
+      - Upholstered bed frame
+  - title: Electrical Appliances
+    icon: plug
+    items:
+      - Built-in kitchen appliances
+      - Wall-mounted TV
+
 ---
 
 Designed specifically to capture high-value tenants, this 527 sqft 1-bedroom unit at Dorsett Waterfront in Subang Jaya was transformed through expert condo renovation services into a **modern urban style** residence on a cost-efficient RM33,100 budget.

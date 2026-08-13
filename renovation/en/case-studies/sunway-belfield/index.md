@@ -32,6 +32,22 @@ gallery:
     file: stylish-display.webp
   - label: Bedroom Vanity Corner
     file: built-in-wardrobe.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Floor-to-ceiling drapes
+      - Soft ambient lighting
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Plush neutral L-shaped sofa
+      - Warm wood coffee tables
+      - Textured area rugs
+      - Hotel-quality bedding
+      - Storage credenzas
+      - Minimalist artwork
+
 ---
 
 

@@ -43,6 +43,26 @@ gallery:
   - label: Second Bedroom
     alt: Minimalist single bedroom with a white dressed bed, built-in floor-to-ceiling mirrored wardrobe, small nightstand, wood flooring, and a dark ceiling fan.
     file: bedroom 2.webp
+overview:
+  - title: 'Fixtures & Fittings'
+    icon: lightbulb
+    items:
+      - Cream wainscoting and wall moulding
+      - Beveled diamond-grid accent mirrors
+      - Recessed LED strip lighting
+      - Ceiling fans
+  - title: Custom Cabinetry
+    icon: box
+    items:
+      - Entryway shoe cabinet with display niche
+      - Built-in mirrored wardrobes
+  - title: 'Furniture & Furnishings'
+    icon: armchair
+    items:
+      - Velvet upholstered bed with gold trim
+      - Wooden dining table
+      - Nightstands
+
 ---
 
 ## The Project Story
