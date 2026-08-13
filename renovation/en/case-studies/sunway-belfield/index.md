@@ -32,6 +32,7 @@ gallery:
     file: stylish-display.webp
   - label: Bedroom Vanity Corner
     file: built-in-wardrobe.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

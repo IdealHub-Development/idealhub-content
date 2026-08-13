@@ -37,6 +37,7 @@ gallery:
   - label: Living Room & Dining Area
     alt: Open concept dining and TV wall design in Subang Jaya featuring a round wooden dining table set, sleek TV console, and wall-mounted television.
     file: dining.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

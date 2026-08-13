@@ -35,6 +35,7 @@ gallery:
   - label: Bathroom
     alt: Modern apartment bathroom renovation with grey porcelain wall tiles, floating white vanity sink cabinet, and black rectangular mirror in Seri Kembangan.
     file: bathroom.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

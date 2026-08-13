@@ -38,6 +38,8 @@ gallery:
   - label: Second Bedroom
     alt: Second bedroom with a single bed with dark upholstered headboard, dark blue-green wainscoting accent wall, taupe curtains, and wood-look vinyl flooring.
     file: second-bedroom.webp
+
+overviewHidden: true
 ---
 
 This brand-new 2-bedroom unit at Henna Residensi in Wangsa Maju was set up turnkey for the rental market on an all-in RM 30,600 budget. From smart door lock to final photography, the project delivered a complete rental-ready home — furnishing, styling, appliances, and multi-platform listing all handled in one seamless package.

@@ -38,6 +38,7 @@ gallery:
   - label: Bathroom
     alt: Clean bathroom makeover featuring a modern white floating sink vanity, black handheld shower fittings, and refreshed teal blue and off-white tiled walls.
     file: bathroom.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

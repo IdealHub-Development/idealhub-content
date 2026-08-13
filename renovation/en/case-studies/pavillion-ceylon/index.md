@@ -37,6 +37,8 @@ gallery:
   - label: Second Bedroom
     alt: Second bedroom with mustard-yellow panelled walls, a queen bed with navy upholstered headboard, abstract spiral artwork, and hardwood flooring.
     file: second-bedroom.webp
+
+overviewHidden: true
 ---
 
 Set up as a brand-new unit for the premium rental market, this 2-bedroom, 2-bathroom condominium at Pavillion Ceylon in Kuala Lumpur was completed in 2024 on an all-in RM 25,250 budget. From the digital smart door lock to final photography, the project delivered a complete rental-ready home — painting and wainscoting, full furnishing, appliances, and multi-platform listing handled in one seamless package.

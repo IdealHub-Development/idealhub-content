@@ -35,6 +35,7 @@ gallery:
   - label: Compact Kitchenette & Laundry
     alt: Built-in dark grey and natural oak kitchen cabinets equipped with an induction cooker, cooker hood, under-counter washing machine, and standing refrigerator.
     file: kitchen.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

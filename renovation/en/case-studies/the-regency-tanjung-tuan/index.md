@@ -40,6 +40,7 @@ gallery:
   - label: Retro Bathroom
     file: bathroom.webp
     alt: Bathroom featuring retro olive green wall and floor tiles, a sunken corner tub, and matching toilet.
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

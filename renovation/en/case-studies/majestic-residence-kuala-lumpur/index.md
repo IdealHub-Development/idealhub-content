@@ -34,6 +34,7 @@ gallery:
   - label: Dining Area & Kitchenette
     alt: Dining area with a round walnut dining table, four upholstered chairs, a modern dome pendant light, wall wainscoting framed artwork, and an adjacent compact kitchen space.
     file: dining.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb

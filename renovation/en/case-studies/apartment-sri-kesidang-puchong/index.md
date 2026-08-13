@@ -36,6 +36,7 @@ gallery:
     file: master-bedroom.webp
   - label: Second Bedroom
     file: second-bedroom.webp
+overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
     icon: lightbulb
