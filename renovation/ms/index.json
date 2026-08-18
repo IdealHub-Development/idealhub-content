@@ -1,5 +1,27 @@
 [
   {
+    "slug": "astrum-ampang-32",
+    "title": "Astrum Ampang Studio Renovation",
+    "category": "Kondominium",
+    "location": "Ampang",
+    "cost": "RM 17,140",
+    "datePublished": "2026-05-28",
+    "excerpt": "Sebuah studio 280 kps di Astrum Ampang diubah suai menjadi sewaan moden lengkap — menampilkan dinding ciri TV kayu berjalur gelap, katil divan queen, dan dapur kecil kompak dengan meja kuarza serta gabungan mesin basuh-pengering. Menyasarkan RM 1,500 / bulan dengan perbelanjaan pengubahsuaian RM 17,140 merangkumi semua.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-32/images/tv-area.webp",
+    "tags": [
+      "Kediaman Kompak",
+      "Dinding Ciri Kayu Berjalur",
+      "Studio"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Astrum Ampang",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**Sewa:** RM1,500"
+  },
+  {
     "slug": "astrum-ampang",
     "title": "Astrum Ampang Urban Haven",
     "category": "Kondominium",
@@ -14,7 +36,7 @@
       "Kediaman Kompak"
     ],
     "featured": true,
-    "order": 1,
+    "order": 2,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -37,7 +59,7 @@
       "Sungai Long"
     ],
     "featured": true,
-    "order": 2,
+    "order": 3,
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
@@ -59,7 +81,7 @@
       "Pengoptimuman Ruang"
     ],
     "featured": true,
-    "order": 3,
+    "order": 4,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
@@ -81,7 +103,7 @@
       "Pelaburan Sewaan"
     ],
     "featured": true,
-    "order": 4,
+    "order": 5,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
@@ -103,7 +125,7 @@
       "Kediaman Sendiri"
     ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -125,7 +147,7 @@
       "Pelaburan Sewaan"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
@@ -147,7 +169,7 @@
       "Walnut Gelap"
     ],
     "featured": true,
-    "order": 7,
+    "order": 8,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -169,7 +191,7 @@
       "Berperabot Lengkap"
     ],
     "featured": true,
-    "order": 8,
+    "order": 9,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
@@ -186,9 +208,13 @@
     "datePublished": "2026-07-28",
     "excerpt": "Sebuah unit 2-bilik di Anya @ Shorea Park diubah menjadi kediaman sewaan berdaya tarikan tinggi dengan RM24,000 merangkumi semua, menampilkan penghawa dingin di seluruh unit, kabinet dapur tersuai, dan pencahayaan pereka yang hangat.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/anya-shorea-park/images/thumbnail.webp",
-    "tags": ["Minimalis Moden", "Tona Neutral Lembut", "Pelaburan Hasil Tinggi"],
+    "tags": [
+      "Minimalis Moden",
+      "Tona Neutral Lembut",
+      "Pelaburan Hasil Tinggi"
+    ],
     "featured": true,
-    "order": 9,
+    "order": 10,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
@@ -204,9 +230,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "Pengubahsuaian bertema pantai yang disasarkan di Regency Tanjung Tuan, Port Dickson, mengubah pangsapuri lama menjadi homestay yang hangat dan lengkap berperabot bersedia untuk kadar sewaan premium.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/the-regency-tanjung-tuan/images/living-room.webp",
-    "tags": ["Renovasi Gaya Melayu", "Kehidupan Pantai", "Homestay"],
+    "tags": [
+      "Renovasi Gaya Melayu",
+      "Kehidupan Pantai",
+      "Homestay"
+    ],
     "featured": true,
-    "order": 10,
+    "order": 11,
     "status": "published",
     "buildingName": "Regency Tanjung Tuan",
     "beds": 2,
@@ -222,9 +252,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "Kondominium mewah 2-bilik di Pavillion Ceylon, Kuala Lumpur, disediakan secara turnkey untuk pasaran sewaan premium pada tahun 2024 — gaya klasik kontemporari, tona bumi hangat, dan panel dinding yang halus di seluruh kediaman, dengan bajet menyeluruh RM 25,250 yang cekap.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
-    "tags": ["Klasik Kontemporari", "Panel Dinding", "Tona Bumi Hangat"],
+    "tags": [
+      "Klasik Kontemporari",
+      "Panel Dinding",
+      "Tona Bumi Hangat"
+    ],
     "featured": true,
-    "order": 11,
+    "order": 12,
     "status": "published",
     "buildingName": "Pavillion Ceylon",
     "beds": 2,
@@ -240,9 +274,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "Unit 2-bilik baharu di Henna Residensi, Wangsa Maju, disediakan secara turnkey untuk pasaran sewaan — lengkap berperabot, digayakan dalam gaya Skandinavia moden dengan wainscoting biru-kelabu, dan sedia untuk disenaraikan sekaligus.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/henna-wangsa-maju/images/living-room.webp",
-    "tags": ["Skandinavia Moden", "Persediaan Sewaan Turnkey", "Wainscoting"],
+    "tags": [
+      "Skandinavia Moden",
+      "Persediaan Sewaan Turnkey",
+      "Wainscoting"
+    ],
     "featured": true,
-    "order": 12,
+    "order": 13,
     "status": "published",
     "buildingName": "Henna Residensi",
     "beds": 2,

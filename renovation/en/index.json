@@ -1,12 +1,34 @@
 [
   {
+    "slug": "astrum-ampang-32",
+    "title": "Astrum Ampang Studio Renovation",
+    "category": "Condominium",
+    "location": "Ampang",
+    "cost": "RM 17,140",
+    "datePublished": "2026-05-28",
+    "excerpt": "A 280 sqft studio at Astrum Ampang transformed into a modern, fully equipped rental — featuring a dark wood slat TV feature wall, queen divan bed, and a compact kitchenette with quartz countertop and washer dryer combo. Targeting RM 1,500 / month on an all-inclusive RM 17,140 renovation outlay.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-32/images/tv-area.webp",
+    "tags": [
+      "Compact Living",
+      "Wood Slat Feature Wall",
+      "Studio"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Astrum Ampang",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "Rental: **RM1,500**"
+  },
+  {
     "slug": "astrum-ampang",
     "title": "Astrum Ampang Urban Haven",
     "category": "Condominium",
     "location": "Ampang",
     "cost": "RM 22,000",
     "datePublished": "2026-07-28",
-    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit\u2014targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
+    "excerpt": "A compact 250 sqft studio at Astrum Ampang strategically transformed into a fully equipped, tenant-ready rental unit—targeting RM1,600/month with an all-inclusive RM22,000 renovation outlay.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang/images/thumbnail.webp",
     "tags": [
       "High ROI Rental",
@@ -14,7 +36,7 @@
       "Compact Living"
     ],
     "featured": true,
-    "order": 1,
+    "order": 2,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -37,7 +59,7 @@
       "Sungai Long"
     ],
     "featured": true,
-    "order": 2,
+    "order": 3,
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
@@ -59,7 +81,7 @@
       "Space Optimization"
     ],
     "featured": true,
-    "order": 3,
+    "order": 4,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
@@ -81,7 +103,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 4,
+    "order": 5,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
@@ -98,9 +120,13 @@
     "datePublished": "2026-07-29",
     "excerpt": "A compact 527 sqft 1-bedroom unit at Dorsett Waterfront redesigned into a modern, warm, and highly attractive rental home for urban professionals.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/dorsett-waterfront/images/thumbnail.webp",
-    "tags": ["Modern Urban", "Warm Wood Tones", "Earthy Neutrals"],
+    "tags": [
+      "Modern Urban",
+      "Warm Wood Tones",
+      "Earthy Neutrals"
+    ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Dorsett Waterfront",
     "beds": 1,
@@ -114,7 +140,7 @@
     "location": "Kampung Baru, Kuala Lumpur",
     "cost": "RM 33,000",
     "datePublished": "2026-07-27",
-    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur \u2014 creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
+    "excerpt": "A targeted refurbishment of a Plaza Rah apartment in Kampung Baru, Kuala Lumpur — creating a cozy, modern sanctuary with tailored kitchen cabinetry, acoustic feature wall, and contemporary styling.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/plaza-rah/images/after.webp",
     "tags": [
       "Modern Contemporary",
@@ -122,7 +148,7 @@
       "Own Stay"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -144,12 +170,35 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 7,
+    "order": 8,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
     "baths": 1,
     "footerText": "Yield Uplift: **+15%**"
+  },
+  {
+    "slug": "anya-shorea-park",
+    "title": "Anya @ Shorea Park Modern Minimalist",
+    "category": "Condominium",
+    "location": "Puchong",
+    "yield": "High-Yield Target",
+    "cost": "RM 24,000",
+    "datePublished": "2026-07-28",
+    "excerpt": "A 2-bedroom unit at Anya @ Shorea Park transformed into a high-appeal rental home for RM24,000 all-in, featuring air conditioning throughout, custom kitchen cabinetry, and warm designer lighting.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/anya-shorea-park/images/thumbnail.webp",
+    "tags": [
+      "Modern Minimalist",
+      "Soft Neutral Tones",
+      "High-Yield Investment"
+    ],
+    "featured": true,
+    "order": 9,
+    "status": "published",
+    "buildingName": "Anya @ Shorea Park",
+    "beds": 2,
+    "baths": 1,
+    "footerText": "**Own Stay**"
   },
   {
     "slug": "sanderling-lakefront-residence",
@@ -166,7 +215,7 @@
       "Dark Walnut"
     ],
     "featured": true,
-    "order": 9,
+    "order": 10,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -188,31 +237,12 @@
       "Fully Furnished"
     ],
     "featured": true,
-    "order": 10,
+    "order": 11,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
     "baths": 2,
     "footerText": "Rented in **1 month**"
-  },
-  {
-    "slug": "anya-shorea-park",
-    "title": "Anya @ Shorea Park Modern Minimalist",
-    "category": "Condominium",
-    "location": "Puchong",
-    "yield": "High-Yield Target",
-    "cost": "RM 24,000",
-    "datePublished": "2026-07-28",
-    "excerpt": "A 2-bedroom unit at Anya @ Shorea Park transformed into a high-appeal rental home for RM24,000 all-in, featuring air conditioning throughout, custom kitchen cabinetry, and warm designer lighting.",
-    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/anya-shorea-park/images/thumbnail.webp",
-    "tags": ["Modern Minimalist", "Soft Neutral Tones", "High-Yield Investment"],
-    "featured": true,
-    "order": 8,
-    "status": "published",
-    "buildingName": "Anya @ Shorea Park",
-    "beds": 2,
-    "baths": 1,
-    "footerText": "**Own Stay**"
   },
   {
     "slug": "regency-tanjung-tuan",
@@ -223,9 +253,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "A targeted coastal-themed refurbishment at Regency Tanjung Tuan, Port Dickson, transforming a dated apartment into a warm, fully furnished homestay ready to command premium rental rates.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/the-regency-tanjung-tuan/images/living-room.webp",
-    "tags": ["Malay Style Renovation", "Coastal Living", "Homestay"],
+    "tags": [
+      "Malay Style Renovation",
+      "Coastal Living",
+      "Homestay"
+    ],
     "featured": true,
-    "order": 11,
+    "order": 12,
     "status": "published",
     "buildingName": "Regency Tanjung Tuan",
     "beds": 2,
@@ -241,9 +275,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "A 2-bedroom luxury condominium at Pavillion Ceylon, Kuala Lumpur, set up turnkey for the premium rental market in 2024 — contemporary classic styling, warm earth tones, and refined wall panelling throughout, on an efficient RM 25,250 all-in budget.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/pavillion-ceylon/images/living-room-full.webp",
-    "tags": ["Contemporary Classic", "Wall Panelling", "Warm Earth Tones"],
+    "tags": [
+      "Contemporary Classic",
+      "Wall Panelling",
+      "Warm Earth Tones"
+    ],
     "featured": true,
-    "order": 12,
+    "order": 13,
     "status": "published",
     "buildingName": "Pavillion Ceylon",
     "beds": 2,
@@ -259,9 +297,13 @@
     "datePublished": "2026-07-30",
     "excerpt": "A brand-new 2-bedroom unit at Henna Residensi, Wangsa Maju, set up turnkey for the rental market — fully furnished, styled in Scandinavian modern with blue-grey wainscoting, and ready for listing in one go.",
     "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/henna-wangsa-maju/images/living-room.webp",
-    "tags": ["Scandinavian Modern", "Turnkey Rental Setup", "Wainscoting"],
+    "tags": [
+      "Scandinavian Modern",
+      "Turnkey Rental Setup",
+      "Wainscoting"
+    ],
     "featured": true,
-    "order": 13,
+    "order": 14,
     "status": "published",
     "buildingName": "Henna Residensi",
     "beds": 2,
