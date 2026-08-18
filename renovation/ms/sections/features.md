@@ -6,13 +6,13 @@ features:
   - title: Penjajaran Demografi
     description: Estetika yang disesuaikan - reka bentuk kontemporari bergaya Melayu untuk kawasan majoriti Melayu, konsep urban minimalis untuk profesional pusat bandar di Malaysia.
     icon: Compass
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/demographic-alignment.webp
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/home/features/demographic-alignment.webp
   - title: Pengoptimuman Topologi
     description: Konfigurasi susun atur yang direkayasa untuk memaksimumkan rakaman kaki persegi dan susun atur struktur khusus bagi jenis hartanah anda, dari unit Pangsapuri hingga GCB.
     icon: Ruler
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/topology-optimization.webp
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/home/features/topology-optimization.webp
   - title: Dibina untuk Ketahanan Sewaan
     description: Bahan berestetika tinggi, penyelenggaraan rendah yang dipilih khusus untuk menahan pertukaran penyewa sambil mengekalkan penampilan premium.
     icon: Shield
-    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/features/rental-durability.webp
+    image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/images/home/features/rental-durability.webp
 ---

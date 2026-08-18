@@ -2,7 +2,7 @@
   "renovation": {
     "title": "Turnkey Renovation Service in Klang Valley & Kuala Lumpur — High-Yield Rental Interiors | IdealHub",
     "description": "IdealHub is a Klang Valley renovation contractor specializing in turnkey apartment and condo refurbishment for landlords. 500+ high-yield rental transformations across Kuala Lumpur, Puchong, Ampang, Cyberjaya, and Sungai Long. Get an instant renovation quote.",
-    "image": "renovation/images/renovation-thumbnail.webp",
+    "image": "renovation/images/home/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
@@ -62,17 +62,17 @@
   "quote": {
     "title": "Request a Quote — Turnkey Renovation | IdealHub",
     "description": "Fill out our renovation quotation form and get a customised estimate for your property in Klang Valley, Kuala Lumpur, or Selangor.",
-    "image": "renovation/quote/images/renovation-thumbnail.webp"
+    "image": "renovation/images/quote/renovation-thumbnail.webp"
   },
   "gallery": {
     "title": "Renovation Portfolio — Before & After Transformations | IdealHub",
     "description": "Browse real high-yield rental renovation projects across Klang Valley and Kuala Lumpur. See before-and-after transformations in Puchong, Ampang, Cyberjaya, Sungai Long, Kampung Baru, and Seri Kembangan.",
-    "image": "renovation/gallery/images/renovation-thumbnail.webp"
+    "image": "renovation/images/gallery/renovation-thumbnail.webp"
   },
   "faq": {
     "title": "Renovation FAQ — Pricing, Process & What to Expect | IdealHub",
     "description": "Find answers to common questions about our Klang Valley renovation process, pricing, timelines, and more. Turnkey renovation for apartments, condos, and landed homes.",
-    "image": "renovation/faq/images/renovation-thumbnail.webp",
+    "image": "renovation/images/faq/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "FAQPage",
