@@ -1,0 +1,14 @@
+{
+  "title": "Astrum Ampang Studio Renovation — 280 sqft Studio in Ampang | IdealHub",
+  "description": "Browse our Astrum Ampang studio renovation — a 280 sqft unit transformed into a fully furnished, tenant-ready rental with a wood slat TV feature wall and compact kitchenette. RM 17,140 all-inclusive budget, targeting RM 1,500/month.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Astrum Ampang Studio Renovation — Modern Studio Condominium Renovation in Ampang",
+    "description": "A 280 sqft studio at Astrum Ampang transformed into a fully equipped, tenant-ready rental on an RM 17,140 all-inclusive budget. Features a dark wood slat TV feature wall, queen divan with spring mattress, kitchen extension with quartz countertop, electric hood and cooker, washer dryer combo, and 50\" Smart TV, targeting RM 1,500/month rental yield.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-32/images/tv-area.webp",
+    "datePublished": "2026-05-28",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}
