@@ -2,6 +2,7 @@
   "renovation": {
     "title": "巴生谷与吉隆坡一站式装修服务 — 高收益租赁室内设计 | IdealHub",
     "description": "IdealHub 是巴生谷装修承包商，专注于为房东提供一站式公寓和共管公寓翻新服务。在吉隆坡、蒲种、安邦、赛城和双溪龙完成了500+个高收益租赁改造项目。立即获取装修报价。",
+    "image": "renovation/images/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
@@ -60,16 +61,18 @@
   },
   "quote": {
     "title": "索取报价 — 一站式装修 | IdealHub",
-    "description": "填写我们的装修报价表，获取针对您在巴生谷、吉隆坡或雪兰莪的房产的定制估算。"
+    "description": "填写我们的装修报价表，获取针对您在巴生谷、吉隆坡或雪兰莪的房产的定制估算。",
+    "image": "renovation/quote/images/renovation-thumbnail.webp"
   },
   "gallery": {
     "title": "装修案例 — 前后对比改造 | IdealHub",
     "description": "浏览巴生谷和吉隆坡真实的高收益租赁装修项目。查看蒲种、安邦、赛城、双溪龙、甘榜巴鲁和斯里肯邦安的前后对比改造效果。",
-    "image": "images/renovation-thumbnail.webp"
+    "image": "renovation/gallery/images/renovation-thumbnail.webp"
   },
   "faq": {
     "title": "装修常见问题 — 价格、流程与预期 | IdealHub",
     "description": "查找关于我们在巴生谷的装修流程、价格、时间表等常见问题的答案。为公寓、共管公寓和排屋提供一站式装修服务。",
+    "image": "renovation/faq/images/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "FAQPage",

@@ -2,6 +2,7 @@
   "renovation": {
     "title": "Perkhidmatan Pengubahsuaian Turnkey di Lembah Klang & Kuala Lumpur — Dalaman Sewaan Hasil Tinggi | IdealHub",
     "description": "IdealHub ialah kontraktor pengubahsuaian Lembah Klang yang mengkhusus dalam pengubahsuaian pangsapuri dan kondo turnkey untuk tuan rumah. 500+ transformasi sewaan hasil tinggi di seluruh Kuala Lumpur, Puchong, Ampang, Cyberjaya, dan Sungai Long. Dapatkan sebut harga pengubahsuaian segera.",
+    "image": "renovation/images/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "LocalBusiness",
@@ -60,16 +61,18 @@
   },
   "quote": {
     "title": "Minta Sebut Harga — Pengubahsuaian Turnkey | IdealHub",
-    "description": "Isi borang sebut harga pengubahsuaian kami dan dapatkan anggaran tersuai untuk hartanah anda di Lembah Klang, Kuala Lumpur, atau Selangor."
+    "description": "Isi borang sebut harga pengubahsuaian kami dan dapatkan anggaran tersuai untuk hartanah anda di Lembah Klang, Kuala Lumpur, atau Selangor.",
+    "image": "renovation/quote/images/renovation-thumbnail.webp"
   },
   "gallery": {
     "title": "Portfolio Pengubahsuaian — Transformasi Sebelum & Selepas | IdealHub",
     "description": "Lihat projek pengubahsuaian sewaan hasil tinggi sebenar di seluruh Lembah Klang dan Kuala Lumpur. Lihat transformasi sebelum-dan-selepas di Puchong, Ampang, Cyberjaya, Sungai Long, Kampung Baru, dan Seri Kembangan.",
-    "image": "images/renovation-thumbnail.webp"
+    "image": "renovation/gallery/images/renovation-thumbnail.webp"
   },
   "faq": {
     "title": "Soalan Lazim Pengubahsuaian — Harga, Proses & Apa yang Dijangkakan | IdealHub",
     "description": "Cari jawapan kepada soalan lazim tentang proses pengubahsuaian, harga, garis masa, dan banyak lagi di Lembah Klang. Pengubahsuaian turnkey untuk pangsapuri, kondo, dan rumah bertanah.",
+    "image": "renovation/faq/images/renovation-thumbnail.webp",
     "structuredData": {
       "@context": "https://schema.org",
       "@type": "FAQPage",
