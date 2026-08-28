@@ -286,5 +286,28 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Sewaan Turnkey**"
+  },
+  {
+    "slug": "dorsett-waterfront",
+    "title": "Dorsett Waterfront Haven Moden",
+    "category": "Kondominium",
+    "location": "Subang Jaya",
+    "yield": "+22%",
+    "cost": "RM 33,100",
+    "datePublished": "2026-07-29",
+    "excerpt": "Sebuah unit 1-bilik 527 kps yang kompak di Dorsett Waterfront direka semula menjadi kediaman sewaan yang moden, hangat, dan sangat menarik untuk profesional bandar.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "tags": [
+      "Urban Moden",
+      "Tona Kayu Hangat",
+      "Neutral Bumi"
+    ],
+    "featured": true,
+    "order": 14,
+    "status": "published",
+    "buildingName": "Dorsett Waterfront",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**Peningkatan Hasil:** +22%"
   }
 ]

@@ -286,5 +286,28 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**一站式租赁**"
+  },
+  {
+    "slug": "dorsett-waterfront",
+    "title": "Dorsett Waterfront 现代避风港",
+    "category": "共管公寓",
+    "location": "梳邦再也",
+    "yield": "+22%",
+    "cost": "RM 33,100",
+    "datePublished": "2026-07-29",
+    "excerpt": "Dorsett Waterfront 一间紧凑的 527 平方英尺 1 卧室单元，重新设计为现代、温馨且极具吸引力的租赁住宅，专为都市专业人士打造。",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/dorsett-waterfront/images/thumbnail.webp",
+    "tags": [
+      "现代都市",
+      "温暖木色调",
+      "大地中性色调"
+    ],
+    "featured": true,
+    "order": 14,
+    "status": "published",
+    "buildingName": "Dorsett Waterfront",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**收益提升：** +22%"
   }
 ]
