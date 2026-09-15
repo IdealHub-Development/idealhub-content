@@ -309,5 +309,28 @@
     "beds": 2,
     "baths": 1,
     "footerText": "**Turnkey Rental**"
+  },
+  {
+    "slug": "legasi-kampung-bharu",
+    "title": "Legasi Kampung Bharu Homestay Transformation",
+    "category": "Condominium",
+    "location": "Kampung Bharu, Kuala Lumpur",
+    "cost": "TBD",
+    "datePublished": "2026-07-30",
+    "excerpt": "A 3-bedroom condominium at Legasi Kampung Bharu, Kuala Lumpur, transformed into a warm, contemporary homestay — featuring an open-plan kitchen, taupe accent walls with white wainscoting, fully furnished bedrooms, and a floor-to-ceiling view of the Petronas Towers.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
+    "tags": [
+      "Modern Contemporary",
+      "Turnkey Renovation",
+      "Homestay",
+      "Petronas View"
+    ],
+    "featured": true,
+    "order": 15,
+    "status": "published",
+    "buildingName": "Legasi Kampung Bharu",
+    "beds": 3,
+    "baths": 2,
+    "footerText": "**Homestay Design**"
   }
 ]

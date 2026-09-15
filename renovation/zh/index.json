@@ -309,5 +309,28 @@
     "beds": 1,
     "baths": 1,
     "footerText": "**收益提升：** +22%"
+  },
+  {
+    "slug": "legasi-kampung-bharu",
+    "title": "Legasi Kampung Bharu 民宿改造",
+    "category": "共管公寓",
+    "location": "甘榜巴鲁，吉隆坡",
+    "cost": "待定",
+    "datePublished": "2026-07-30",
+    "excerpt": "吉隆坡甘榜巴鲁 Legasi Kampung Bharu 的 3 房共管公寓，被改造为温馨现代的民宿 — 开放式厨房、配白色护墙板的灰褐色重点墙、全套家具卧室，以及可望见双子塔的落地窗景观。",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
+    "tags": [
+      "现代当代",
+      "一站式改造",
+      "民宿",
+      "双子塔景观"
+    ],
+    "featured": true,
+    "order": 15,
+    "status": "published",
+    "buildingName": "Legasi Kampung Bharu",
+    "beds": 3,
+    "baths": 2,
+    "footerText": "**民宿设计**"
   }
 ]

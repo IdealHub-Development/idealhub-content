@@ -1,0 +1,14 @@
+{
+  "title": "Legasi Kampung Bharu Homestay Transformation — Condominium Renovation in KL | IdealHub",
+  "description": "Browse our Legasi Kampung Bharu renovation — a 3-bedroom condominium in Kampung Bharu, Kuala Lumpur, transformed into a contemporary homestay with a Petronas Towers skyline view. Turnkey reno in 2 months.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Legasi Kampung Bharu Homestay Transformation — Modern Contemporary Renovation in Kampung Bharu, KL",
+    "description": "A 3-bedroom condominium at Legasi Kampung Bharu, Kampung Bharu, Kuala Lumpur, transformed into a fully furnished contemporary homestay. Features an open-plan kitchen, taupe accent walls with white wainscoting, three furnished bedrooms, and a floor-to-ceiling view of the Petronas Towers. Completed within a 2-month turnaround.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
+    "datePublished": "2026-07-30",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

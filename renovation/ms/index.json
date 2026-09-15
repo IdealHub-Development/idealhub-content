@@ -309,5 +309,28 @@
     "beds": 1,
     "baths": 1,
     "footerText": "**Peningkatan Hasil:** +22%"
+  },
+  {
+    "slug": "legasi-kampung-bharu",
+    "title": "Transformasi Homestay Legasi Kampung Bharu",
+    "category": "Kondominium",
+    "location": "Kampung Bharu, Kuala Lumpur",
+    "cost": "TBD",
+    "datePublished": "2026-07-30",
+    "excerpt": "Kondominium 3-bilik di Legasi Kampung Bharu, Kuala Lumpur, diubah menjadi homestay yang hangat dan kontemporari — dapur terbuka, dinding aksen taupe dengan wainscoting putih, bilik tidur lengkap berperabot, dan pemandangan Menara Petronas dari lantai ke siling.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
+    "tags": [
+      "Kontemporari Moden",
+      "Pengubahsuaian Turnkey",
+      "Homestay",
+      "Pemandangan Petronas"
+    ],
+    "featured": true,
+    "order": 15,
+    "status": "published",
+    "buildingName": "Legasi Kampung Bharu",
+    "beds": 3,
+    "baths": 2,
+    "footerText": "**Reka Bentuk Homestay**"
   }
 ]
