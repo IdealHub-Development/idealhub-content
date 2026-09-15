@@ -1,0 +1,14 @@
+{
+  "title": "Astrum Ampang A-15-05 Turnkey Studio — 280 sqft Studio Fit-Out in Ampang | IdealHub",
+  "description": "Browse our Astrum Ampang A-15-05 studio fit-out — a 280 sqft unit finished into a rental-ready home with wainscoted feature walls, a quartz-topped kitchen extension and a full appliance package. RM 11,500 all-inclusive budget, targeting RM 1,500/month.",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@type": "Article",
+    "headline": "Astrum Ampang A-15-05 Turnkey Studio — Rental-Ready Studio Condominium in Ampang",
+    "description": "A 280 sqft studio at Astrum Ampang, unit A-15-05, completed into a move-in-ready rental on an RM 11,500 all-inclusive budget. Features wainscoted feature walls with professional painting, full-length double-track main and sheer curtains, a kitchen extension with melamine cabinetry and quartz stone countertop, Faber electric hood and ceramic cooker, Toshiba two-door refrigerator, Hisense washer dryer combo, 50-inch Google TV, and bathroom fittings, targeting RM 1,500/month rental.",
+    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-15/images/living-room.webp",
+    "datePublished": "2026-09-15",
+    "author": { "@type": "Organization", "name": "IdealHub" },
+    "publisher": { "@type": "Organization", "name": "IdealHub" }
+  }
+}

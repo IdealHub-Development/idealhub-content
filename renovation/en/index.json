@@ -1,5 +1,27 @@
 [
   {
+    "slug": "astrum-ampang-15",
+    "title": "Astrum Ampang A-15-05 Turnkey Studio",
+    "category": "Condominium",
+    "location": "Ampang",
+    "cost": "RM 11,500",
+    "datePublished": "2026-09-15",
+    "excerpt": "A 280 sqft studio at Astrum Ampang, unit A-15-05, completed into a rental-ready home — wainscoted feature walls, a quartz-topped kitchen extension, full-length layered curtains and a full appliance package, delivered on an RM 11,500 all-inclusive budget.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-15/images/living-room.webp",
+    "tags": [
+      "Turnkey Rental Setup",
+      "Wainscoting",
+      "Compact Living"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Astrum Ampang",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "Rental: **RM1,500**"
+  },
+  {
     "slug": "astrum-ampang-32",
     "title": "Astrum Ampang Studio Renovation",
     "category": "Condominium",
@@ -14,7 +36,7 @@
       "Studio"
     ],
     "featured": true,
-    "order": 1,
+    "order": 2,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -36,7 +58,7 @@
       "Compact Living"
     ],
     "featured": true,
-    "order": 2,
+    "order": 3,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -59,7 +81,7 @@
       "Sungai Long"
     ],
     "featured": true,
-    "order": 3,
+    "order": 4,
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
@@ -81,7 +103,7 @@
       "Space Optimization"
     ],
     "featured": true,
-    "order": 4,
+    "order": 5,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
@@ -103,7 +125,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
@@ -126,7 +148,7 @@
       "Earthy Neutrals"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Dorsett Waterfront",
     "beds": 1,
@@ -148,7 +170,7 @@
       "Own Stay"
     ],
     "featured": true,
-    "order": 7,
+    "order": 8,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -170,7 +192,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 8,
+    "order": 9,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
@@ -193,7 +215,7 @@
       "High-Yield Investment"
     ],
     "featured": true,
-    "order": 9,
+    "order": 10,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
@@ -215,7 +237,7 @@
       "Dark Walnut"
     ],
     "featured": true,
-    "order": 10,
+    "order": 11,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -237,7 +259,7 @@
       "Fully Furnished"
     ],
     "featured": true,
-    "order": 11,
+    "order": 12,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
@@ -259,7 +281,7 @@
       "Homestay"
     ],
     "featured": true,
-    "order": 12,
+    "order": 13,
     "status": "published",
     "buildingName": "Regency Tanjung Tuan",
     "beds": 2,
@@ -281,7 +303,7 @@
       "Warm Earth Tones"
     ],
     "featured": true,
-    "order": 13,
+    "order": 14,
     "status": "published",
     "buildingName": "Pavillion Ceylon",
     "beds": 2,
@@ -303,7 +325,7 @@
       "Wainscoting"
     ],
     "featured": true,
-    "order": 14,
+    "order": 15,
     "status": "published",
     "buildingName": "Henna Residensi",
     "beds": 2,
@@ -326,7 +348,7 @@
       "Petronas View"
     ],
     "featured": true,
-    "order": 15,
+    "order": 16,
     "status": "published",
     "buildingName": "Legasi Kampung Bharu",
     "beds": 3,

@@ -1,5 +1,27 @@
 [
   {
+    "slug": "astrum-ampang-15",
+    "title": "Astrum Ampang A-15-05 拎包入住单间",
+    "category": "共管公寓",
+    "location": "安邦",
+    "cost": "RM 11,500",
+    "datePublished": "2026-09-15",
+    "excerpt": "Astrum Ampang 一间 280 平方英尺的单间公寓（A-15-05 单位），改造为租户就绪的出租房 — 护墙板特色墙、石英石台面的厨房扩建、落地双层窗帘，以及全套家电配置，全包预算 RM 11,500。",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/astrum-ampang-15/images/living-room.webp",
+    "tags": [
+      "拎包入住配置",
+      "护墙板",
+      "紧凑生活"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Astrum Ampang",
+    "beds": 1,
+    "baths": 1,
+    "footerText": "**租金：** RM1,500"
+  },
+  {
     "slug": "astrum-ampang-32",
     "title": "Astrum Ampang 单间装修",
     "category": "共管公寓",
@@ -14,7 +36,7 @@
       "单间"
     ],
     "featured": true,
-    "order": 1,
+    "order": 2,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -36,7 +58,7 @@
       "紧凑生活"
     ],
     "featured": true,
-    "order": 2,
+    "order": 3,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -59,7 +81,7 @@
       "双溪龙"
     ],
     "featured": true,
-    "order": 3,
+    "order": 4,
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
@@ -81,7 +103,7 @@
       "空间优化"
     ],
     "featured": true,
-    "order": 4,
+    "order": 5,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
@@ -103,7 +125,7 @@
       "租赁投资"
     ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
@@ -125,7 +147,7 @@
       "自住"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -147,7 +169,7 @@
       "租赁投资"
     ],
     "featured": true,
-    "order": 7,
+    "order": 8,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
@@ -169,7 +191,7 @@
       "深胡桃木"
     ],
     "featured": true,
-    "order": 8,
+    "order": 9,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -191,7 +213,7 @@
       "全家具"
     ],
     "featured": true,
-    "order": 9,
+    "order": 10,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
@@ -214,7 +236,7 @@
       "高收益投资"
     ],
     "featured": true,
-    "order": 10,
+    "order": 11,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
@@ -236,7 +258,7 @@
       "民宿"
     ],
     "featured": true,
-    "order": 11,
+    "order": 12,
     "status": "published",
     "buildingName": "Regency Tanjung Tuan",
     "beds": 2,
@@ -258,7 +280,7 @@
       "温暖大地色调"
     ],
     "featured": true,
-    "order": 12,
+    "order": 13,
     "status": "published",
     "buildingName": "Pavillion Ceylon",
     "beds": 2,
@@ -280,7 +302,7 @@
       "护墙板"
     ],
     "featured": true,
-    "order": 13,
+    "order": 14,
     "status": "published",
     "buildingName": "Henna Residensi",
     "beds": 2,
@@ -303,7 +325,7 @@
       "大地中性色调"
     ],
     "featured": true,
-    "order": 14,
+    "order": 15,
     "status": "published",
     "buildingName": "Dorsett Waterfront",
     "beds": 1,
@@ -326,7 +348,7 @@
       "双子塔景观"
     ],
     "featured": true,
-    "order": 15,
+    "order": 16,
     "status": "published",
     "buildingName": "Legasi Kampung Bharu",
     "beds": 3,
