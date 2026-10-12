@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: large_IMG_20250917_164619_638_17e597b3c9-saxlbh8i.webp
+      - file: lumi-tropicana-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Level
         text: L
     images:
-      - file: large_IMG_20250917_165024_871_0bda2851ad-f018ovwg.webp
+      - file: lumi-tropicana-gym-1.webp
         alt: Gym
     remarks: null
     noBorder: false

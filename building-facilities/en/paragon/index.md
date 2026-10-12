@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: medium_1_dfcaf7e7a8-je1wzxe2.webp
+      - file: paragon-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Level
         text: '9'
     images:
-      - file: small_2_11865e0a43-p4vnd8uu.webp
+      - file: paragon-gym-1.webp
         alt: Gym
     remarks: null
     noBorder: false

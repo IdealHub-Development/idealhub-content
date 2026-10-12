@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Proper Swimming Suits Attire
     images:
-      - file: medium_1_a776f1ce2e-ryvyl3op.webp
+      - file: alam-sanjung-swimming-pool-1.webp
         alt: Swimming pool
     remarks: null
     noBorder: false
@@ -25,9 +25,9 @@ facilities:
       - label: Operating Hours
         text: 8am - 8pm
     images:
-      - file: large_IMG_20250917_142248_60f1716df8-tk9v1gml.webp
+      - file: alam-sanjung-gym-room-1.webp
         alt: Gym room
-      - file: large_1024_1365_21d8f1a5b1-cnxqdf3d.webp
+      - file: alam-sanjung-gym-room-2.webp
         alt: Gym room
     remarks: null
     noBorder: false

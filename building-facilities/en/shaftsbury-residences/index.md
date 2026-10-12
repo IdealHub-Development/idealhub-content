@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: medium_1_1058f9d326-ig37gw3e.webp
+      - file: shaftsbury-residences-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Level
         text: Ground Floor next to Swimming Pool
     images:
-      - file: small_2_c44d17d514-e63xavns.webp
+      - file: shaftsbury-residences-gym-1.webp
         alt: Gym
     remarks: null
     noBorder: false

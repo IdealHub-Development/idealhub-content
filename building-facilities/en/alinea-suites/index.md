@@ -11,7 +11,7 @@ facilities:
       - label: Attire
         text: Swimming Attire
     images:
-      - file: large_IMG_20250917_142248_60f1716df8-tk9v1gml.webp
+      - file: alinea-suites-item-1-1.webp
         alt: null
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Attire
         text: Sports
     images:
-      - file: large_1024_1365_21d8f1a5b1-cnxqdf3d.webp
+      - file: alinea-suites-item-2-1.webp
         alt: null
     remarks: null
     noBorder: false

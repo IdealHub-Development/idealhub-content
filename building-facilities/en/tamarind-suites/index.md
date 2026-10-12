@@ -16,7 +16,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: medium_1_e702a9236b-iaxm4zxq.webp
+      - file: tamarind-suites-swimming-pool-1.webp
         alt: Swimming pool
     remarks: null
     noBorder: false
@@ -28,7 +28,7 @@ facilities:
       - label: Level
         text: Level 15
     images:
-      - file: medium_2_bad3495486-tdha3r8t.webp
+      - file: tamarind-suites-gym-1.webp
         alt: Gym
     remarks: null
     noBorder: false

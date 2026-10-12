@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: large_IMG_20250922_143224_741_a72af5fbb3-e0tmnm43.webp
+      - file: residensi-357-setapak-the-nest-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Level
         text: '6'
     images:
-      - file: large_IMG_20250922_142532_159_1b447a6b36-zipehdz4.webp
+      - file: residensi-357-setapak-the-nest-childrens-playground-1.webp
         alt: Children's Playground
     remarks: null
     noBorder: false

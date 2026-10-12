@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Proper Swimming Suits Attire
     images:
-      - file: large_IMG_20250924_163050_2c10b1368c-krrcnrau.webp
+      - file: legasi-kg-bharu-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -27,7 +27,7 @@ facilities:
       - label: Operating hours
         text: 8am-8pm
     images:
-      - file: large_1_d9962a9111-wbi1gzda.webp
+      - file: legasi-kg-bharu-gym-1.webp
         alt: Gym
     remarks: null
     noBorder: false
@@ -39,7 +39,7 @@ facilities:
       - label: Level
         text: '8'
     images:
-      - file: large_IMG_20250924_163503_6ebd3035b3-zu8q373t.webp
+      - file: legasi-kg-bharu-children-playground-1.webp
         alt: Children Playground
     remarks: null
     noBorder: false

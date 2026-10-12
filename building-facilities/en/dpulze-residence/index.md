@@ -11,7 +11,7 @@ facilities:
       - label: Attire
         text: Swimming Attire
     images:
-      - file: large_IMG_20250919_120633_c293afb54d-i38m6lu7.webp
+      - file: dpulze-residence-item-1-1.webp
         alt: null
     remarks: null
     noBorder: false
@@ -23,7 +23,7 @@ facilities:
       - label: Operating Hours
         text: 8am-8pm
     images:
-      - file: large_IMG_20250919_120525_0b5dad4349-frfkefh0.webp
+      - file: dpulze-residence-item-2-1.webp
         alt: null
     remarks: null
     noBorder: false
@@ -35,7 +35,7 @@ facilities:
       - label: Level
         text: '1'
     images:
-      - file: large_IMG_20250919_120301_19e5a159a3-nwyt3616.webp
+      - file: dpulze-residence-item-3-1.webp
         alt: null
     remarks: null
     noBorder: false

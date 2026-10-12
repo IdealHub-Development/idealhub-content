@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Suits Attire
     images:
-      - file: medium_1_509cbc316f-e7pq45rx.webp
+      - file: alanis-residence-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: 'Level '
         text: '5'
     images:
-      - file: medium_2_3b93dec986-b7e2mtac.webp
+      - file: alanis-residence-gym-room-1.webp
         alt: Gym Room
     remarks: null
     noBorder: false

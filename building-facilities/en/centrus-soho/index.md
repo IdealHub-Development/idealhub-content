@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Suits Attire
     images:
-      - file: large_IMG_20250814_151629_4cb6dc44fa-g4prv1j2.webp
+      - file: centrus-soho-swimming-pool-1.webp
         alt: Swimming pool
     remarks: null
     noBorder: false
@@ -29,7 +29,7 @@ facilities:
       - label: Attire
         text: Gym attire
     images:
-      - file: large_IMG_20250814_151729_a0f058dfa5-fyn6cvlk.webp
+      - file: centrus-soho-gym-room-1.webp
         alt: Gym room
     remarks: null
     noBorder: false
@@ -41,7 +41,7 @@ facilities:
       - label: Level
         text: '9'
     images:
-      - file: large_IMG_20250814_151507_12794b7390-recv9y8t.webp
+      - file: centrus-soho-item-3-1.webp
         alt: null
     remarks: null
     noBorder: false

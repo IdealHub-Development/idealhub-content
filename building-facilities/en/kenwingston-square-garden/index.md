@@ -13,7 +13,7 @@ facilities:
       - label: Attire
         text: Swimming Attire. Dry your body before entering the lift
     images:
-      - file: small_2_7604bdc7a9-xame2h2m.webp
+      - file: kenwingston-square-garden-swimming-pool-1.webp
         alt: Swimming Pool
     remarks: null
     noBorder: false
@@ -25,7 +25,7 @@ facilities:
       - label: Level
         text: '7'
     images:
-      - file: large_1_d8e3a0733a-yb7i4yxp.webp
+      - file: kenwingston-square-garden-gym-room-1.webp
         alt: Gym Room
     remarks: null
     noBorder: false
