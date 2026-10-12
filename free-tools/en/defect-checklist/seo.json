@@ -1,5 +1,91 @@
 {
   "title": "Free Property Defect Checklist (PDF) | IdealHub",
   "description": "Download our free DIY Property Defect Checklist (PDF) for Malaysian homeowners. Step-by-step guide to inspect floor tiles, electrical wiring, DLP & key handover.",
-  "image": "/thumbnails/Idealhub-thumbnail.webp"
+  "image": "/free-tools/hero-illustration.webp",
+  "imageAlt": "Free DIY property defect inspection checklist PDF cover for Malaysian homebuyers collecting vacant possession keys",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#webpage",
+        "url": "https://www.idealhub.com/free-tools/property-defect-checklist",
+        "name": "Collect Your Property Keys with Confidence - Protect Your Investment from Day One",
+        "description": "Stop hidden defects from draining your savings. Learn exactly what to check before your Defect Liability Period (DLP) expires.",
+        "inLanguage": "en-MY",
+        "datePublished": "2026-02-01",
+        "dateModified": "2026-10-12",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "IdealHub",
+          "url": "https://www.idealhub.com"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#faq",
+        "inLanguage": "en-MY",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "What is the Defect Liability Period (DLP) in Malaysia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "For most licensed housing developments in Peninsular Malaysia, the Defect Liability Period runs for 24 months (18 months in Sabah and Sarawak) from the date you receive Vacant Possession. During the DLP the developer must rectify covered defects at no cost. Document and submit every defect as soon as you spot it."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "How long is the DLP period in Malaysia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "The standard DLP is 24 months from Vacant Possession for licensed housing developments in Peninsular Malaysia, and 18 months in Sabah and Sarawak. Some developers offer longer periods in the sale and purchase agreement, so check your SPA for the exact terms."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "When should I inspect my new property and submit defects?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Inspect during natural daylight hours immediately after key handover, ideally before any renovation work. Submit every defect to your developer in writing within the first few weeks of Vacant Possession. Developers have a 30-day statutory window to rectify submitted defects under the DLP."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "What documents should I collect at vacant possession (VP)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Collect your Certificate of Completion and Compliance (CCC), every unit key (main door, bedroom doors, grille gate and mailbox), access cards for common facilities, parking tags or transponders, plus appliance manuals, warranty cards and maintenance contacts."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Is the property defect checklist PDF really free?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Yes. The room-by-room defect inspection checklist PDF from IdealHub is free for Malaysian homebuyers. It includes an inspection spreadsheet covering hollow tiles, water seepage, electrical polarity and door alignment, plus ready-to-use developer submission templates."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Home",
+            "item": "https://www.idealhub.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Property Defect Checklist",
+            "item": "https://www.idealhub.com/free-tools/property-defect-checklist"
+          }
+        ]
+      }
+    ]
+  }
 }

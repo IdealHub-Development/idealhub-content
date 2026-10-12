@@ -1,5 +1,91 @@
 {
   "title": "Senarai Semak Kecacatan Hartanah Percuma (PDF) | IdealHub",
   "description": "Muat turun senarai semak pemeriksaan kecacatan hartanah DIY percuma kami. Panduan bilik demi bilik meliputi jubin berongga, resapan air, kerosakan elektrik, dan templat penyerahan pemaju sedia guna.",
-  "image": "/thumbnails/Idealhub-thumbnail.webp"
+  "image": "/free-tools/hero-illustration.webp",
+  "imageAlt": "Kulit PDF senarai semak pemeriksaan kecacatan hartanah DIY percuma untuk pembeli rumah Malaysia yang mengumpul kunci Pemilikan Kosong",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#webpage",
+        "url": "https://www.idealhub.com/free-tools/property-defect-checklist",
+        "name": "Kumpul Kunci Hartanah Anda Dengan Keyakinan - Lindungi Pelaburan Anda Dari Hari Pertama",
+        "description": "Jangan biarkan kecacatan tersembunyi menghabiskan simpanan anda. Ketahui apa yang perlu diperiksa sebelum Tempoh Liabiliti Kecacatan (DLP) anda tamat.",
+        "inLanguage": "ms-MY",
+        "datePublished": "2026-02-01",
+        "dateModified": "2026-10-12",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "IdealHub",
+          "url": "https://www.idealhub.com"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#faq",
+        "inLanguage": "ms-MY",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "Apakah Tempoh Liabiliti Kecacatan (DLP) di Malaysia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Bagi kebanyakan projek perumahan berlesen di Semenanjung Malaysia, Tempoh Liabiliti Kecacatan berjalan selama 24 bulan (18 bulan di Sabah dan Sarawak) dari tarikh anda menerima Pemilikan Kosong. Sepanjang DLP, pemaju mesti membetulkan kecacatan yang diliputi tanpa sebarang kos. Dokumentasikan dan serahkan setiap kecacatan sebaik sahaja anda mengesannya."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Berapa lama tempoh DLP di Malaysia?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "DLP standard ialah 24 bulan dari Pemilikan Kosong bagi projek perumahan berlesen di Semenanjung Malaysia, dan 18 bulan di Sabah dan Sarawak. Sesetengah pemaju menawarkan tempoh yang lebih panjang dalam perjanjian jual beli, jadi semak SPA anda untuk terma yang tepat."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Bilakah saya perlu memeriksa hartanah baharu saya dan menyerahkan kecacatan?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Periksa pada waktu siang semula jadi sebaik sahaja selepas penyerahan kunci, sebaik-baiknya sebelum sebarang kerja pengubahsuaian. Serahkan setiap kecacatan kepada pemaju anda secara bertulis dalam beberapa minggu pertama Pemilikan Kosong. Pemaju mempunyai tempoh berkanun 30 hari untuk membetulkan kecacatan yang diserahkan di bawah DLP."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Apakah dokumen yang perlu saya kumpul semasa Pemilikan Kosong (VP)?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Kumpul Sijil Siap dan Pematuhan (CCC) anda, semua kunci unit (pintu utama, pintu bilik tidur, pintu gril dan peti surat), kad akses untuk kemudahan umum, tag tempat letak kereta atau transponder, serta manual peralatan, kad jaminan dan kenalan penyelenggaraan."
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "Adakah PDF senarai semak kecacatan hartanah ini benar-benar percuma?",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "Ya. PDF senarai semak pemeriksaan kecacatan bilik demi bilik dari IdealHub adalah percuma untuk pembeli rumah Malaysia. Ia merangkumi spreadsheet pemeriksaan yang meliputi jubin berongga, resapan air, kekutuban elektrik dan penjajaran pintu, serta templat penyerahan pemaju sedia guna."
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "Laman Utama",
+            "item": "https://www.idealhub.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "Senarai Semak Kecacatan Hartanah",
+            "item": "https://www.idealhub.com/free-tools/property-defect-checklist"
+          }
+        ]
+      }
+    ]
+  }
 }

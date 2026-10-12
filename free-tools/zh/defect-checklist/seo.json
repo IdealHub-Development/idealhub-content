@@ -1,5 +1,91 @@
 {
   "title": "免费房产缺陷检查清单 (PDF) | IdealHub",
   "description": "下载我们的免费DIY房产缺陷检查清单。逐室指南涵盖空心瓷砖、渗水、电气故障，以及即用型开发商提交模板。",
-  "image": "/thumbnails/Idealhub-thumbnail.webp"
+  "image": "/free-tools/hero-illustration.webp",
+  "imageAlt": "免费DIY房产缺陷检查清单PDF封面，供领取空置交付钥匙的马来西亚购房者使用",
+  "structuredData": {
+    "@context": "https://schema.org",
+    "@graph": [
+      {
+        "@type": "WebPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#webpage",
+        "url": "https://www.idealhub.com/free-tools/property-defect-checklist",
+        "name": "放心领取您的房产钥匙 - 从第一天起保护您的投资",
+        "description": "别让隐藏缺陷耗尽您的积蓄。在缺陷责任期（DLP）到期前，了解需要检查的内容。",
+        "inLanguage": "zh-CN",
+        "datePublished": "2026-02-01",
+        "dateModified": "2026-10-12",
+        "isPartOf": {
+          "@type": "WebSite",
+          "name": "IdealHub",
+          "url": "https://www.idealhub.com"
+        }
+      },
+      {
+        "@type": "FAQPage",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#faq",
+        "inLanguage": "zh-CN",
+        "mainEntity": [
+          {
+            "@type": "Question",
+            "name": "什么是马来西亚的缺陷责任期（DLP）？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "在马来西亚半岛的大多数持牌住宅项目中，缺陷责任期从您获得空置交付之日起持续24个月（沙巴和砂拉越为18个月）。在DLP期间，开发商必须免费修复所涵盖的缺陷。请在发现缺陷后立即记录并提交每一个缺陷。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "马来西亚的DLP期限有多长？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "标准DLP为马来西亚半岛持牌住宅项目自空置交付起24个月，沙巴和砂拉越为18个月。部分开发商在买卖协议中提供更长期限，请查看您的SPA以确认具体条款。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "我应该何时检查新房产并提交缺陷？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "在交钥匙后立即于自然光充足的白天进行检查，最好在任何装修工程开始之前。在空置交付后的头几周内以书面形式向开发商提交每一个缺陷。开发商在DLP下有30天的法定期限修复已提交的缺陷。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "空置交付（VP）时我应该收集哪些文件？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "收集您的完工与合规证书（CCC）、所有单位钥匙（大门、卧室门、铁花门和信箱）、公共设施通行卡、停车标签或感应器，以及电器手册、保修卡和维护联系方式。"
+            }
+          },
+          {
+            "@type": "Question",
+            "name": "这份房产缺陷检查清单PDF真的免费吗？",
+            "acceptedAnswer": {
+              "@type": "Answer",
+              "text": "是的。IdealHub提供的逐室缺陷检查清单PDF对马来西亚购房者完全免费。它包含涵盖空心瓷砖、渗水、电极极性和门对齐的检查表格，以及即用型开发商提交模板。"
+            }
+          }
+        ]
+      },
+      {
+        "@type": "BreadcrumbList",
+        "@id": "https://www.idealhub.com/free-tools/property-defect-checklist#breadcrumb",
+        "itemListElement": [
+          {
+            "@type": "ListItem",
+            "position": 1,
+            "name": "首页",
+            "item": "https://www.idealhub.com"
+          },
+          {
+            "@type": "ListItem",
+            "position": 2,
+            "name": "房产缺陷检查清单",
+            "item": "https://www.idealhub.com/free-tools/property-defect-checklist"
+          }
+        ]
+      }
+    ]
+  }
 }
