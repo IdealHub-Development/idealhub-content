@@ -1,0 +1,82 @@
+{
+  "buildings": [
+    {
+      "slug": "alam-sanjung",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "alanis-residence",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "alinea-suites",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "centrus-soho",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "dpulze-residence",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "kenwingston-square-garden",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "legasi-kg-bharu",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "lumi-tropicana",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "mutiara-ville",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "paragon",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "residensi-357-setapak-the-nest",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "shaftsbury-residences",
+      "locales": [
+        "en"
+      ]
+    },
+    {
+      "slug": "tamarind-suites",
+      "locales": [
+        "en"
+      ]
+    }
+  ]
+}
