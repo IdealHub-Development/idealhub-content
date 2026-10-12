@@ -3,79 +3,105 @@
     {
       "slug": "alam-sanjung",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "alanis-residence",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "alinea-suites",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "centrus-soho",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "dpulze-residence",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "kenwingston-square-garden",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "legasi-kg-bharu",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "lumi-tropicana",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "mutiara-ville",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "paragon",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "residensi-357-setapak-the-nest",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "shaftsbury-residences",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     },
     {
       "slug": "tamarind-suites",
       "locales": [
-        "en"
+        "en",
+        "ms",
+        "zh"
       ]
     }
   ]
