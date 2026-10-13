@@ -1,7 +1,9 @@
 ---
 slug: tamarind-suites
+published: true
 facilities:
   - slug: swimming-pool
+    published: true
     heading:
       as: text
       text: Swimming pool
@@ -21,6 +23,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: gym
+    published: true
     heading:
       as: text
       text: Gym

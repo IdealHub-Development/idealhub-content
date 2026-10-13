@@ -1,7 +1,9 @@
 ---
 slug: alinea-suites
+published: true
 facilities:
   - slug: item-1
+    published: true
     heading: null
     features:
       - label: Operating Hours
@@ -16,6 +18,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: item-2
+    published: true
     heading: null
     features:
       - label: Operating Hours

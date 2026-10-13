@@ -1,7 +1,9 @@
 ---
 slug: dpulze-residence
+published: true
 facilities:
   - slug: item-1
+    published: true
     heading: null
     features:
       - label: Level
@@ -16,6 +18,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: item-2
+    published: true
     heading: null
     features:
       - label: Level
@@ -28,6 +31,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: item-3
+    published: true
     heading:
       as: text
       text: null

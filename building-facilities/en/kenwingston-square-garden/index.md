@@ -1,7 +1,9 @@
 ---
 slug: kenwingston-square-garden
+published: true
 facilities:
   - slug: swimming-pool
+    published: true
     heading:
       as: text
       text: Swimming Pool
@@ -18,6 +20,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: gym-room
+    published: true
     heading:
       as: text
       text: Gym Room

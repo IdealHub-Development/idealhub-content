@@ -1,7 +1,9 @@
 ---
 slug: alam-sanjung
+published: true
 facilities:
   - slug: swimming-pool
+    published: true
     heading:
       as: h5
       text: Swimming pool
@@ -18,6 +20,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: gym-room
+    published: true
     heading:
       as: h5
       text: Gym room

@@ -1,7 +1,9 @@
 ---
 slug: legasi-kg-bharu
+published: true
 facilities:
   - slug: swimming-pool
+    published: true
     heading:
       as: text
       text: Swimming Pool
@@ -18,6 +20,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: gym
+    published: true
     heading:
       as: text
       text: Gym
@@ -32,6 +35,7 @@ facilities:
     remarks: null
     noBorder: false
   - slug: children-playground
+    published: true
     heading:
       as: text
       text: Children Playground
