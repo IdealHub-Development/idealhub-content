@@ -1,19 +1,19 @@
 {
   "units": [
     {
+      "slug": "centrus-soho-c3-10-13a",
+      "locales": [
+        "en"
+      ]
+    },
+    {
       "slug": "centrus-soho-c3-17-15",
       "locales": [
         "en"
       ]
     },
     {
-      "slug": "centrus-soho-c99-99-99",
-      "locales": [
-        "en"
-      ]
-    },
-    {
-      "slug": "dpulze-a-08-05",
+      "slug": "dpulze-residence-a-08-05",
       "locales": [
         "en"
       ]

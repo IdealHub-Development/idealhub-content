@@ -1,5 +1,5 @@
 ---
-slug: centrus-soho-c99-99-99
+slug: centrus-soho-c3-10-13a
 unitNo: Centrus Soho C3-10-13A
 applianceLinks:
   - href: tv-guide
@@ -17,17 +17,17 @@ appliances:
     blocks:
       - noBorder: true
         images:
-          - file: centrus-soho-c99-99-99-tv-guide-1.webp
+          - file: centrus-soho-c3-10-13a-tv-guide-1.webp
             alt: null
-          - file: centrus-soho-c99-99-99-tv-guide-2.webp
+          - file: centrus-soho-c3-10-13a-tv-guide-2.webp
             alt: null
   - slug: washing-machine
     blocks:
       - noBorder: true
         images:
-          - file: centrus-soho-c99-99-99-washing-machine-1.webp
+          - file: centrus-soho-c3-10-13a-washing-machine-1.webp
             alt: null
-          - file: centrus-soho-c99-99-99-washing-machine-2.webp
+          - file: centrus-soho-c3-10-13a-washing-machine-2.webp
             alt: null
 ---
 

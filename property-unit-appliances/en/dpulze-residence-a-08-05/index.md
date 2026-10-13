@@ -1,5 +1,5 @@
 ---
-slug: dpulze-a-08-05
+slug: dpulze-residence-a-08-05
 unitNo: Dpulze A-08-05
 applianceLinks: []
 appliances:
@@ -10,7 +10,8 @@ appliances:
           as: text
           text: How to use washing machine?
         images:
-          - file: dpulze-a-08-05-electrolux-front-load-washing-machine-1.webp
+          - file: >-
+              dpulze-residence-a-08-05-electrolux-front-load-washing-machine-1.webp
             alt: How to use washing machine?
 ---
 
