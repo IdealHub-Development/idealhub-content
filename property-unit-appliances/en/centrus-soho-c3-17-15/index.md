@@ -1,0 +1,21 @@
+---
+slug: centrus-soho-c3-17-15
+unitNo: Centrus Soho C3-17-15
+applianceLinks: []
+appliances:
+  - slug: electrolux-front-load-washing-machine
+    blocks:
+      - noBorder: false
+        heading:
+          as: text
+          text: How to use washing machine?
+        images:
+          - file: centrus-soho-c3-17-15-electrolux-front-load-washing-machine-1.webp
+            alt: How to use washing machine?
+---
+
+## electrolux-front-load-washing-machine
+
+1. Open the front door handle
+2. Put 2 tablespoon detergent power for a small quantity of clothing to wash
+3. Let the washing machine run the full process cycle until the end of 3 beep sounds. Wait for 1 minute before opening the door.
