@@ -4,38 +4,6 @@ published: true
 title: Terms of Use
 description: null
 featuredImage: terms-of-use-featured.webp
-seo:
-  title: IdealHub - Terms of Use
-  description: >-
-    Review the Terms and Conditions for using IdealHub. This agreement outlines
-    the rules for Guests booking accommodations and services, and for Hosts
-    creating listings. It covers bookings, cancellations, fees, user
-    responsibilities, and the governing laws of Malaysia.
-  structuredData:
-    url: https://www.idealhub.com
-    logo: >-
-      https://idealhub-media.s3.ap-southeast-1.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png
-    name: IdealHub
-    '@type': Organization
-    sameAs:
-      - https://www.facebook.com/IdealHub.co/
-      - https://twitter.com/idealhub_co
-      - https://www.instagram.com/idealhub.co/
-      - https://www.linkedin.com/company/idealhub
-    '@context': https://schema.org
-    description: >-
-      IdealHub is an online rental platform which allow you to rent room or
-      apartment for daily, monthly, yearly across Malaysia
-    contactPoint:
-      '@type': ContactPoint
-      telephone: '60327899017'
-      areaServed: MY
-      contactType: customer service
-      availableLanguage:
-        - en
-        - Malay
-        - Chinese (Simplified)
-        - Chinese
 ---
 
 By accessing this website or otherwise access any content or data on the IdealHub platform (including its website, mobile site or apps), you are deemed to accept these Terms and Conditions in full. Do not continue to use and/or access IdealHub website if you do not accept all the Terms and Conditions stated on this page.

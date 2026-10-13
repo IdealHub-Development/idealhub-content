@@ -4,38 +4,6 @@ published: true
 title: Refund Policy
 description: null
 featuredImage: refund-policy-featured.webp
-seo:
-  title: Idealhub - Refund Policy
-  description: >-
-    IdealHub's Guest Refund Policy protects your booking. Learn what qualifies
-    as a Travel Issue (like cancellations, inaccurate listings, or cleanliness
-    problems), how to report a claim within 24 hours, and what refund or
-    rebooking assistance you may receive.
-  structuredData:
-    url: https://www.idealhub.com
-    logo: >-
-      https://idealhub-media.s3.ap-southeast-1.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png
-    name: IdealHub
-    '@type': Organization
-    sameAs:
-      - https://www.facebook.com/IdealHub.co/
-      - https://twitter.com/idealhub_co
-      - https://www.instagram.com/idealhub.co/
-      - https://www.linkedin.com/company/idealhub
-    '@context': https://schema.org
-    description: >-
-      IdealHub is an online rental platform which allow you to rent room or
-      apartment for daily, monthly, yearly across Malaysia
-    contactPoint:
-      '@type': ContactPoint
-      telephone: '60327899017'
-      areaServed: MY
-      contactType: customer service
-      availableLanguage:
-        - en
-        - Malay
-        - Chinese (Simplified)
-        - Chinese
 ---
 
 These terms and conditions govern IdealHub’s policy for Guest refunds (“Guest Refund Policy”) and the obligations of the Host associated with the Guest Refund Policy. The Guest Refund Policy applies in addition to IdealHub’s Terms of Usage (“IdealHub Terms”). The Guest Refund Policy is available to Guests who book and pay for daily Accommodation through the IdealHub Platform and suffer a Travel Issue (as defined below). The Guest’s rights under this Guest Refund Policy will supersede the Host’s cancellation policy.

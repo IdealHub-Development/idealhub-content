@@ -4,37 +4,6 @@ published: true
 title: Accommodation Policy
 description: Short-term rental house rules
 featuredImage: accommodation-policy-featured.webp
-seo:
-  title: Idealhub - Accommodation Policy
-  description: >-
-    Ensure a smooth stay at IdealHub. Review our policy on no smoking, no
-    parties, check-in times, damage fees, and cancellation rules to guarantee a
-    safe and clean experience for everyone.
-  structuredData:
-    url: https://www.idealhub.com
-    logo: >-
-      https://idealhub-media.s3.ap-southeast-1.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png
-    name: IdealHub
-    '@type': Organization
-    sameAs:
-      - https://www.facebook.com/IdealHub.co/
-      - https://twitter.com/idealhub_co
-      - https://www.instagram.com/idealhub.co/
-      - https://www.linkedin.com/company/idealhub
-    '@context': https://schema.org
-    description: >-
-      IdealHub is an online rental platform which allow you to rent room or
-      apartment for daily, monthly, yearly across Malaysia
-    contactPoint:
-      '@type': ContactPoint
-      telephone: '60327899017'
-      areaServed: MY
-      contactType: customer service
-      availableLanguage:
-        - en
-        - Malay
-        - Chinese (Simplified)
-        - Chinese
 ---
 
 We strive to provide our guests with an exceptionally clean, safe, and friendly experience. 

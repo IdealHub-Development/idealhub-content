@@ -1,0 +1,32 @@
+{
+  "title": "Idealhub - Privacy Policy",
+  "description": "Learn how IdealHub collects, uses, and protects your personal information. This Privacy Policy explains data practices for website visitors, account holders, and those making transactions, including what information is gathered and your rights regarding your data.",
+  "structuredData": {
+    "organization": {
+      "url": "https://www.idealhub.com",
+      "logo": "https://idealhub-media.s3.ap-southeast-1.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+      "name": "IdealHub",
+      "@type": "Organization",
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://twitter.com/idealhub_co",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "@context": "https://schema.org",
+      "description": "IdealHub is an online rental platform which allow you to rent room or apartment for daily, monthly, yearly across Malaysia",
+      "contactPoint": {
+        "@type": "ContactPoint",
+        "telephone": "60327899017",
+        "areaServed": "MY",
+        "contactType": "customer service",
+        "availableLanguage": [
+          "en",
+          "Malay",
+          "Chinese (Simplified)",
+          "Chinese"
+        ]
+      }
+    }
+  }
+}
