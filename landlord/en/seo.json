@@ -2,5 +2,52 @@
   "title": "Landlord Support Service | Stress-Free Property Management | IdealHub",
   "description": "IdealHub's landlord support handles operational coordination, tenant liaison & performance insights. Get stress-free ownership with our property coordination services",
   "image": "landlord/en/images/house.webp",
-  "published": true
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/landlord",
+      "email": "ask@idealhub.com",
+      "image": "landlord/en/images/house.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub landlord support handles operational coordination, tenant liaison, and performance insights for residential rental and homestay owners across Malaysia."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Landlord Support Service",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Landlord Support & Property Coordination",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Operational coordination, guest and tenant liaison, performance insights, agent connection support, and rental/homestay collection for property owners — with full ownership control retained."
+    }
+  }
 }
