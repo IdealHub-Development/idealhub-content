@@ -4,57 +4,59 @@
     "description": "IdealHub 是巴生谷装修承包商，专注于为房东提供一站式公寓和共管公寓翻新服务。在吉隆坡、蒲种、安邦、赛城和双溪龙完成了500+个高收益租赁改造项目。立即获取装修报价。",
     "image": "renovation/images/home/renovation-thumbnail.webp",
     "structuredData": {
-      "@context": "https://schema.org",
-      "@type": "LocalBusiness",
-      "name": "IdealHub",
-      "legalName": "Terasquad Technologies Sdn. Bhd.",
-      "url": "https://rental.idealhub.duckdns.org",
-      "email": "ask@idealhub.com",
-      "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
-      "logo": {
-        "@type": "ImageObject",
-        "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
-      },
-      "address": {
-        "@type": "PostalAddress",
-        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
-        "addressLocality": "Kuala Lumpur",
-        "postalCode": "57000",
-        "addressCountry": "MY"
-      },
-      "sameAs": [
-        "https://www.facebook.com/IdealHub.co/",
-        "https://www.instagram.com/idealhub.co/",
-        "https://www.linkedin.com/company/idealhub"
-      ],
-      "priceRange": "RM 15k - 70k",
-      "areaServed": {
-        "@type": "City",
-        "name": "巴生谷"
-      },
-      "description": "技术驱动的一站式装修承包商，服务于巴生谷、吉隆坡和雪兰莪。我们精心设计公寓和共管公寓室内空间，使其更快出租并获得更高收益 — 预算 RM 15k 至 RM 70k。"
-    },
-    "servicePage": {
-      "@context": "https://schema.org",
-      "@type": "Service",
-      "name": "一站式装修服务",
-      "provider": {
+      "localBusiness": {
+        "@context": "https://schema.org",
         "@type": "LocalBusiness",
-        "name": "IdealHub"
+        "name": "IdealHub",
+        "legalName": "Terasquad Technologies Sdn. Bhd.",
+        "url": "https://rental.idealhub.duckdns.org",
+        "email": "ask@idealhub.com",
+        "image": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png",
+        "logo": {
+          "@type": "ImageObject",
+          "url": "https://idealhub-rental-media.s3.ap-southeast-5.amazonaws.com/images/logo/5fb18989aa4f90875c0df988aaa1f51c.png"
+        },
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+          "addressLocality": "Kuala Lumpur",
+          "postalCode": "57000",
+          "addressCountry": "MY"
+        },
+        "sameAs": [
+          "https://www.facebook.com/IdealHub.co/",
+          "https://www.instagram.com/idealhub.co/",
+          "https://www.linkedin.com/company/idealhub"
+        ],
+        "priceRange": "RM 15k - 70k",
+        "areaServed": {
+          "@type": "City",
+          "name": "巴生谷"
+        },
+        "description": "技术驱动的一站式装修承包商，服务于巴生谷、吉隆坡和雪兰莪。我们精心设计公寓和共管公寓室内空间，使其更快出租并获得更高收益 — 预算 RM 15k 至 RM 70k。"
       },
-      "serviceType": "住宅装修与翻新",
-      "areaServed": {
-        "@type": "City",
-        "name": "巴生谷"
-      },
-      "description": "为巴生谷的共管公寓、公寓、服务式住宅和排屋提供端到端一站式装修服务。包括定制木工、优质油漆、机电工程、软装家具和租赁就绪交房。",
-      "offers": {
-        "@type": "Offer",
-        "priceSpecification": {
-          "@type": "PriceSpecification",
-          "minPrice": 15000,
-          "maxPrice": 70000,
-          "priceCurrency": "MYR"
+      "service": {
+        "@context": "https://schema.org",
+        "@type": "Service",
+        "name": "一站式装修服务",
+        "provider": {
+          "@type": "LocalBusiness",
+          "name": "IdealHub"
+        },
+        "serviceType": "住宅装修与翻新",
+        "areaServed": {
+          "@type": "City",
+          "name": "巴生谷"
+        },
+        "description": "为巴生谷的共管公寓、公寓、服务式住宅和排屋提供端到端一站式装修服务。包括定制木工、优质油漆、机电工程、软装家具和租赁就绪交房。",
+        "offers": {
+          "@type": "Offer",
+          "priceSpecification": {
+            "@type": "PriceSpecification",
+            "minPrice": 15000,
+            "maxPrice": 70000,
+            "priceCurrency": "MYR"
+          }
         }
       }
     }
