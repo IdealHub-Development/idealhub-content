@@ -1,7 +1,6 @@
 ---
 slug: centrus-soho-c3-17-15
 unitNo: Centrus Soho C3-17-15
-applianceLinks: []
 appliances:
   - slug: electrolux-front-load-washing-machine
     blocks:

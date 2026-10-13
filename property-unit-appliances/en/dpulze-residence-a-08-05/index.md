@@ -1,7 +1,6 @@
 ---
 slug: dpulze-residence-a-08-05
 unitNo: Dpulze A-08-05
-applianceLinks: []
 appliances:
   - slug: electrolux-front-load-washing-machine
     blocks:

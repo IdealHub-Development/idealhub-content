@@ -1,19 +1,10 @@
 ---
 slug: centrus-soho-c3-10-13a
 unitNo: Centrus Soho C3-10-13A
-applianceLinks:
-  - href: tv-guide
-    label: TV Guide
-    type: secondary
-    isButtonLink: true
-    icon: television.svg
-  - href: washing-machine
-    label: Washing Machine
-    type: secondary
-    isButtonLink: true
-    icon: washer.svg
 appliances:
   - slug: tv-guide
+    label: TV Guide
+    icon: television.svg
     blocks:
       - noBorder: true
         images:
@@ -22,6 +13,8 @@ appliances:
           - file: centrus-soho-c3-10-13a-tv-guide-2.webp
             alt: null
   - slug: washing-machine
+    label: Washing Machine
+    icon: washer.svg
     blocks:
       - noBorder: true
         images:
