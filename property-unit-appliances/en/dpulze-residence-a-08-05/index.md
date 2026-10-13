@@ -1,8 +1,10 @@
 ---
 slug: dpulze-residence-a-08-05
+published: false
 unitNo: Dpulze A-08-05
 appliances:
   - slug: electrolux-front-load-washing-machine
+    published: true
     blocks:
       - noBorder: false
         heading:

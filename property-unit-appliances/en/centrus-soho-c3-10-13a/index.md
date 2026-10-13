@@ -1,8 +1,10 @@
 ---
 slug: centrus-soho-c3-10-13a
+published: false
 unitNo: Centrus Soho C3-10-13A
 appliances:
   - slug: tv-guide
+    published: true
     label: TV Guide
     icon: television.svg
     blocks:
@@ -13,6 +15,7 @@ appliances:
           - file: centrus-soho-c3-10-13a-tv-guide-2.webp
             alt: null
   - slug: washing-machine
+    published: true
     label: Washing Machine
     icon: washer.svg
     blocks:
