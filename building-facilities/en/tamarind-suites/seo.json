@@ -1,0 +1,39 @@
+{
+  "title": "Tamarind Suites Facilities — Swimming Pool & Gym | IdealHub",
+  "description": "Facilities at Tamarind Suites: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/tamarind-suites/facilities#webpage",
+      "url": "https://www.idealhub.com/building/tamarind-suites/facilities",
+      "name": "Tamarind Suites Facilities — Swimming Pool & Gym",
+      "description": "Facilities at Tamarind Suites: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/tamarind-suites/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Tamarind Suites Facilities",
+          "item": "https://www.idealhub.com/building/tamarind-suites/facilities"
+        }
+      ]
+    }
+  }
+}

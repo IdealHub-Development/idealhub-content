@@ -1,0 +1,39 @@
+{
+  "title": "Kemudahan Alanis Residence — Kolam Renang & Gim | IdealHub",
+  "description": "Kemudahan di Alanis Residence: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/alanis-residence/facilities#webpage",
+      "url": "https://www.idealhub.com/building/alanis-residence/facilities",
+      "name": "Kemudahan Alanis Residence — Kolam Renang & Gim",
+      "description": "Kemudahan di Alanis Residence: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+      "inLanguage": "ms-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/alanis-residence/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kemudahan Alanis Residence",
+          "item": "https://www.idealhub.com/building/alanis-residence/facilities"
+        }
+      ]
+    }
+  }
+}

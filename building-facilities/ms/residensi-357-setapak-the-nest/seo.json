@@ -1,0 +1,39 @@
+{
+  "title": "Kemudahan Residensi 357 Setapak — Kolam Renang & Taman Permainan Kanak-Kanak | IdealHub",
+  "description": "Kemudahan di Residensi 357 Setapak: Kolam Renang & Taman Permainan Kanak-Kanak — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/residensi-357-setapak-the-nest/facilities#webpage",
+      "url": "https://www.idealhub.com/building/residensi-357-setapak-the-nest/facilities",
+      "name": "Kemudahan Residensi 357 Setapak — Kolam Renang & Taman Permainan Kanak-Kanak",
+      "description": "Kemudahan di Residensi 357 Setapak: Kolam Renang & Taman Permainan Kanak-Kanak — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+      "inLanguage": "ms-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/residensi-357-setapak-the-nest/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kemudahan Residensi 357 Setapak",
+          "item": "https://www.idealhub.com/building/residensi-357-setapak-the-nest/facilities"
+        }
+      ]
+    }
+  }
+}

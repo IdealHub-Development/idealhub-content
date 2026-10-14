@@ -1,0 +1,39 @@
+{
+  "title": "Kemudahan Mutiara Ville — Kolam Renang & Gim | IdealHub",
+  "description": "Kemudahan di Mutiara Ville: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/mutiara-ville/facilities#webpage",
+      "url": "https://www.idealhub.com/building/mutiara-ville/facilities",
+      "name": "Kemudahan Mutiara Ville — Kolam Renang & Gim",
+      "description": "Kemudahan di Mutiara Ville: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+      "inLanguage": "ms-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/mutiara-ville/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kemudahan Mutiara Ville",
+          "item": "https://www.idealhub.com/building/mutiara-ville/facilities"
+        }
+      ]
+    }
+  }
+}

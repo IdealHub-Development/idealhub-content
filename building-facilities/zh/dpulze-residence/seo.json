@@ -1,0 +1,39 @@
+{
+  "title": "DPulze Residence设施 — 游泳池 | IdealHub",
+  "description": "DPulze Residence设施：游泳池的开放时间、楼层与着装规定。查看照片与访客须知，服务住户与访客。",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/facilities#webpage",
+      "url": "https://www.idealhub.com/building/dpulze-residence/facilities",
+      "name": "DPulze Residence设施 — 游泳池",
+      "description": "DPulze Residence设施：游泳池的开放时间、楼层与着装规定。查看照片与访客须知，服务住户与访客。",
+      "inLanguage": "zh-CN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "DPulze Residence设施",
+          "item": "https://www.idealhub.com/building/dpulze-residence/facilities"
+        }
+      ]
+    }
+  }
+}

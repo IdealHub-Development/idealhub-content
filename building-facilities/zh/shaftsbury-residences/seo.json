@@ -1,0 +1,39 @@
+{
+  "title": "Shaftsbury Residences设施 — 游泳池 & 健身房 | IdealHub",
+  "description": "Shaftsbury Residences设施：游泳池 & 健身房的开放时间、楼层与着装规定。查看照片与访客须知，服务住户与访客。",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/shaftsbury-residences/facilities#webpage",
+      "url": "https://www.idealhub.com/building/shaftsbury-residences/facilities",
+      "name": "Shaftsbury Residences设施 — 游泳池 & 健身房",
+      "description": "Shaftsbury Residences设施：游泳池 & 健身房的开放时间、楼层与着装规定。查看照片与访客须知，服务住户与访客。",
+      "inLanguage": "zh-CN",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/shaftsbury-residences/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Shaftsbury Residences设施",
+          "item": "https://www.idealhub.com/building/shaftsbury-residences/facilities"
+        }
+      ]
+    }
+  }
+}

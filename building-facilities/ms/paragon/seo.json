@@ -1,0 +1,39 @@
+{
+  "title": "Kemudahan Paragon — Kolam Renang & Gim | IdealHub",
+  "description": "Kemudahan di Paragon: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/paragon/facilities#webpage",
+      "url": "https://www.idealhub.com/building/paragon/facilities",
+      "name": "Kemudahan Paragon — Kolam Renang & Gim",
+      "description": "Kemudahan di Paragon: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+      "inLanguage": "ms-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/paragon/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kemudahan Paragon",
+          "item": "https://www.idealhub.com/building/paragon/facilities"
+        }
+      ]
+    }
+  }
+}

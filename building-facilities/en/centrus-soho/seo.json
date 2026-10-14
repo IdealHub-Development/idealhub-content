@@ -1,0 +1,39 @@
+{
+  "title": "Centrus SOHO Facilities — Swimming Pool & Gym | IdealHub",
+  "description": "Facilities at Centrus SOHO: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/centrus-soho/facilities#webpage",
+      "url": "https://www.idealhub.com/building/centrus-soho/facilities",
+      "name": "Centrus SOHO Facilities — Swimming Pool & Gym",
+      "description": "Facilities at Centrus SOHO: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/centrus-soho/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Centrus SOHO Facilities",
+          "item": "https://www.idealhub.com/building/centrus-soho/facilities"
+        }
+      ]
+    }
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "title": "Kemudahan Lumi Tropicana — Kolam Renang & Gim | IdealHub",
+  "description": "Kemudahan di Lumi Tropicana: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/lumi-tropicana/facilities#webpage",
+      "url": "https://www.idealhub.com/building/lumi-tropicana/facilities",
+      "name": "Kemudahan Lumi Tropicana — Kolam Renang & Gim",
+      "description": "Kemudahan di Lumi Tropicana: Kolam Renang & Gim — waktu operasi, tingkat dan peraturan pakaian. Lihat foto dan maklumat lawatan untuk penduduk dan tetamu.",
+      "inLanguage": "ms-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/lumi-tropicana/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kemudahan Lumi Tropicana",
+          "item": "https://www.idealhub.com/building/lumi-tropicana/facilities"
+        }
+      ]
+    }
+  }
+}

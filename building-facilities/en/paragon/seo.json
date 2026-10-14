@@ -1,0 +1,39 @@
+{
+  "title": "Paragon Facilities — Swimming Pool & Gym | IdealHub",
+  "description": "Facilities at Paragon: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/paragon/facilities#webpage",
+      "url": "https://www.idealhub.com/building/paragon/facilities",
+      "name": "Paragon Facilities — Swimming Pool & Gym",
+      "description": "Facilities at Paragon: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/paragon/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Paragon Facilities",
+          "item": "https://www.idealhub.com/building/paragon/facilities"
+        }
+      ]
+    }
+  }
+}

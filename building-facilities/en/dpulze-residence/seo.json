@@ -1,0 +1,39 @@
+{
+  "title": "DPulze Residence Facilities — Swimming Pool | IdealHub",
+  "description": "Facilities at DPulze Residence: Swimming Pool operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/facilities#webpage",
+      "url": "https://www.idealhub.com/building/dpulze-residence/facilities",
+      "name": "DPulze Residence Facilities — Swimming Pool",
+      "description": "Facilities at DPulze Residence: Swimming Pool operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "DPulze Residence Facilities",
+          "item": "https://www.idealhub.com/building/dpulze-residence/facilities"
+        }
+      ]
+    }
+  }
+}

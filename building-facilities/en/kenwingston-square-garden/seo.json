@@ -1,0 +1,39 @@
+{
+  "title": "Kenwingston Square Garden Facilities — Swimming Pool & Gym | IdealHub",
+  "description": "Facilities at Kenwingston Square Garden: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/kenwingston-square-garden/facilities#webpage",
+      "url": "https://www.idealhub.com/building/kenwingston-square-garden/facilities",
+      "name": "Kenwingston Square Garden Facilities — Swimming Pool & Gym",
+      "description": "Facilities at Kenwingston Square Garden: Swimming Pool & Gym operating hours, level and attire rules. View photos and visitor details for residents and guests.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/kenwingston-square-garden/facilities#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Kenwingston Square Garden Facilities",
+          "item": "https://www.idealhub.com/building/kenwingston-square-garden/facilities"
+        }
+      ]
+    }
+  }
+}
