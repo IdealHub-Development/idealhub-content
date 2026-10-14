@@ -1,0 +1,45 @@
+{
+  "title": "Centrus Soho C3-10-13A Appliance Guide | IdealHub",
+  "description": "Appliance guides for Centrus Soho C3-10-13A — TV channel guide and washing machine instructions for guests and tenants.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/centrus-soho/unit/c3-10-13a/appliances#webpage",
+      "url": "https://www.idealhub.com/building/centrus-soho/unit/c3-10-13a/appliances",
+      "name": "Centrus Soho C3-10-13A Appliance Guide",
+      "description": "Appliance guides for Centrus Soho C3-10-13A — TV channel guide and washing machine instructions for guests and tenants.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/centrus-soho/unit/c3-10-13a/appliances#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "Centrus Soho",
+          "item": "https://www.idealhub.com/building/centrus-soho/facilities"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Appliances",
+          "item": "https://www.idealhub.com/building/centrus-soho/unit/c3-10-13a/appliances"
+        }
+      ]
+    }
+  }
+}

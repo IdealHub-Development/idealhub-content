@@ -1,0 +1,45 @@
+{
+  "title": "DPulze Residence A-08-05 Appliance Guide | IdealHub",
+  "description": "Step-by-step Electrolux front-load washing machine guide for DPulze Residence A-08-05 — detergent dosage, cycle and door instructions.",
+  "structuredData": {
+    "webPage": {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/unit/a-08-05/appliances#webpage",
+      "url": "https://www.idealhub.com/building/dpulze-residence/unit/a-08-05/appliances",
+      "name": "DPulze Residence A-08-05 Appliance Guide",
+      "description": "Step-by-step Electrolux front-load washing machine guide for DPulze Residence A-08-05 — detergent dosage, cycle and door instructions.",
+      "inLanguage": "en-MY",
+      "isPartOf": {
+        "@type": "WebSite",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      }
+    },
+    "breadcrumbList": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "@id": "https://www.idealhub.com/building/dpulze-residence/unit/a-08-05/appliances#breadcrumb",
+      "itemListElement": [
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "DPulze Residence",
+          "item": "https://www.idealhub.com/building/dpulze-residence/facilities"
+        },
+        {
+          "@type": "ListItem",
+          "position": 3,
+          "name": "Appliances",
+          "item": "https://www.idealhub.com/building/dpulze-residence/unit/a-08-05/appliances"
+        }
+      ]
+    }
+  }
+}
