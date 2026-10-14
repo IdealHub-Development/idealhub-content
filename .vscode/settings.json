@@ -1,0 +1,10 @@
+{
+  // Every seo.json validates against schemas/seo.schema.json in the editor.
+  // CLI check: npx ajv-cli validate -s schemas/seo.schema.json -d '**/seo.json' --spec=draft7
+  "json.schemas": [
+    {
+      "fileMatch": ["**/seo.json"],
+      "url": "./schemas/seo.schema.json"
+    }
+  ]
+}
