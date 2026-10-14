@@ -2,13 +2,21 @@
   "title": "Transformasi Homestay Legasi Kampung Bharu — Pengubahsuaian Kondominium di KL | IdealHub",
   "description": "Lihat pengubahsuaian Legasi Kampung Bharu kami — kondominium 3-bilik di Kampung Bharu, Kuala Lumpur, diubah menjadi homestay kontemporari dengan pemandangan Menara Petronas. Pengubahsuaian turnkey dalam 2 bulan.",
   "structuredData": {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "Transformasi Homestay Legasi Kampung Bharu — Pengubahsuaian Kontemporari Moden di Kampung Bharu, KL",
-    "description": "Kondominium 3-bilik di Legasi Kampung Bharu, Kampung Bharu, Kuala Lumpur, diubah menjadi homestay kontemporari yang lengkap berperabot. Menampilkan dapur terbuka, dinding aksen taupe dengan wainscoting putih, tiga bilik tidur berperabot, dan pemandangan Menara Petronas dari lantai ke siling. Siap dalam tempoh 2 bulan.",
-    "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
-    "datePublished": "2026-07-30",
-    "author": { "@type": "Organization", "name": "IdealHub" },
-    "publisher": { "@type": "Organization", "name": "IdealHub" }
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Transformasi Homestay Legasi Kampung Bharu — Pengubahsuaian Kontemporari Moden di Kampung Bharu, KL",
+      "description": "Kondominium 3-bilik di Legasi Kampung Bharu, Kampung Bharu, Kuala Lumpur, diubah menjadi homestay kontemporari yang lengkap berperabot. Menampilkan dapur terbuka, dinding aksen taupe dengan wainscoting putih, tiga bilik tidur berperabot, dan pemandangan Menara Petronas dari lantai ke siling. Siap dalam tempoh 2 bulan.",
+      "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/legasi-kampung-bharu/images/living-room.webp",
+      "datePublished": "2026-07-30",
+      "author": {
+        "@type": "Organization",
+        "name": "IdealHub"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IdealHub"
+      }
+    }
   }
 }
