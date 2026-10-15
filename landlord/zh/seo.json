@@ -1,0 +1,53 @@
+{
+  "title": "房东支持服务 | 轻松无忧的房产管理 | IdealHub",
+  "description": "IdealHub房东支持服务提供运营协调、租客联络与经营数据洞察。通过我们的房产协调服务，享受无忧当房东的体验",
+  "image": "landlord/en/images/house.webp",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/landlord",
+      "email": "ask@idealhub.com",
+      "image": "landlord/en/images/house.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub房东支持服务为全马住宅租赁与民宿业主提供运营协调、租客联络和经营数据洞察。"
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "房东支持服务",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "房东支持与房产协调",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "为房产业主提供运营协调、宾客与租客联络、经营数据洞察、经纪人对接支持以及租赁/民宿收款服务——您始终保留完全的控制权。"
+    }
+  }
+}

@@ -1,0 +1,53 @@
+{
+  "title": "Perkhidmatan Sokongan Pemilik Hartanah | Pengurusan Hartanah Tanpa Tekanan | IdealHub",
+  "description": "Sokongan pemilik hartanah IdealHub menguruskan penyelarasan operasi, perhubungan penyewa & pandangan prestasi. Nikmati pemilikan tanpa tekanan dengan perkhidmatan penyelarasan hartanah kami",
+  "image": "landlord/en/images/house.webp",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/landlord",
+      "email": "ask@idealhub.com",
+      "image": "landlord/en/images/house.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Sokongan pemilik hartanah IdealHub menguruskan penyelarasan operasi, perhubungan penyewa, dan pandangan prestasi untuk pemilik sewaan residensi dan homestay di seluruh Malaysia."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Perkhidmatan Sokongan Pemilik Hartanah",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Sokongan Pemilik Hartanah & Penyelarasan Hartanah",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Penyelarasan operasi, perhubungan tetamu dan penyewa, pandangan prestasi, sokongan perhubungan ejen, serta kutipan sewaan/homestay untuk pemilik hartanah—dengan kawalan pemilikan penuh kekal di tangan anda."
+    }
+  }
+}
