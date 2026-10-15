@@ -1,0 +1,54 @@
+{
+  "title": "Perkhidmatan e-Stamping — Cap Perjanjian Sewa Dalam Talian | IdealHub",
+  "description": "Cap perjanjian sewa anda dalam talian dalam beberapa minit. IdealHub e-Stamps mengeluarkan Sijil e-Stamp LHDN rasmi — tiada barisan, tiada portal kerajaan. RM 50 seorang dokumen, mematuhi SASSA 2026.",
+  "image": "estamp-services/images/who-we-are.webp",
+  "imageAlt": "Perkhidmatan e-Stamping IdealHub untuk perjanjian sewa",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/estamp-services",
+      "email": "ask@idealhub.com",
+      "image": "estamp-services/images/who-we-are.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub e-Stamps ialah perkhidmatan setem digital untuk pemilik hartanah, penyewa, dan individu di seluruh Malaysia, yang mengeluarkan Sijil e-Stamp LHDN rasmi dalam talian."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "Perkhidmatan e-Stamping",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "e-Stamping Duti Setem Digital",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Cap perjanjian sewa, perjanjian perkhidmatan, dan kontrak pekerjaan secara dalam talian di bawah Sistem Penilaian Sendiri Duti Setem (SASSA) — Sijil e-Stamp LHDN rasmi dihantar melalui e-mel dalam masa kurang dari 5 minit."
+    }
+  }
+}

@@ -1,0 +1,54 @@
+{
+  "title": "电子印花服务 — 在线为租约办理印花 | IdealHub",
+  "description": "几分钟在线完成租约印花。IdealHub e-Stamps 签发官方 LHDN 电子印花证书——无需排队、无需政府门户。每份文件 RM 50，符合 SASSA 2026。",
+  "image": "estamp-services/images/who-we-are.webp",
+  "imageAlt": "IdealHub 租约电子印花服务",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/estamp-services",
+      "email": "ask@idealhub.com",
+      "image": "estamp-services/images/who-we-are.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub e-Stamps 是面向全马房东、租客和个人的数字印花服务，在线签发官方 LHDN 电子印花证书。"
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "电子印花服务",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "数字印花税电子印花",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "在印花税自我评估系统（SASSA）下在线为租约、服务协议和雇佣合同办理印花——官方 LHDN 电子印花证书在 5 分钟内通过电子邮件送达。"
+    }
+  }
+}
