@@ -1,0 +1,54 @@
+{
+  "title": "e-Stamping Service — Stamp Tenancy Agreements Online | IdealHub",
+  "description": "Stamp your tenancy agreement online in minutes. IdealHub e-Stamps issues official LHDN e-Stamp Certificates — no queues, no government portals. RM 50 per document, SASSA 2026 compliant.",
+  "image": "estamp-services/images/who-we-are.webp",
+  "imageAlt": "IdealHub e-Stamping service for tenancy agreements",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/estamp-services",
+      "email": "ask@idealhub.com",
+      "image": "estamp-services/images/who-we-are.webp",
+      "logo": {
+        "@type": "ImageObject",
+        "url": "landlord/en/images/house.webp"
+      },
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub e-Stamps is a digital stamping service for landlords, tenants, and individuals across Malaysia, issuing official LHDN e-Stamp Certificates online."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "e-Stamping Service",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Digital Stamp Duty e-Stamping",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Legally stamp tenancy agreements, service agreements, and employment contracts online under the Self-Assessment Stamp Duty System (SASSA) — official LHDN e-Stamp Certificates delivered by email in under 5 minutes."
+    }
+  }
+}
