@@ -1,7 +1,7 @@
 ---
 pill: NEW
 eyebrow: IDEALHUB E-STAMPING
-title: Signing a tenancy agreement? Stamp it the same day.
+title: e-Stamping for Tenancy Agreements — LHDN Certificates the Same Day
 subtitle: >-
   LHDN-compliant e-Stamping from RM50 per document. No queue, no MyTax portal —
   upload, pay, and receive your official certificate by email in minutes.
