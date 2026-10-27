@@ -3,7 +3,7 @@ overline: OPEN ROLES
 title: Two roles, open right now.
 subtitle: Both roles are based in Malaysia and work closely with our Operations team.
 jobs:
-  - image: /images/careers/job-guest-experience.png
+  - image: careers/images/job-guest-experience.jpg
     imageAlt: "Guest Experience Specialist — part-time work-from-home role at IdealHub"
     badges:
       - label: PART-TIME
@@ -36,7 +36,7 @@ jobs:
       - Work from home
       - Rotating shifts, no midnights
       - Weekend & public holiday allowance
-  - image: /images/careers/job-handyman.png
+  - image: careers/images/job-handyman.jpg
     imageAlt: "Handyman / Technician — full-time renovation and maintenance role at IdealHub"
     badges:
       - label: FULL-TIME

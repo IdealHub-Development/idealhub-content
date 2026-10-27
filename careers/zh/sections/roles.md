@@ -3,7 +3,7 @@ overline: 在招职位
 title: 两个职位，现在开放。
 subtitle: 两个职位均在马来西亚，与我们的运营团队紧密协作。
 jobs:
-  - image: /images/careers/job-guest-experience.png
+  - image: careers/images/job-guest-experience.jpg
     imageAlt: "宾客体验专员——IdealHub 兼职居家办公职位"
     badges:
       - label: 兼职
@@ -36,7 +36,7 @@ jobs:
       - 居家办公
       - 轮班制，无半夜班
       - 周末与公共假期津贴
-  - image: /images/careers/job-handyman.png
+  - image: careers/images/job-handyman.jpg
     imageAlt: "维修技师 / 技工——IdealHub 全职装修与维护职位"
     badges:
       - label: 全职
