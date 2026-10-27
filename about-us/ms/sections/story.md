@@ -2,7 +2,7 @@
 overline: KISAH KAMI
 title: Dibina oleh jurutera, untuk pemilik hartanah.
 paragraphs:
-  - IdealHub bermula dengan satu kekecewaan mudah: bahagian paling sukar dalam pelaburan hartanah ialah menguruskan hartanah itu — bukan memilihnya. Jadi kami bina platform yang kami sendiri inginkan.
+  - 'IdealHub bermula dengan satu kekecewaan mudah: bahagian paling sukar dalam pelaburan hartanah ialah menguruskan hartanah itu — bukan memilihnya. Jadi kami bina platform yang kami sendiri inginkan.'
   - Hari ini, pasukan dalaman kami membantu pemilik dan penyewa di sepanjang Lembah Klang, daripada pengalaman tetamu homestay dan sewa jangka panjang hingga krew renovation dan e-stamping dalam talian.
 points:
   - number: '01'

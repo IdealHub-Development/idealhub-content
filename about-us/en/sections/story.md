@@ -2,7 +2,7 @@
 overline: OUR STORY
 title: Built by engineers, for property owners.
 paragraphs:
-  - IdealHub began with a simple frustration: the hardest part of investing in real estate was managing the property — not choosing it. So we built the platform we wished existed.
+  - 'IdealHub began with a simple frustration: the hardest part of investing in real estate was managing the property — not choosing it. So we built the platform we wished existed.'
   - Today our in-house team supports owners and tenants across the Klang Valley, from homestay guest experience and long-term tenancy to renovation crews and online e-stamping.
 points:
   - number: '01'
