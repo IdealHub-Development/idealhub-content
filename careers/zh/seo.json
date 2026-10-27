@@ -1,0 +1,60 @@
+{
+  "title": "IdealHub 职业机会 — 吉隆坡正在招聘",
+  "description": "加入 IdealHub（吉隆坡）——正在招聘宾客体验专员（居家办公）与维修技师。提供完整培训。我们回复每一位候选人。",
+  "image": "/images/careers/hero.jpg",
+  "imageAlt": "IdealHub 职业机会 — 团队在吉隆坡工作",
+  "structuredData": {
+    "jobPostingGuest": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "兼职合同制宾客体验专员（居家办公）",
+      "description": "在多个平台处理宾客预订、保持预订日历准确、帮助宾客找到合适的短租——在你自己的笔记本电脑上完成，提供完整培训。",
+      "url": "https://www.idealhub.com/careers",
+      "datePosted": "2026-10-27",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kuala Lumpur",
+          "addressCountry": "MY"
+        }
+      },
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Malaysia"
+      }
+    },
+    "jobPostingHandyman": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "维修技师 / 技工 — 装修与维护",
+      "description": "让我们的短租房屋保持最佳状态——例行检查、维修、粉刷、石膏板天花与巴生谷各处的小型装修工程。",
+      "url": "https://www.idealhub.com/careers",
+      "datePosted": "2026-10-27",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Sri Petaling, Kuala Lumpur",
+          "addressCountry": "MY"
+        }
+      },
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Malaysia"
+      }
+    }
+  }
+}

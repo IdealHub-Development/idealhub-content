@@ -1,0 +1,60 @@
+{
+  "title": "Kerjaya di IdealHub — Kami Sedang Mengambil di Kuala Lumpur",
+  "description": "Sertai IdealHub di Kuala Lumpur — mengambil Eksekutif Pengalaman Tetamu (WFH) dan Tukang. Latihan penuh disediakan. Kami membalas setiap calon.",
+  "image": "/images/careers/hero.jpg",
+  "imageAlt": "Kerjaya IdealHub — pasukan bekerja di Kuala Lumpur",
+  "structuredData": {
+    "jobPostingGuest": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Eksekutif Pengalaman Tetamu Separuh Masa Kontrak (WFH)",
+      "description": "Urus tempahan tetamu merentas pelbagai platform, kekalkan kalendar tempahan tepat dan bantu tetamu menemui homestay yang betul — dari laptop anda sendiri, dengan latihan penuh disediakan.",
+      "url": "https://www.idealhub.com/careers",
+      "datePosted": "2026-10-27",
+      "employmentType": "PART_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Kuala Lumpur",
+          "addressCountry": "MY"
+        }
+      },
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Malaysia"
+      }
+    },
+    "jobPostingHandyman": {
+      "@context": "https://schema.org",
+      "@type": "JobPosting",
+      "title": "Tukang / Juruteknik — Renovation & Penyelenggaraan",
+      "description": "Kekalkan rumah homestay kami dalam keadaan terbaik — pemeriksaan rutin, pembaikan, pengecatan, siling Plaster dan kerja renovation kecil di seluruh Lembah Klang.",
+      "url": "https://www.idealhub.com/careers",
+      "datePosted": "2026-10-27",
+      "employmentType": "FULL_TIME",
+      "hiringOrganization": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "jobLocation": {
+        "@type": "Place",
+        "address": {
+          "@type": "PostalAddress",
+          "addressLocality": "Sri Petaling, Kuala Lumpur",
+          "addressCountry": "MY"
+        }
+      },
+      "applicantLocationRequirements": {
+        "@type": "Country",
+        "name": "Malaysia"
+      }
+    }
+  }
+}
