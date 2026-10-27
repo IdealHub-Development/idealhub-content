@@ -41,9 +41,6 @@ gallery:
   - label: Dapur & Dobi
     alt: Dapur bentuk L dengan kabinet asas kayu oak cerah dan kabinet dinding krim, meja kuarza putih, dapur gas dua zon, hud hitam nipis, tingkap kaca beku, gabungan mesin basuh-pengering bawah kaunter dan peti sejuk dua pintu.
     file: kitchen.webp
-  - label: Bilik Air
-    alt: Bilik air dengan cermin berbingkai dipasang dinding, rak tuala keluli tahan karat, besen vanity dan skrin mandi kaca pada jubin dinding beige.
-    file: bathroom.webp
 ---
 
 ## Kisah Projek

@@ -41,9 +41,6 @@ gallery:
   - label: Kitchen & Laundry
     alt: L-shaped kitchen with light oak base cabinets and cream wall cabinets, white quartz countertop, two-zone gas hob, slim black hood, frosted glass window, under-counter washer dryer and two-door refrigerator.
     file: kitchen.webp
-  - label: Bathroom
-    alt: Bathroom with a wall-hung framed mirror, stainless steel towel rack, vanity basin and glass shower screen finished in beige wall tiles.
-    file: bathroom.webp
 overviewHidden: true
 overview:
   - title: 'Fixtures & Fittings'
