@@ -1,0 +1,27 @@
+{
+  "title": "Hubungi IdealHub — Homestay, Sewaan & Pertanyaan Hartanah",
+  "description": "Bercakap dengan pasukan IdealHub di Kuala Lumpur — panggil, mesej atau lawat. Homestay, penyenaraian sewaan dan e-stamping dijawab dalam satu hari bekerja.",
+  "image": "/images/contact-us/team-1.jpg",
+  "imageAlt": "Pasukan IdealHub di Kuala Lumpur",
+  "structuredData": {
+    "contactPage": {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "Hubungi IdealHub",
+      "url": "https://www.idealhub.com/contact-us",
+      "about": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com",
+        "telephone": "+60327899017",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+          "addressLocality": "Kuala Lumpur",
+          "postalCode": "57000",
+          "addressCountry": "MY"
+        }
+      }
+    }
+  }
+}

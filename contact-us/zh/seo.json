@@ -1,0 +1,27 @@
+{
+  "title": "联系 IdealHub — 短租、租赁与房产咨询",
+  "description": "与 IdealHub 团队对话（吉隆坡）——电话、留言或到访。短租预订、房产上架、电子印花与租约软件问题，一个工作日内回复。",
+  "image": "/images/contact-us/team-1.jpg",
+  "imageAlt": "IdealHub 团队在吉隆坡",
+  "structuredData": {
+    "contactPage": {
+      "@context": "https://schema.org",
+      "@type": "ContactPage",
+      "name": "联系 IdealHub",
+      "url": "https://www.idealhub.com/contact-us",
+      "about": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com",
+        "telephone": "+60327899017",
+        "address": {
+          "@type": "PostalAddress",
+          "streetAddress": "No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+          "addressLocality": "Kuala Lumpur",
+          "postalCode": "57000",
+          "addressCountry": "MY"
+        }
+      }
+    }
+  }
+}
