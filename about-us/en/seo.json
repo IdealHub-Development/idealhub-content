@@ -1,0 +1,30 @@
+{
+  "title": "About IdealHub — Rental & Property Management in Kuala Lumpur",
+  "description": "A Kuala Lumpur rental platform and in-house team — listings, tenancy paperwork, rent tracking, e-stamping and renovation for landlords and tenants.",
+  "image": "/images/about-us/property-management.jpg",
+  "imageAlt": "IdealHub rental property management in Kuala Lumpur",
+  "structuredData": {
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn Bhd",
+      "url": "https://www.idealhub.com",
+      "telephone": "+60327899017",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      }
+    },
+    "aboutPage": {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "About IdealHub",
+      "url": "https://www.idealhub.com/about-us",
+      "about": { "@id": "https://www.idealhub.com/#organization" }
+    }
+  }
+}

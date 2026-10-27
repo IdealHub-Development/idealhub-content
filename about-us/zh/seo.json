@@ -1,0 +1,30 @@
+{
+  "title": "关于 IdealHub — 吉隆坡租赁与房产管理",
+  "description": "吉隆坡的租赁平台与内部团队——为房东与租客提供房源上架、租约文件、租金追踪、电子印花与装修服务。",
+  "image": "/images/about-us/property-management.jpg",
+  "imageAlt": "IdealHub 在吉隆坡的租赁房产管理",
+  "structuredData": {
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn Bhd",
+      "url": "https://www.idealhub.com",
+      "telephone": "+60327899017",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      }
+    },
+    "aboutPage": {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "关于 IdealHub",
+      "url": "https://www.idealhub.com/about-us",
+      "about": { "@id": "https://www.idealhub.com/#organization" }
+    }
+  }
+}

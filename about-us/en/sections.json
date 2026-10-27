@@ -1,0 +1,10 @@
+{
+  "hero": true,
+  "story": true,
+  "whatWeDo": true,
+  "platform": true,
+  "whoWeHelp": true,
+  "believe": true,
+  "cta": true,
+  "strip": true
+}

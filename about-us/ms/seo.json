@@ -1,0 +1,30 @@
+{
+  "title": "Mengenai IdealHub — Pengurusan Sewaan di Kuala Lumpur",
+  "description": "Platform sewaan dan pasukan dalaman di Kuala Lumpur — penyenaraian, dokumen sewaan, penjejakan sew, e-stamping dan renovation untuk tuan rumah dan penyewa.",
+  "image": "/images/about-us/property-management.jpg",
+  "imageAlt": "Pengurusan sewaan IdealHub di Kuala Lumpur",
+  "structuredData": {
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn Bhd",
+      "url": "https://www.idealhub.com",
+      "telephone": "+60327899017",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      }
+    },
+    "aboutPage": {
+      "@context": "https://schema.org",
+      "@type": "AboutPage",
+      "name": "Mengenai IdealHub",
+      "url": "https://www.idealhub.com/about-us",
+      "about": { "@id": "https://www.idealhub.com/#organization" }
+    }
+  }
+}
