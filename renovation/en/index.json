@@ -1,5 +1,27 @@
 [
   {
+    "slug": "duta-park",
+    "title": "Duta Park Warm Contemporary Haven",
+    "category": "Condominium",
+    "location": "Jalan Kuching, Kuala Lumpur",
+    "cost": "RM 43,300",
+    "datePublished": "2026-10-27",
+    "excerpt": "A 2+1 bedroom residence at Duta Park Residences on Jalan Kuching, Kuala Lumpur, fitted out turnkey in a warm neutral palette — fluted timber panelling, a complete furniture and appliance package, and a custom quartz-topped kitchen, delivered on an RM 43,300 all-in budget.",
+    "thumbnail": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/renovation/en/case-studies/duta-park/images/living-room.webp",
+    "tags": [
+      "Warm Neutral Palette",
+      "Fluted Wood Panelling",
+      "Turnkey Furnishing"
+    ],
+    "featured": true,
+    "order": 1,
+    "status": "published",
+    "buildingName": "Duta Park Residences",
+    "beds": 2,
+    "baths": 2,
+    "footerText": "**Turnkey Furnishing**"
+  },
+  {
     "slug": "astrum-ampang-15",
     "title": "Astrum Ampang A-15-05 Turnkey Studio",
     "category": "Condominium",
@@ -14,7 +36,7 @@
       "Compact Living"
     ],
     "featured": true,
-    "order": 1,
+    "order": 2,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -36,7 +58,7 @@
       "Studio"
     ],
     "featured": true,
-    "order": 2,
+    "order": 3,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -58,7 +80,7 @@
       "Compact Living"
     ],
     "featured": true,
-    "order": 3,
+    "order": 4,
     "status": "published",
     "buildingName": "Astrum Ampang",
     "beds": 1,
@@ -81,7 +103,7 @@
       "Sungai Long"
     ],
     "featured": true,
-    "order": 4,
+    "order": 5,
     "status": "published",
     "buildingName": "Alstonia Residence",
     "beds": 3,
@@ -103,7 +125,7 @@
       "Space Optimization"
     ],
     "featured": true,
-    "order": 5,
+    "order": 6,
     "status": "published",
     "buildingName": "Majestic Residence",
     "beds": 1,
@@ -125,7 +147,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 6,
+    "order": 7,
     "status": "published",
     "buildingName": "Sunway Belfield",
     "beds": 3,
@@ -148,7 +170,7 @@
       "Earthy Neutrals"
     ],
     "featured": true,
-    "order": 7,
+    "order": 8,
     "status": "published",
     "buildingName": "Dorsett Waterfront",
     "beds": 1,
@@ -170,7 +192,7 @@
       "Own Stay"
     ],
     "featured": true,
-    "order": 8,
+    "order": 9,
     "status": "published",
     "buildingName": "Plaza Rah",
     "beds": 3,
@@ -192,7 +214,7 @@
       "Rental Investment"
     ],
     "featured": true,
-    "order": 9,
+    "order": 10,
     "status": "published",
     "buildingName": "Sri Kesidang",
     "beds": 2,
@@ -215,7 +237,7 @@
       "High-Yield Investment"
     ],
     "featured": true,
-    "order": 10,
+    "order": 11,
     "status": "published",
     "buildingName": "Anya @ Shorea Park",
     "beds": 2,
@@ -237,7 +259,7 @@
       "Dark Walnut"
     ],
     "featured": true,
-    "order": 11,
+    "order": 12,
     "status": "published",
     "buildingName": "Sanderling Lakefront",
     "beds": 3,
@@ -259,7 +281,7 @@
       "Fully Furnished"
     ],
     "featured": true,
-    "order": 12,
+    "order": 13,
     "status": "published",
     "buildingName": "One Equine",
     "beds": 3,
@@ -281,7 +303,7 @@
       "Homestay"
     ],
     "featured": true,
-    "order": 13,
+    "order": 14,
     "status": "published",
     "buildingName": "Regency Tanjung Tuan",
     "beds": 2,
@@ -303,7 +325,7 @@
       "Warm Earth Tones"
     ],
     "featured": true,
-    "order": 14,
+    "order": 15,
     "status": "published",
     "buildingName": "Pavillion Ceylon",
     "beds": 2,
@@ -325,7 +347,7 @@
       "Wainscoting"
     ],
     "featured": true,
-    "order": 15,
+    "order": 16,
     "status": "published",
     "buildingName": "Henna Residensi",
     "beds": 2,
@@ -348,7 +370,7 @@
       "Petronas View"
     ],
     "featured": true,
-    "order": 16,
+    "order": 17,
     "status": "published",
     "buildingName": "Legasi Kampung Bharu",
     "beds": 3,
