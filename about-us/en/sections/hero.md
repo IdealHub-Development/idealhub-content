@@ -1,6 +1,7 @@
 ---
 eyebrow: About IdealHub · Rental & Tenancy
-titleLine1: We simplify rentals
+# Trailing space in titleLine1 is intentional: the renderer joins both title lines with no separator.
+titleLine1: "We simplify rentals "
 titleLine2: in Kuala Lumpur.
 lead: IdealHub is a rental platform and software provider in Kuala Lumpur. Our platform helps landlords and tenants handle listings, tenancy paperwork, rent tracking and e-stamping — and our team looks after homestay guests from check-in to check-out.
 primaryButton:

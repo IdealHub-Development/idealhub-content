@@ -1,6 +1,6 @@
 ---
-overline: KISAH KAMI
-title: Dibina oleh jurutera, untuk pemilik hartanah.
+overline: CARA KAMI BEKERJA
+title: Satu sistem, satu pasukan, satu piawaian penjagaan.
 subtitle: Kami memudahkan pengurusan hartanah dengan satu sistem, satu pasukan dan pendekatan yang mengutamakan manusia.
 cards:
   - number: '01'

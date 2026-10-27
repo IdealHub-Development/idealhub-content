@@ -1,7 +1,7 @@
 ---
 overline: THE PLATFORM
-title: We use this system to run our own rentals every day. Now we are opening it up to landlords and agents across Malaysia.
-subtitle: We use this system to manage homes every day. Now we are opening it up to landlords, agents and property managers across Malaysia.
+title: We run our own rentals on this system.
+subtitle: Our team manages homes on it every day. Now we are opening it up to landlords, agents and property managers across Malaysia.
 cards:
   - badge: LIVE
     badgeTone: live

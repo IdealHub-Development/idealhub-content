@@ -1,6 +1,6 @@
 ---
-overline: OUR STORY
-title: Built by engineers, for property owners.
+overline: HOW WE WORK
+title: One system, one team, one standard of care.
 subtitle: We simplified property management with one system, one team and a human-first approach.
 cards:
   - number: '01'

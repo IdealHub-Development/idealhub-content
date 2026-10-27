@@ -1,6 +1,7 @@
 ---
 eyebrow: Mengenai IdealHub · Persewaan & Sewaan
-titleLine1: Kami memudahkan sewaan
+# Trailing space in titleLine1 is intentional: the renderer joins both title lines with no separator.
+titleLine1: "Kami memudahkan sewaan "
 titleLine2: di Kuala Lumpur.
 lead: IdealHub ialah platform sewaan dan pembekal perisian di Kuala Lumpur. Platform kami membantu tuan rumah dan penyewa menguruskan penyenaraian, dokumen sewaan, penjejakan sew dan e-stamping — dan pasukan kami menjaga tetamu homestay dari daftar masuk hingga daftar keluar.
 primaryButton:

@@ -25,6 +25,14 @@
       "name": "关于 IdealHub",
       "url": "https://www.idealhub.com/about-us",
       "about": { "@id": "https://www.idealhub.com/#organization" }
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "首页", "item": "https://www.idealhub.com" },
+        { "@type": "ListItem", "position": 2, "name": "关于 IdealHub", "item": "https://www.idealhub.com/about-us" }
+      ]
     }
   }
 }

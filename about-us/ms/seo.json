@@ -25,6 +25,14 @@
       "name": "Mengenai IdealHub",
       "url": "https://www.idealhub.com/about-us",
       "about": { "@id": "https://www.idealhub.com/#organization" }
+    },
+    "breadcrumb": {
+      "@context": "https://schema.org",
+      "@type": "BreadcrumbList",
+      "itemListElement": [
+        { "@type": "ListItem", "position": 1, "name": "Laman Utama", "item": "https://www.idealhub.com" },
+        { "@type": "ListItem", "position": 2, "name": "Mengenai IdealHub", "item": "https://www.idealhub.com/about-us" }
+      ]
     }
   }
 }

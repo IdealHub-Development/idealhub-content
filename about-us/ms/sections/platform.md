@@ -1,7 +1,7 @@
 ---
 overline: PLATFORM
-title: Kami menggunakan sistem ini untuk menjalankan sewaan kami sendiri setiap hari. Kini kami membukanya kepada tuan rumah dan ejen di seluruh Malaysia.
-subtitle: Kami menggunakan sistem ini untuk menguruskan rumah setiap hari. Kini kami membukanya kepada tuan rumah, ejen dan pengurus hartanah di seluruh Malaysia.
+title: Kami menjalankan sewaan sendiri dengan sistem ini.
+subtitle: Pasukan kami menguruskan rumah dengannya setiap hari. Kini kami membukanya kepada tuan rumah, ejen dan pengurus hartanah di seluruh Malaysia.
 cards:
   - badge: LANGSUNG
     badgeTone: live
