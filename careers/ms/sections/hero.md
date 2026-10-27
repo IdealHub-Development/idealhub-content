@@ -19,10 +19,10 @@ noteLink2:
   label: bercakap dengan kami
   href: /contact-us
 noteSuffix: '.'
-image: careers/images/hero.jpg
+image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/hero.jpg
 alt: "Pasukan IdealHub bekerja di Kuala Lumpur"
 rolesCard:
-  image: careers/images/roles.jpg
+  image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/roles.jpg
   imageAlt: "Kekosongan IdealHub — Eksekutif Pengalaman Tetamu dan Tukang / Juruteknik"
   label: KEKOSONGAN
   count: 2 jawatan

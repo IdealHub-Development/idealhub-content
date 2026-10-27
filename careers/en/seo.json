@@ -1,7 +1,7 @@
 {
   "title": "Careers at IdealHub — We Are Hiring in Kuala Lumpur",
   "description": "Join IdealHub in Kuala Lumpur — hiring a Guest Experience Specialist (WFH) and Handyman. Full training provided. We reply to every candidate.",
-  "image": "careers/images/hero.jpg",
+  "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/hero.jpg",
   "imageAlt": "IdealHub careers — the team at work in Kuala Lumpur",
   "structuredData": {
     "jobPostingGuest": {

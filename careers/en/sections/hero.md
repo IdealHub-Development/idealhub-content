@@ -19,10 +19,10 @@ noteLink2:
   label: talk to our team
   href: /contact-us
 noteSuffix: '.'
-image: careers/images/hero.jpg
+image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/hero.jpg
 alt: "The IdealHub team at work in Kuala Lumpur"
 rolesCard:
-  image: careers/images/roles.jpg
+  image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/roles.jpg
   imageAlt: "IdealHub open roles — Guest Experience Specialist and Handyman / Technician"
   label: OPEN ROLES
   count: 2 positions

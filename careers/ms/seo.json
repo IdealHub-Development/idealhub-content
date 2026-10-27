@@ -1,7 +1,7 @@
 {
   "title": "Kerjaya di IdealHub — Kami Sedang Mengambil di Kuala Lumpur",
   "description": "Sertai IdealHub di Kuala Lumpur — mengambil Eksekutif Pengalaman Tetamu (WFH) dan Tukang. Latihan penuh disediakan. Kami membalas setiap calon.",
-  "image": "careers/images/hero.jpg",
+  "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/hero.jpg",
   "imageAlt": "Kerjaya IdealHub — pasukan bekerja di Kuala Lumpur",
   "structuredData": {
     "jobPostingGuest": {

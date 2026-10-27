@@ -1,7 +1,7 @@
 {
   "title": "IdealHub 职业机会 — 吉隆坡正在招聘",
   "description": "加入 IdealHub（吉隆坡）——正在招聘宾客体验专员（居家办公）与维修技师。提供完整培训。我们回复每一位候选人。",
-  "image": "careers/images/hero.jpg",
+  "image": "https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/hero.jpg",
   "imageAlt": "IdealHub 职业机会 — 团队在吉隆坡工作",
   "structuredData": {
     "jobPostingGuest": {

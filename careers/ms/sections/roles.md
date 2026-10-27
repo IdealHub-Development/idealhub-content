@@ -3,7 +3,7 @@ overline: KEKOSONGAN
 title: Dua jawatan, dibuka sekarang.
 subtitle: Kedua-dua jawatan berada di Malaysia dan bekerja rapat dengan pasukan Operasi kami.
 jobs:
-  - image: careers/images/job-guest-experience.jpg
+  - image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/job-guest-experience.jpg
     imageAlt: "Eksekutif Pengalaman Tetamu — jawatan separuh masa bekerja dari rumah di IdealHub"
     badges:
       - label: SEPARUH MASA
@@ -36,7 +36,7 @@ jobs:
       - Bekerja dari rumah
       - Syif berputar, tanpa tengah malam
       - Elaun hujung minggu dan cuti umum
-  - image: careers/images/job-handyman.jpg
+  - image: https://raw.githubusercontent.com/IdealHub-Development/idealhub-content/main/careers/images/job-handyman.jpg
     imageAlt: "Tukang / Juruteknik — jawatan sepenuh masa pengubahsuaian dan penyelenggaraan di IdealHub"
     badges:
       - label: SEPENUH MASA
