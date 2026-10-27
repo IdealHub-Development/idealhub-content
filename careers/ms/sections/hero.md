@@ -1,6 +1,7 @@
 ---
 badge: Kami sedang mengambil · 2 kekosongan
-titleLine1: Lakukan kerja yang
+# Trailing space in titleLine1 is intentional: the renderer joins both title lines with no separator.
+titleLine1: "Lakukan kerja yang "
 titleLine2: memudahkan sewaan.
 lead: IdealHub ialah platform sewaan dan pengendali homestay di Kuala Lumpur. Kami sebuah pasukan kecil jurutera, hos dan pengendali yang membina platform sewaan yang kami sendiri inginkan — jika anda suka menyelesaikan masalah sebenar untuk rumah sebenar, anda pasti sesuai di sini.
 primaryButton:
@@ -19,8 +20,10 @@ noteLink2:
   href: /contact-us
 noteSuffix: '.'
 image: /images/careers/hero.jpg
+alt: "Pasukan IdealHub bekerja di Kuala Lumpur"
 rolesCard:
   image: /images/careers/roles.jpg
+  imageAlt: "Kekosongan IdealHub — Eksekutif Pengalaman Tetamu dan Tukang / Juruteknik"
   label: KEKOSONGAN
   count: 2 jawatan
   roles:

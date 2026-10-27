@@ -11,7 +11,9 @@
       "description": "在多个平台处理宾客预订、保持预订日历准确、帮助宾客找到合适的短租——在你自己的笔记本电脑上完成，提供完整培训。",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "PART_TIME",
+      "jobLocationType": "TELECOMMUTE",
       "hiringOrganization": {
         "@type": "Organization",
         "name": "IdealHub",
@@ -37,6 +39,7 @@
       "description": "让我们的短租房屋保持最佳状态——例行检查、维修、粉刷、石膏板天花与巴生谷各处的小型装修工程。",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",

@@ -4,6 +4,7 @@ title: Dua jawatan, dibuka sekarang.
 subtitle: Kedua-dua jawatan berada di Malaysia dan bekerja rapat dengan pasukan Operasi kami.
 jobs:
   - image: /images/careers/job-guest-experience.png
+    imageAlt: "Eksekutif Pengalaman Tetamu — jawatan separuh masa bekerja dari rumah di IdealHub"
     badges:
       - label: SEPARUH MASA
         tone: blue
@@ -36,6 +37,7 @@ jobs:
       - Syif berputar, tanpa tengah malam
       - Elaun hujung minggu dan cuti umum
   - image: /images/careers/job-handyman.png
+    imageAlt: "Tukang / Juruteknik — jawatan sepenuh masa pengubahsuaian dan penyelenggaraan di IdealHub"
     badges:
       - label: SEPENUH MASA
         tone: blue

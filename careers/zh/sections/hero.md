@@ -19,8 +19,10 @@ noteLink2:
   href: /contact-us
 noteSuffix: '。'
 image: /images/careers/hero.jpg
+alt: "IdealHub 团队在吉隆坡工作"
 rolesCard:
   image: /images/careers/roles.jpg
+  imageAlt: "IdealHub 在招职位——宾客体验专员与维修技师"
   label: 在招职位
   count: 2 个职位
   roles:

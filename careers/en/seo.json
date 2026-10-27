@@ -11,7 +11,9 @@
       "description": "Handle guest bookings across multiple platforms, keep booking calendars accurate and help guests find the right homestay — from your own laptop, with full training provided.",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "PART_TIME",
+      "jobLocationType": "TELECOMMUTE",
       "hiringOrganization": {
         "@type": "Organization",
         "name": "IdealHub",
@@ -37,6 +39,7 @@
       "description": "Keep our homestay homes in great shape — routine inspections, repairs, painting, plaster ceilings and minor renovation work across the Klang Valley.",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",

@@ -1,6 +1,7 @@
 ---
 badge: We are hiring · 2 open roles
-titleLine1: Do work that makes
+# Trailing space in titleLine1 is intentional: the renderer joins both title lines with no separator.
+titleLine1: "Do work that makes "
 titleLine2: renting simple.
 lead: IdealHub is a rental platform and homestay operator in Kuala Lumpur. We are a small team of engineers, hosts and hands-on operators building the rental platform we wished existed — if you like solving real problems for real homes, you will fit right in.
 primaryButton:
@@ -19,8 +20,10 @@ noteLink2:
   href: /contact-us
 noteSuffix: '.'
 image: /images/careers/hero.jpg
+alt: "The IdealHub team at work in Kuala Lumpur"
 rolesCard:
   image: /images/careers/roles.jpg
+  imageAlt: "IdealHub open roles — Guest Experience Specialist and Handyman / Technician"
   label: OPEN ROLES
   count: 2 positions
   roles:

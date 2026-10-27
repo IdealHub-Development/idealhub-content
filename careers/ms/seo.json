@@ -11,7 +11,9 @@
       "description": "Urus tempahan tetamu merentas pelbagai platform, kekalkan kalendar tempahan tepat dan bantu tetamu menemui homestay yang betul — dari laptop anda sendiri, dengan latihan penuh disediakan.",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "PART_TIME",
+      "jobLocationType": "TELECOMMUTE",
       "hiringOrganization": {
         "@type": "Organization",
         "name": "IdealHub",
@@ -37,6 +39,7 @@
       "description": "Kekalkan rumah homestay kami dalam keadaan terbaik — pemeriksaan rutin, pembaikan, pengecatan, siling Plaster dan kerja renovation kecil di seluruh Lembah Klang.",
       "url": "https://www.idealhub.com/careers",
       "datePosted": "2026-10-27",
+      "validThrough": "2026-12-31",
       "employmentType": "FULL_TIME",
       "hiringOrganization": {
         "@type": "Organization",
