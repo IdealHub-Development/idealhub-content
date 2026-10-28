@@ -15,7 +15,7 @@ jobs:
     title: 兼职合同制宾客体验专员（居家办公）
     meta: 每班 RM150 · 远程，马来西亚 · 兼职合同制
     applyLabel: 在 Indeed 申请
-    applyHref: /contact-us
+    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
     description: 在多个平台处理宾客预订、保持预订日历准确、帮助宾客找到合适的短租——全部在你自己的笔记本电脑上完成，提供完整培训。
     responsibilitiesLabel: 你的工作内容
     responsibilities:
@@ -48,7 +48,7 @@ jobs:
     title: 维修技师 / 技工 — 装修与维护
     meta: 每月 RM2,100 – RM2,300 · Sri Petaling / 巴生谷 · 全职长期
     applyLabel: 在 Indeed 申请
-    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
+    applyHref: https://malaysia.indeed.com/job/handyman-technician-renovationmaintenance-5a7bf52d30aa9c73
     description: 让我们的短租房屋保持最佳状态——从例行检查与维修，到粉刷、石膏板天花与巴生谷各处的小型装修工程。
     responsibilitiesLabel: 你的工作内容
     responsibilities:

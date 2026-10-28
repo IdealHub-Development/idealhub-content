@@ -15,7 +15,7 @@ jobs:
     title: Eksekutif Pengalaman Tetamu Separuh Masa Kontrak (WFH)
     meta: RM150 setiap syif kerja · Dari jauh, Malaysia · Separuh masa, kontrak
     applyLabel: Mohon di Indeed
-    applyHref: /contact-us
+    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
     description: Urus tempahan tetamu merentas pelbagai platform, kekalkan kalendar tempahan tepat dan bantu tetamu menemui homestay yang betul — semuanya dari laptop anda sendiri, dengan latihan penuh disediakan.
     responsibilitiesLabel: APA YANG ANDA AKAN LAKUKAN
     responsibilities:
@@ -48,7 +48,7 @@ jobs:
     title: Tukang / Juruteknik — Renovation & Penyelenggaraan
     meta: RM2,100 – RM2,300 sebulan · Sri Petaling / Lembah Klang · Sepenuh masa, tetap
     applyLabel: Mohon di Indeed
-    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
+    applyHref: https://malaysia.indeed.com/job/handyman-technician-renovationmaintenance-5a7bf52d30aa9c73
     description: Kekalkan rumah homestay kami dalam keadaan terbaik — dari pemeriksaan rutin dan pembaikan hingga pengecatan, siling Plaster dan kerja renovation kecil di seluruh Lembah Klang.
     responsibilitiesLabel: APA YANG ANDA AKAN LAKUKAN
     responsibilities:

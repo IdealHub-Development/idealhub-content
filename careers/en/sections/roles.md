@@ -15,7 +15,7 @@ jobs:
     title: Part-Time Contract Guest Experience Specialist (WFH)
     meta: RM150 per work shift · Remote, Malaysia · Part-time, contract
     applyLabel: Apply on Indeed
-    applyHref: /contact-us
+    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
     description: Deal with guest bookings across multiple platforms, keep booking calendars accurate and help guests find the right homestay — all from your own laptop, with full training provided.
     responsibilitiesLabel: WHAT YOU WILL DO
     responsibilities:
@@ -48,7 +48,7 @@ jobs:
     title: Handyman / Technician — Renovation & Maintenance
     meta: RM2,100 – RM2,300 per month · Sri Petaling / Klang Valley · Full-time, permanent
     applyLabel: Apply on Indeed
-    applyHref: https://malaysia.indeed.com/job/part-time-contract-guest-experience-specialist-wfh-1d6ad44217bfd8f8
+    applyHref: https://malaysia.indeed.com/job/handyman-technician-renovationmaintenance-5a7bf52d30aa9c73
     description: Keep our homestay homes in great shape — from routine inspections and repairs to painting, plaster ceilings and minor renovation work across the Klang Valley.
     responsibilitiesLabel: WHAT YOU WILL DO
     responsibilities:
