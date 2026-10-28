@@ -4,86 +4,214 @@ published: true
 title: Privacy Policy
 description: null
 featuredImage: privacy-policy-featured.webp
+eyebrow: LEGAL · PRIVACY
+lastUpdated: 27 October 2026
+heroLead: >-
+  This notice explains what personal data Terasquad Technologies Sdn. Bhd.
+  collects when you use IdealHub, why we collect it, who we share it with,
+  and the rights you have under Malaysia's Personal Data Protection Act
+  2010. It is provided in English and Bahasa Malaysia.
+heroPills:
+  - PDPA 2010 (Act 709)
+languageChips:
+  - label: Bahasa Malaysia
+    href: '#sec-02'
+  - label: English
+    active: true
+keyPoints:
+  - 'We are the data controller: Terasquad Technologies Sdn. Bhd. (1251640-V), Kuala Lumpur.'
+  - We collect far more than an email — tenancy paperwork, identity documents, payslips and payment records.
+  - We never sell your data. We share it only with processors who need it, and authorities where the law requires.
+  - You can access, correct, port or delete your data at any time — access requests are answered within 21 days.
+tocHelp:
+  title: Want your data removed?
+  text: Delete your account at Settings › Profile, or email ask@idealhub.com.
+related:
+  label: Related policies
+  title: Terms of Use and Refund Policy
+  links:
+    - label: Terms of Use
+      href: /articles/terms-of-use
+    - label: Refund Policy
+      href: /articles/refund-policy
+cta:
+  title: Questions about your personal data?
+  subtitle: Ask us what we hold, request a copy, or have your account and data deleted.
 ---
 
-## 1. Introduction
+## 1. Who this policy covers
 
-It is IdealHub’s policy to respect your privacy regarding any information we may collect while operating our website. This Privacy Policy applies to IdealHub.com (hereinafter, “us”, “we”, or “idealhub.com”). We respect your privacy and are committed to protecting personally identifiable information you may provide us through the Website. We have adopted this privacy policy (“Privacy Policy”) to explain what information may be collected on our Website, how we use this information, and under what circumstances we may disclose the information to third parties. This Privacy Policy applies only to information we collect through the Website and does not apply to our collection of information from other sources.
+IdealHub is operated by Terasquad Technologies Sdn. Bhd. (1251640-V), a company registered in Malaysia with its registered address at No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling, 57000 Kuala Lumpur. For the purposes of the Personal Data Protection Act 2010 ("PDPA"), we are the data controller of the personal data described in this notice.
 
-This Privacy Policy, together with the Terms of Usage posted on our Website, set forth the general rules and policies governing your use of our Website. Depending on your activities when visiting our Website, you may be required to agree to additional terms and conditions.
+This notice applies to everyone who deals with us: guests booking a stay, tenants signing a tenancy, landlords listing or handing over a unit, job applicants, and anyone who contacts us. It covers idealhub.com, our subdomains, our apps, and any service we deliver offline.
 
+It does not cover third-party sites we link to, or a landlord handling your data independently. Where a landlord collects and uses your data for their own purposes, they are a separate controller and their own notice applies.
 
+:::info Two language versions
+This notice is published in English and Bahasa Malaysia, as section 7(3) of the PDPA requires. The Bahasa Malaysia notice in section 02 is the statutory version.
+:::
 
-## 2. Website Visitors
+## 2. Notis Bahasa Malaysia
 
-Like most website operators, IdealHub collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. IdealHub’s purpose in collecting non-personally identifying information is to better understand how IdealHub’s visitors use its website. From time to time, IdealHub may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+Notis Perlindungan Data Peribadi di bawah seksyen 7 Akta Perlindungan Data Peribadi 2010. Versi Bahasa Malaysia ini merupakan notis rasmi yang dikehendaki oleh undang-undang.
 
-IdealHub also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged in users. IdealHub only discloses logged in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below.
+:::card Notis Bahasa Malaysia
+**Pengawal Data**
 
+Terasquad Technologies Sdn. Bhd. (1251640-V), No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling, 57000 Kuala Lumpur.
 
+**Data peribadi yang dikumpul**
 
-### 3. Gathering of Personally-Identifying Information
+Nama penuh, nombor kad pengenalan atau pasport, alamat, nombor telefon, alamat e-mel, dokumen perjanjian sewaan, penyata bank, slip gaji, maklumat pembayaran dan deposit, serta maklumat teknikal seperti alamat IP dan kuki.
 
-Certain visitors to IdealHub’s websites choose to interact with IdealHub in ways that require IdealHub to gather personally-identifying information. The amount and type of information that IdealHub gathers depend on the nature of the interaction. For example, we ask visitors who sign up at IdealHub.com to provide a username, email address and contact number.
+**Tujuan pemprosesan**
 
+Menyediakan perkhidmatan penyewaan jangka pendek dan jangka panjang, mengesahkan identiti, memproses pembayaran dan bayaran balik, menyediakan perkhidmatan e-pengseteman, pengurusan hartanah dan pengubahsuaian, serta mematuhi kewajipan undang-undang dan perakaunan.
 
+**Pendedahan kepada pihak ketiga**
 
-## 4. Security
+Pembekal perkhidmatan pembayaran, penyedia pengehosan data, pembekal e-mel dan SMS, juruaudit dan peguam, kontraktor penyelenggaraan, serta pihak berkuasa seperti LHDN, mahkamah dan polis apabila dikehendaki oleh undang-undang.
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+**Hak anda**
 
+Anda berhak untuk mengakses data peribadi anda, membetulkannya, menarik balik persetujuan, meminta pemindahan data, dan menolak pemprosesan untuk pemasaran langsung. Permintaan akses akan dijawab dalam tempoh dua puluh satu (21) hari.
 
+**Hubungi**
 
-## 5. Links to External Sites
+Pegawai Perlindungan Data, ask@idealhub.com atau +603 2789 9017, untuk sebarang pertanyaan atau aduan.
+:::
 
-Our Service may contain links to external sites that are not operated by us. If you click on a third party link, you will be directed to that third party’s site. We strongly advise you to review the Privacy Policy and the terms and conditions of every site you visit.
+## 3. The data we collect
 
-We have no control over and assume no responsibility for the content, privacy policies or practices of any third party sites, products or services.
+We collect what we need to let you rent, let a property, or work with us — nothing gathered just in case. These are the full categories. We tell you at the point of collection where an item is optional.
 
+- **Identity and contact**: Full name, MyKad or passport number, phone, email, current address.
+- **Tenancy and stay records**: Signed agreements, inventory and condition reports, check-in and check-out notes, access codes issued to you.
+- **Financial information**: Payslips, bank statements, rent and deposit records, refund and payout details. Access is restricted.
+- **Guarantors and referees**: Name, contact and relationship of anyone guaranteeing a tenancy or providing a reference.
+- **Property and premises**: Unit details, meter readings, maintenance photos, and CCTV in common areas of managed buildings.
+- **Technical and usage**: IP address, device and browser, pages viewed, and cookie identifiers.
 
+:::warn Sensitive personal data
+We process sensitive personal data — health, religious belief, political opinion, commission of an offence, biometric data — only with your explicit consent or where the PDPA permits it without consent. In practice this is rare: a medical reason for an early exit, or an identity document that carries your photograph.
+:::
 
-## 6. License
+## 4. Why we use your data
 
-Unless otherwise stated, IdealHub and/or it’s licensors own the intellectual property rights for all material on IdealHub.com and any sub-domains or subfolder of IdealHub.com. All intellectual property rights are reserved. You may view and/or print pages from IdealHub.com for your own personal use subject to restrictions set in these terms and conditions.
+We use personal data for the purposes below. If we want to use it for something new, we tell you first — and where consent is the basis, we ask again.
 
+1. **Providing the service**: Taking bookings and tenancy applications, preparing agreements, arranging check-in and keys, answering support requests.
+2. **Payments and refunds**: Charging rent, holding deposits, processing refunds, and reconciling settlements through our payment gateways.
+3. **Identity and eligibility**: Confirming who you are before a tenancy is signed or a key released, and screening for fraud.
+4. **E-stamping**: Preparing your agreement for submission to LHDN and storing the stamped certificate.
+5. **Property management and renovation**: Scheduling inspections, maintenance and works, and coordinating vendors who need unit access.
+6. **Legal, tax and accounting**: Keeping the records company and tax law require, and responding to lawful requests.
+7. **Marketing**: Sending guides and offers only where you have opted in. Every message carries an unsubscribe link.
+8. **Security**: Detecting abuse, preventing fraud, and keeping an audit trail of who accessed what.
 
+## 5. Consent and your choices
 
-**You must not:**
+Where we rely on consent, we ask for it separately and record when and how you gave it — a tick box at sign-up, a signature on an application, or a written instruction by email. Silence is not consent.
 
-Republish material from IdealHub.com
-Sell, rent or sub-license material from idealhub.com
-Reproduce, duplicate or copy material from idealhub.com
-Redistribute content from IdealHub (unless content is specifically made for redistribution).
+Some processing does not need your consent because it is necessary to perform our contract with you — for example passing your name to the e-stamping portal — or to comply with the law. Service messages about a booking you have made do not depend on marketing consent.
 
+**Withdrawing consent**
+Email ask@idealhub.com or change your settings. Withdrawal takes effect from the moment we receive it and does not make past processing unlawful. If you withdraw consent for something essential — identity verification, for instance — we may not be able to continue the booking or tenancy.
 
-## 7. Protection of Certain Personally-Identifying Information
+**If you are under 18**
+Our services are for people aged 18 and over. Where a minor's data is provided — a child named as an occupier, for example — we require consent from a parent or guardian, as the PDPA requires.
 
-IdealHub discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on IdealHub’s behalf or to provide services available at IdealHub’s website, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using IdealHub’s website, you consent to the transfer of such information to them. IdealHub will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, IdealHub discloses potentially personally-identifying and personally-identifying information only in response to a subpoena, court order or other governmental request, or when IdealHub believes in good faith that disclosure is reasonably necessary to protect the property or rights of IdealHub, third parties or the public at large.
+**Marketing and direct contact**
+You can stop marketing at any time without affecting service messages about your booking. You also have a right under the PDPA to require us to stop processing your data for direct marketing, and we will act on it immediately. We never pass your details to third parties for their own marketing.
 
-If you are a registered user of https://www.idealhub.com and have supplied your email address, IdealHub may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what’s going on with IdealHub and our products. We primarily use our blog to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. IdealHub takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+## 6. Who we share it with
 
+We do not sell personal data and we do not rent it. We share it only with the classes of recipient below, and only the part they need to do the job.
 
+- **Payment gateways**: eGHL, 2C2P, iBill and MOLPay process card and FPX payments. We never store full card numbers.
+- **Cloud and hosting**: Amazon Web Services, with primary data and media stored in the Malaysia region.
+- **Communication providers**: Email, SMS and WhatsApp delivery of confirmations, statements and updates.
+- **Accounting and invoicing**: Our accounting system and tax agents, for invoices, payouts and statutory records.
+- **Vendors and contractors**: Cleaners, handymen and renovation crews receive only the address, access details and job scope.
+- **Professional advisers**: Lawyers, auditors and insurers, where advice or a claim requires it.
+- **Banks and stamping agents**: For payouts, deposit returns and submissions to LHDN.
+- **Authorities**: LHDN, the courts, police and regulators, where the law requires or permits disclosure.
 
-**Account deletion**
+:::info Written contracts with every processor
+Each processor acts on our written instructions and is contractually required to protect your data, tell us promptly if it is breached, and return or delete it when the engagement ends.
+:::
 
-You can delete your account at Settings > Profile
+## 7. Where your data goes
 
-Once your account is deleted, you can’t reactivate it, recover any data, or regain access. You'll need to set up a new account if you want to use IdealHub again.
+Our primary systems and media storage sit in the Amazon Web Services Malaysia region. Some processors — payment infrastructure, email delivery and support tooling — may process data outside Malaysia.
 
-Your personal information will be permanently deleted, except for certain information that we’re legally required or permitted to retain.
+Under section 129 of the PDPA we may transfer personal data outside Malaysia where the destination has a law substantially similar to the PDPA or ensures an adequate level of protection, where you have consented, where the transfer is necessary to perform our contract with you, or where another statutory exception applies.
 
-## 8. Aggregated Statistics
+Where we rely on consent for a transfer, we tell you which country before you give it. You can ask for the current list of processors and their locations by emailing ask@idealhub.com.
 
-IdealHub may collect statistics about the behavior of visitors to its website. IdealHub may display this information publicly or provide it to others. However, IdealHub does not disclose your personally-identifying information.
+## 8. How long we keep it
 
+We keep personal data only as long as we need it for the purpose we collected it, or as long as the law requires. These are the standard periods.
 
+| RECORD | HOW LONG | WHY |
+| --- | --- | --- |
+| Booking and tenancy records | 7 years after the tenancy ends | Company and tax law |
+| Invoices and payments | 7 years | Tax and audit |
+| Identity documents and payslips | 12 months after the tenancy ends | Verification only |
+| Marketing consents | Until withdrawn, plus 2 years | Proof of compliance |
+| Support conversations | 3 years | Repeat issues |
+| CCTV in common areas | 30 days, unless needed for an incident | Security |
+| Breach register | 2 years from the breach | PDPA guideline |
 
-## 9. E-commerce
+:::note
+When a period ends we delete or anonymise the data. If you ask us to close your account we do so, except for records we must keep by law — we tell you which ones and why.
+:::
 
-Those who engage in transactions with IdealHub – by purchasing IdealHub’s services or products, are asked to provide additional information, including as necessary the personal and financial information required to process those transactions. In each case, IdealHub collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor’s interaction with IdealHub. IdealHub does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+## 9. Security and data breaches
 
+We protect data with encryption in transit, role-based access so staff see only what their job needs, unique logins with enforced password rules, logging of access to tenancy documents, and contractual security obligations on every processor. No system is perfect, so we plan for the day something goes wrong.
 
+Where a personal data breach causes or is likely to cause significant harm, we notify the Personal Data Protection Commissioner as soon as practicable and within 72 hours of becoming aware of it. We then notify affected individuals without undue delay and within 7 days of notifying the Commissioner. We keep a register of every breach for at least two years.
 
-## 10. Privacy Policy Changes
+:::warn What counts as significant harm
+Physical harm, financial loss, a negative effect on credit records, misuse for illegal purposes, exposure of sensitive data, data that combined with other information could enable identity fraud, or a breach affecting more than 1,000 people.
+:::
 
-Although most changes are likely to be minor, IdealHub may change its Privacy Policy from time to time, and in IdealHub sole discretion. IdealHub encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+## 10. Your rights under the PDPA
+
+These rights come from the Personal Data Protection Act 2010. They apply to everyone whose data we hold, including tenants, guests, landlords and applicants.
+
+| RIGHT | WHAT IT MEANS | TIMING |
+| --- | --- | --- |
+| Access | A copy of the personal data we hold about you, and what we use it for. | 21 days |
+| Correction | Have inaccurate, incomplete or out-of-date data put right. | 21 days |
+| Withdraw consent | Stop processing that relies on your consent, without affecting what we did before. | 21 days |
+| Data portability | Have your data sent to another controller, where the formats are compatible. | 21 days |
+| Direct marketing | Require us to stop processing your data for marketing. No questions asked. | Immediately |
+| Deletion | Close your account and delete your data, except what we must keep by law. | 30 days |
+| Complaint | Escalate to the Personal Data Protection Commissioner if we get it wrong. | Any time |
+
+To exercise any right, email ask@idealhub.com with the subject Data Request and tell us what you want. We may ask you to verify your identity first, because we will not hand your data to someone else. An access request may attract a fee under the Personal Data Protection (Fees) Regulations 2013 — we tell you the amount before we start.
+
+Malaysian law does not give an absolute right to erasure. What you do have is the right to withdraw consent — and when you do, we delete everything we are not legally required to keep.
+
+## 11. Cookies and analytics
+
+We use four kinds of cookie: essential (login, security, remembering your search), functional (language and currency), analytics (aggregated page and funnel data), and marketing (only where you have opted in).
+
+You can refuse non-essential cookies, and you can clear or block cookies in your browser — but essential cookies are what keep you logged in and your booking intact.
+
+:::info Malaysia has no standalone cookie law
+We treat cookies as personal data processing under the PDPA, which is why marketing cookies wait for your consent rather than being switched on by default.
+:::
+
+## 12. Contact us and the DPO
+
+Where the PDPA thresholds are met — personal data of more than 20,000 data subjects, or sensitive or financial data of more than 10,000 — we maintain a Data Protection Officer registered with the Commissioner, and publish their contact here as the guidelines require.
+
+:::dpo Data Protection Officer
+ask@idealhub.com · +603 2789 9017 · Terasquad Technologies Sdn. Bhd. (1251640-V), No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling, 57000 Kuala Lumpur.
+:::
+
+**Complaining to the Commissioner**
+If you are not satisfied with how we have handled a request, you may complain to the Personal Data Protection Commissioner, Aras 6, Kompleks Kementerian Komunikasi dan Multimedia, Lot 4G9, Persiaran Perdana, Presint 4, 62100 Putrajaya, or through www.pdp.gov.my. We would rather fix it first — write to the DPO and we will respond within 21 days.
