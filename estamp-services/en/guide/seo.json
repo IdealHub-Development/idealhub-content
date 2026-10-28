@@ -1,0 +1,32 @@
+{
+  "title": "How to E-Stamp a Tenancy Agreement in Malaysia — Guide",
+  "description": "The full e-stamping process for Malaysian tenancy agreements — the real cost on your rent, the five steps, and the mistakes that get documents rejected.",
+  "image": "/images/estamp-services/who-we-are.webp",
+  "imageAlt": "IdealHub e-stamping guide for tenancy agreements in Malaysia",
+  "structuredData": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "How to e-stamp a tenancy agreement in Malaysia",
+      "description": "The full e-stamping process for Malaysian tenancy agreements — the real cost on your rent, the five steps, and the mistakes that get documents rejected.",
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "author": {
+        "@type": "Person",
+        "name": "William Lim"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "mainEntityOfPage": "https://www.idealhub.com/estamp-services"
+    },
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "url": "https://www.idealhub.com"
+    }
+  }
+}
