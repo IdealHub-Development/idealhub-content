@@ -4,6 +4,24 @@ published: true
 title: Terms of Use
 description: null
 featuredImage: terms-of-use-featured.webp
+lastUpdated: 27 October 2026
+heroLead: >-
+  These Terms govern your access to the IdealHub platform — our websites,
+  subdomains, mobile sites, apps, APIs and widgets — and every service
+  offered through it, including short stays, monthly tenancy, property
+  management, renovation and e-stamping. Where a specific service has its
+  own terms, those terms apply in addition to these. By using IdealHub you
+  agree to them in full. If you do not accept these Terms, please do not
+  continue to use the platform.
+operator: >-
+  IdealHub is operated by Terasquad Technologies Sdn. Bhd. (Registration
+  No. 1251640-V) of No 23-2, Jalan Radin Bagus 3, Bandar Baru Sri
+  Petaling, 57000 Kuala Lumpur, Malaysia.
+keyPoints:
+  - You need an account to use most of IdealHub, and you must be 18 or older to register.
+  - Guests agree to pay the Total Price shown at checkout, including service fees, offline fees and taxes.
+  - Refund rights for a Travel Issue are set by the Refund Policy, which supersedes the Host's own cancellation policy.
+  - These Terms are governed by Malaysian law, and IdealHub is operated by Terasquad Technologies Sdn. Bhd.
 ---
 
 By accessing this website or otherwise access any content or data on the IdealHub platform (including its website, mobile site or apps), you are deemed to accept these Terms and Conditions in full. Do not continue to use and/or access IdealHub website if you do not accept all the Terms and Conditions stated on this page.
