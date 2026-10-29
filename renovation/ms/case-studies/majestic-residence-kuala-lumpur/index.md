@@ -14,7 +14,7 @@ stats:
   - label: Konteks Hartanah
     value: 459 kps 1-Bilik 1-Bilik Mandi
   - label: Jumlah Kos Pengubahsuaian
-    value: RM 67,200
+    value: RM 37,000
   - label: Pasaran Sasaran
     value: Sewaan Premium
     highlight: true
@@ -38,6 +38,6 @@ gallery:
 
 ## Kisah Projek
 
-Direka khusus untuk menonjol dalam pasaran sewaan yang kompetitif, kondominium 1-bilik kompak 459 kps di Majestic Residence, Kuala Lumpur ini diubah dengan bajet RM67,200 yang sangat cekap. Reka bentuk ini mengamalkan estetika urban moden yang diselitkan dengan tona bumi hangat, memaksimumkan kedua-dua ruang dan fungsian untuk menarik profesional bandar premium.
+Direka khusus untuk menonjol dalam pasaran sewaan yang kompetitif, kondominium 1-bilik kompak 459 kps di Majestic Residence, Kuala Lumpur ini diubah dengan bajet RM37,000 yang sangat cekap. Reka bentuk ini mengamalkan estetika urban moden yang diselitkan dengan tona bumi hangat, memaksimumkan kedua-dua ruang dan fungsian untuk menarik profesional bandar premium.
 
 Untuk mengoptimumkan rakaman terhad, ruang tamu menampilkan kabinet kayu lantai-ke-siling tersuai yang menyepadukan meja belajar khusus dengan lancar, menawarkan penyelesaian kerja-dari-rumah yang pintar. Sofa kuning air yang disesuaikan dan langsir coklat lantai-ke-siling yang mewah membawa kecanggihan yang selesa ke bilik, sementara konsol TV kayu terapung minimalis dipertingkatkan oleh panel aksen berjalur yang halus. Di ruang bersebelahan, wainscoting dinding klasik dan loket kubah bertekstur moden membingkai meja makan walnut bulat, mencipta kediaman turnkey yang sangat menarik yang terasa luas dan terkurasi dengan teliti.
