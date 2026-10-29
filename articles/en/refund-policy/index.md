@@ -4,108 +4,143 @@ published: true
 title: Refund Policy
 description: null
 featuredImage: refund-policy-featured.webp
+eyebrow: LEGAL · REFUND POLICY
+heroLead: How cancellations, refunds and deposits work at IdealHub. Every listing shows its own cancellation window before you pay — this policy explains the tiers, how long refunds take, and what happens when something goes wrong.
+lastUpdated: 27 October 2026
+heroPills:
+  - Stays, tenancy and services
+keyPoints:
+  - Each listing sets its own cancellation window, and it is shown before you pay — that window, not this page, sets the refund you get.
+  - Cancel inside the free window for 100%; late cancellations and no-shows are charged the first night or the non-refundable rate.
+  - If we or the host cancel, you get a full refund and help finding a comparable replacement.
+  - Approved refunds go back to the original payment method — allow 7 to 14 working days.
+tocHelp:
+  title: Questions about a refund?
+  text: Email ask@idealhub.com and our team will reply.
+related:
+  label: Related policies
+  title: Terms of Use and Privacy Policy
+  links:
+    - label: Terms of Use
+      href: /articles/terms-of-use
+    - label: Privacy Policy
+      href: /articles/privacy-policy
+cta:
+  title: Not sure what you are owed?
+  subtitle: Send us the booking reference and we will work it out with you.
+  primary:
+    label: Start a claim
+    href: /contact-us
+  secondary:
+    label: ask@idealhub.com
+    href: mailto:ask@idealhub.com
 ---
 
-These terms and conditions govern IdealHub’s policy for Guest refunds (“Guest Refund Policy”) and the obligations of the Host associated with the Guest Refund Policy. The Guest Refund Policy applies in addition to IdealHub’s Terms of Usage (“IdealHub Terms”). The Guest Refund Policy is available to Guests who book and pay for daily Accommodation through the IdealHub Platform and suffer a Travel Issue (as defined below). The Guest’s rights under this Guest Refund Policy will supersede the Host’s cancellation policy.
+## 1. How refunds work
 
+Refunds are decided by the cancellation policy attached to the rate you booked, which is displayed at checkout and in your confirmation. Where this policy and the listing policy conflict, the more favourable-to-guest outcome applies.
 
+This page explains how those rules are applied, what happens when the stay does not go ahead, and how quickly money comes back.
 
-All capitalized terms shall have the meaning set forth in the IdealHub Terms unless otherwise defined in this Guest Refund Policy.
+:::info Where to check
+Your cancellation window is shown on the listing page, again at checkout, and in your confirmation email.
+:::
 
+## 2. Cancellation windows
 
+The window is counted from the check-in time on your booking, not from the moment you book. These five tiers cover almost every booking we sell.
 
-By using the IdealHub Platform as a Host or Guest, you are indicating that you have read and that you understand and agree to be bound by this Guest Refund Policy.
+| BOOKING TYPE | WINDOW | WHAT YOU PAY | REFUND |
+| --- | --- | --- | --- |
+| Flexible rate | Cancel 48+ hours before check-in | Nothing | 100% of what you paid |
+| Flexible rate | Cancel within 48 hours | First night plus fees | Remainder of the stay |
+| Non-refundable rate | Any time | Full amount | None, except statutory rights |
+| No-show | Did not arrive | First night plus fees | Remainder of the stay |
+| Monthly tenancy | Cancel before move-in | Notice-period rent | Balance of rent and deposit |
 
+Cancellation fees are set by the listing, never by IdealHub.
 
+## 3. When we cancel
 
-## 1. Travel Issue
+If IdealHub or the host cancels for any reason other than your breach, you get a full refund of everything you paid including fees, plus reasonable assistance finding a comparable alternative.
 
-A “Travel Issue” means any one of the following:
+If the replacement costs more, we cover the difference up to one night's rent. That is our commitment, not a discretionary gesture.
 
+Nothing in this section limits your rights under the Consumer Protection Act 1999.
 
+## 4. Travel Issues
 
-(a) the Host of the Accommodation (i) cancels a booking shortly before the scheduled start of the booking, or (ii) fails to provide the Guest with the reasonable ability to access the Accommodation (e.g. does not provide the keys and/or a security code).
+A Travel Issue is a problem that materially affects the stay and is not your fault. We recognise four kinds:
 
+(a) The host cancels shortly before arrival, or fails to give you access — no keys, no door code, nobody to let you in.
 
+(b) The unit is materially different from the listing — its size, the room type, the amenities, whether other people are staying there, or its actual location.
 
-(b) the Listing’s description or depiction of the Accommodation is materially inaccurate with respect to:
+(c) At check-in it is not clean or sanitary, it has a safety or health hazard, or it has pets that the listing did not disclose.
 
-the size of the Accommodation (e.g., number and size of the bedroom, bathroom and/or kitchen or other rooms),
+(d) You were charged for something that was not in the listing.
 
-whether the booking for the Accommodation is for an entire home, private room or shared room, and whether another party, including the Host, is staying at the Accommodation during the booking, special amenities or features represented in the Listing are not provided or do not function, such as decks, pools, hot tubs, bathrooms (toilet/shower/bathtub), kitchen (sink/stove/refrigerator or major other appliances), and electrical, heating or air condition systems, or the physical location of the Accommodation (proximity).
+:::warn Report within 24 hours
+Report from the listing page, or by phone or email with photos, within 24 hours of check-in or of discovering the problem. We make a decision within 5 working days.
+:::
 
+## 5. Refunds and timing
 
+Approved refunds are returned to the original payment method.
 
-(c) at the start of the Guest’s booking, the Accommodation: (i) is not generally clean and sanitary (ii) contains safety or health hazards that would be reasonably expected to adversely affect the Guest’s stay at the Accommodation in IdealHub’s judgment, (iii) does not contain clean bedding and bathroom towels available for the Guest’s use, or (iv) has vermin or contains pets not disclosed in the Listing.
+Card and FPX refunds normally land within 7 to 14 working days. Bank processing can add a few days on top, and we cannot speed that up.
 
+Gateway fees are refunded when the stay did not happen. We will not substitute a credit note for a cash refund unless you agree in writing.
 
+## 6. Deposits
 
+Security deposits are held separately from rent and are not a fee. How quickly yours comes back depends on what you booked.
 
+**Homestay and short stays**
+Your deposit is refunded on the next bank business day after checkout, once the unit has been checked and keys or access cards returned.
 
-## 2. The Guest Refund Policy
+:::info Next bank business day
+If you check out on a Friday, a weekend or the day before a public holiday, the refund lands on the next day the banks are open for clearing — so a Friday check-out is refunded on Monday, or the next banking day after a long weekend.
+:::
 
-If you are a Guest and suffer a Travel Issue, we agree, at our discretion, to either (i) reimburse you up to the amount paid by you through the IdealHub Platform (“Total Fees”) depending on the nature of the Travel Issue suffered, or (ii) use our reasonable efforts to find and book you another Accommodation for any unused nights left in your booking which is reasonably comparable to the Accommodation described in your original booking in terms of size, rooms, features and quality. All determinations of IdealHub with respect to the Guest Refund Policy, including without limitation the size of any refund and the comparability of alternate Accommodations, shall be in IdealHub’s discretion, and final and binding on the Guests and Hosts.
+:::note
+A bank business day is a day when Malaysian banks are open for clearing. It is not the same as an IdealHub working day — our office may still be operating on a day the banks are closed, but the transfer cannot be released until the next clearing day.
+:::
 
+**Monthly tenancy**
+The deposit is returned within 14 working days of checkout and key return, with any deduction itemised in writing and supported by photographs.
 
+If you dispute a deduction, tell us within 30 days and we decide within 14 working days.
 
+Deposit money is never used to cover our own fees.
 
-## 3. Conditions to Claim a Travel Issue
+## 7. Early checkout
 
-To submit a valid claim for a Travel Issue and receive the benefits with respect to your booking, you are required to meet each of the following conditions:
+Leaving early does not automatically create a refund.
 
-(a) you must be the Guest that booked the Accommodation;
+Report the reason before you leave. If it is a Travel Issue we apply section 04; otherwise any refund of unused nights is at the listing's discretion.
 
+Extensions are a new booking at the current rate. Overstaying is charged at the daily rate plus a reasonable administrative fee.
 
+## 8. Other services
 
-(b) you must bring the Travel Issue to our attention in writing or via telephone and provide us with information (including photographs or other evidence) about the Accommodation and the circumstances of the Travel Issue within 24 hours after the later of (i) the start of your booking or (ii) you discover the existence of the Travel Issue , and must respond to any requests by us for additional information or cooperation on the Travel Issue;
+Refunds work differently for services that are not a stay.
 
+- **Renovation**: Deposit is refundable minus work completed and materials already ordered. Cancel 7 or more days before the start date for a full deposit refund.
+- **E-stamping**: Duty paid to LHDN is non-refundable once the certificate issues. Our service fee is refundable if we have not submitted the application.
+- **Property management**: Billed monthly in advance, and pro-rated on termination with 30 days notice.
 
+## 9. Disputes
 
-(c) you must not have directly or indirectly caused the Travel Issue (through your action, omission or negligence); and
+Raise it in writing to ask@idealhub.com with the booking reference. We acknowledge in 3 working days and decide in 14.
 
+If you are unhappy with the outcome you may escalate to the Consumer Claims Tribunal (TTPM) for consumer claims, or to the relevant authority.
 
+Nothing here removes your statutory rights.
 
-(d) unless IdealHub advises you that the Travel Issue cannot be remediated, you must have used reasonable efforts to try to remedy the circumstances of the Travel Issue with the Host prior to making a claim for a Travel Issue.
+## 10. Contact
 
+Questions about a refund? Email ask@idealhub.com or call +603 2789 9017.
 
+Related: [Terms of Use](/articles/terms-of-use) and [Privacy Policy](/articles/privacy-policy).
 
-
-
-
-## 4. Minimum Quality Standards, Host Responsibilities and Reimbursement to Guest
-4.1 If you are a Host, you are responsible for ensuring that the Accommodations you list on the IdealHub Platform meet minimum quality standards regarding access, adequacy of the Listing description, safety, cleanliness, and do not present a Guest with Travel Issues. During a Guest’s stay at an Accommodation, Hosts should be available, or make a third-party available, in order to try, in good faith, to resolve any Guest issues.
-
-
-
-4.2 If you are a Host, and if (i) IdealHub determines that a Guest has suffered a Travel Issue related to an Accommodation listed by you and (ii) IdealHub either reimburses that Guest (up to their Total Fees) or provides an alternative Accommodation to the Guest, you agree to reimburse IdealHub up to the amount paid by IdealHub within 30 days of IdealHub’s request. If the Guest is relocated to an alternative Accommodation, you also agree to reimburse IdealHub for reasonable additional costs incurred to relocate the Guest. You authorize IdealHub Payments to collect any amounts owed to IdealHub by reducing your Payout or as otherwise permitted pursuant to the Payments Terms.
-
-
-
-4.3 As a Host, you understand that the rights of Guests under this Guest Refund Policy will supersede your selected cancellation policy. If you dispute the Travel Issue, you may notify us in writing or via telephone and provide us with information (including photographs or other evidence) disputing the claims regarding the Travel Issue, provided you must have used reasonable and good faith efforts to try to remedy the Travel Issue with the Guest prior to disputing the Travel Issue claim.
-
-
-
-
-## 5. General Provisions
-5.1 No Assignment/No Insurance. This Guest Refund Policy is not intended to constitute an offer to insure, does not constitute insurance or an insurance contract, does not take the place of insurance obtained or obtainable by the Guest, and the Guest has not paid any premium in respect of the Guest Refund Policy. The benefits provided under this Guest Refund Policy are not assignable or transferable by you.
-
-
-
-5.2 Modification or Termination. IdealHub reserves the right to modify or terminate this Guest Refund Policy, at any time, in its sole discretion. If IdealHub modifies this Guest Refund Policy, we will post the modification on the IdealHub Platform or provide you with notice of the modification and IdealHub will continue to process all claims for Travel Issues made prior to the effective date of the modification.
-
-
-
-5.3 Entire Agreement. This Guest Refund Policy constitutes the entire and exclusive understanding and agreement between IdealHub and you regarding the Guest Refund Policy and supersedes and replaces any and all prior oral or written understandings or agreements between IdealHub and you regarding the Guest Refund Policy.
-
-
-
-5.4 Limitation of Liability. IN NO EVENT WILL IdealHub’S AGGREGATE LIABILITY ARISING OUT OF OR IN CONNECTION WITH THIS GUEST REFUND POLICY, EXCEED THE AMOUNT OF THE ACCOMMODATION FEES COLLECTED BY IdealHub FROM THE GUEST. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OR LIMITATION OF LIABILITY FOR CONSEQUENTIAL OR INCIDENTAL DAMAGES, SO THE ABOVE LIMITATION MAY NOT APPLY TO YOU. YOU ACKNOWLEDGE AND AGREE THAT, BY POSTING A LISTING OR BOOKING AN ACCOMMODATION OR OTHERWISE USING THE PLATFORM AS A HOST OR GUEST, YOU ARE INDICATING THAT YOU HAVE READ, AND THAT YOU UNDERSTAND AND AGREE TO BE BOUND BY THIS GUEST REFUND POLICY.
-
-
-
-
-
-
-## 6. Contacting IdealHub. 
-
-If you have any questions about the Guest Refund Policy, please email us.
