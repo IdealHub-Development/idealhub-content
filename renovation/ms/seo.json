@@ -1,7 +1,7 @@
 {
   "renovation": {
-    "title": "Perkhidmatan Pengubahsuaian Turnkey di Lembah Klang & Kuala Lumpur — Dalaman Sewaan Hasil Tinggi | IdealHub",
-    "description": "IdealHub ialah kontraktor pengubahsuaian Lembah Klang yang mengkhusus dalam pengubahsuaian pangsapuri dan kondo turnkey untuk tuan rumah. 500+ transformasi sewaan hasil tinggi di seluruh Kuala Lumpur, Puchong, Ampang, Cyberjaya, dan Sungai Long. Dapatkan sebut harga pengubahsuaian segera.",
+    "title": "Renovation Turnkey di Lembah Klang | IdealHub",
+    "description": "Renovation turnkey untuk pemilik di Lembah Klang — 500+ transformasi kondominium sedia sewa di KL, Puchong & Cyberjaya. Sebut harga segera.",
     "image": "renovation/images/home/renovation-thumbnail.webp",
     "structuredData": {
       "localBusiness": {
@@ -67,13 +67,13 @@
     "image": "renovation/images/quote/renovation-thumbnail.webp"
   },
   "gallery": {
-    "title": "Portfolio Pengubahsuaian — Transformasi Sebelum & Selepas | IdealHub",
-    "description": "Lihat projek pengubahsuaian sewaan hasil tinggi sebenar di seluruh Lembah Klang dan Kuala Lumpur. Lihat transformasi sebelum-dan-selepas di Puchong, Ampang, Cyberjaya, Sungai Long, Kampung Baru, dan Seri Kembangan.",
+    "title": "Portfolio Renovation | IdealHub",
+    "description": "Projek renovation berpendapatan tinggi di seluruh Malaysia — KLCC, Mont Kiara, Bangsar dan lain-lain.",
     "image": "renovation/images/gallery/renovation-thumbnail.webp"
   },
   "faq": {
-    "title": "Soalan Lazim Pengubahsuaian — Harga, Proses & Apa yang Dijangkakan | IdealHub",
-    "description": "Cari jawapan kepada soalan lazim tentang proses pengubahsuaian, harga, garis masa, dan banyak lagi di Lembah Klang. Pengubahsuaian turnkey untuk pangsapuri, kondo, dan rumah bertanah.",
+    "title": "FAQ Renovation | IdealHub",
+    "description": "Jawapan tentang proses, harga dan garis masa renovation turnkey IdealHub.",
     "image": "renovation/images/faq/renovation-thumbnail.webp"
   }
 }

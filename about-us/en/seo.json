@@ -1,5 +1,5 @@
 {
-  "title": "About IdealHub — Rental & Property Management in Kuala Lumpur",
+  "title": "About IdealHub — Rental & Property Management KL",
   "description": "A Kuala Lumpur rental platform and in-house team — listings, tenancy paperwork, rent tracking, e-stamping and renovation for landlords and tenants.",
   "image": "/images/about-us/property-management.jpg",
   "imageAlt": "IdealHub rental property management in Kuala Lumpur",
@@ -24,14 +24,26 @@
       "@type": "AboutPage",
       "name": "About IdealHub",
       "url": "https://www.idealhub.com/about-us",
-      "about": { "@id": "https://www.idealhub.com/#organization" }
+      "about": {
+        "@id": "https://www.idealhub.com/#organization"
+      }
     },
     "breadcrumb": {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
       "itemListElement": [
-        { "@type": "ListItem", "position": 1, "name": "Home", "item": "https://www.idealhub.com" },
-        { "@type": "ListItem", "position": 2, "name": "About IdealHub", "item": "https://www.idealhub.com/about-us" }
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "name": "Home",
+          "item": "https://www.idealhub.com"
+        },
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "name": "About IdealHub",
+          "item": "https://www.idealhub.com/about-us"
+        }
       ]
     }
   }
