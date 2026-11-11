@@ -1,0 +1,32 @@
+{
+  "title": "Cara E-Stamp Perjanjian Sewa di Malaysia — Panduan",
+  "description": "Proses e-Stamping penuh untuk perjanjian sewa Malaysia — kos sebenar atas sewa anda, lima langkah, dan kesilapan yang menyebabkan dokumen ditolak.",
+  "image": "/images/estamp-services/who-we-are.webp",
+  "imageAlt": "Panduan e-Stamping IdealHub untuk perjanjian sewa di Malaysia",
+  "structuredData": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "Cara e-Stamp perjanjian sewa di Malaysia",
+      "description": "Proses e-Stamping penuh untuk perjanjian sewa Malaysia — kos sebenar atas sewa anda, lima langkah, dan kesilapan yang menyebabkan dokumen ditolak.",
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "author": {
+        "@type": "Person",
+        "name": "William Lim"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "mainEntityOfPage": "https://www.idealhub.com/estamp-services"
+    },
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "url": "https://www.idealhub.com"
+    }
+  }
+}

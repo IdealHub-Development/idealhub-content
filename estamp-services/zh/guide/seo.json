@@ -1,0 +1,32 @@
+{
+  "title": "如何在马来西亚为租约办理电子印花 — 指南",
+  "description": "马来西亚租约电子印花的完整流程 — 按租金计算的实际费用、五个步骤，以及会导致文件被退回的错误。",
+  "image": "/images/estamp-services/who-we-are.webp",
+  "imageAlt": "IdealHub 马来西亚租约电子印花指南",
+  "structuredData": {
+    "article": {
+      "@context": "https://schema.org",
+      "@type": "Article",
+      "headline": "如何在马来西亚为租约办理电子印花",
+      "description": "马来西亚租约电子印花的完整流程 — 按租金计算的实际费用、五个步骤，以及会导致文件被退回的错误。",
+      "datePublished": "2026-10-27",
+      "dateModified": "2026-10-27",
+      "author": {
+        "@type": "Person",
+        "name": "William Lim"
+      },
+      "publisher": {
+        "@type": "Organization",
+        "name": "IdealHub",
+        "url": "https://www.idealhub.com"
+      },
+      "mainEntityOfPage": "https://www.idealhub.com/estamp-services"
+    },
+    "organization": {
+      "@context": "https://schema.org",
+      "@type": "Organization",
+      "name": "IdealHub",
+      "url": "https://www.idealhub.com"
+    }
+  }
+}

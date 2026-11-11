@@ -53,6 +53,15 @@ cta:
   secondary:
     label: Talk to us
     href: /contact-us
+labels:
+  home: Home
+  onThisPage: ON THIS PAGE
+  keyPointsLabel: KEY POINTS
+  keyPointsTitle: The short version
+  acceptanceLabel: Acceptance
+  allArticles: All articles
+  startEstamping: Start e-stamping
+  talkToUs: Talk to us
 ---
 
 ## 1. What e-stamping is
