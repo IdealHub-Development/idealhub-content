@@ -1,0 +1,47 @@
+{
+  "title": "Perisian Pengurusan Sewaan Malaysia | IdealHub Tenancy",
+  "description": "Perisian pengurusan sewaan untuk pemilik hartanah Malaysia — perjanjian, e-Stamping LHDN, penjejakan sewa, pembaharuan dan deposit dalam satu papan pemuka. Percuma semasa beta.",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/",
+      "email": "ask@idealhub.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub Tenancy ialah perisian pengurusan sewaan untuk pemilik hartanah individu dan portfolio kecil di Malaysia."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "IdealHub Tenancy — Perisian Pengurusan Sewaan",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Perisian Pengurusan Sewaan",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Perisian pengurusan sewaan untuk pemilik hartanah Malaysia: perjanjian digital, e-Stamping LHDN, penjejakan sewa, pembaharuan, deposit dan portal penyewa — percuma semasa beta."
+    }
+  }
+}

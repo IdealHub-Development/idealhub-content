@@ -1,0 +1,12 @@
+{
+  "hero": true,
+  "problem": true,
+  "features": true,
+  "howItWorks": true,
+  "twoWays": true,
+  "offlineWork": true,
+  "moveInOut": true,
+  "signup": true,
+  "faq": true,
+  "finalCta": true
+}

@@ -1,0 +1,47 @@
+{
+  "title": "Tenancy Management Software Malaysia | IdealHub Tenancy",
+  "description": "Tenancy management software for Malaysian landlords — agreements, LHDN e-stamping, rent tracking, renewals and deposits in one dashboard. Free during beta.",
+  "published": true,
+  "structuredData": {
+    "localBusiness": {
+      "@context": "https://schema.org",
+      "@type": "LocalBusiness",
+      "name": "IdealHub",
+      "legalName": "Terasquad Technologies Sdn. Bhd.",
+      "url": "https://www.idealhub.com/",
+      "email": "ask@idealhub.com",
+      "address": {
+        "@type": "PostalAddress",
+        "streetAddress": "23-2, Jalan Radin Bagus 3, Bandar Baru Sri Petaling",
+        "addressLocality": "Kuala Lumpur",
+        "postalCode": "57000",
+        "addressCountry": "MY"
+      },
+      "sameAs": [
+        "https://www.facebook.com/IdealHub.co/",
+        "https://www.instagram.com/idealhub.co/",
+        "https://www.linkedin.com/company/idealhub"
+      ],
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "IdealHub Tenancy is tenancy management software for individual landlords and small portfolios in Malaysia."
+    },
+    "service": {
+      "@context": "https://schema.org",
+      "@type": "Service",
+      "name": "IdealHub Tenancy — Tenancy Management Software",
+      "provider": {
+        "@type": "LocalBusiness",
+        "name": "IdealHub"
+      },
+      "serviceType": "Tenancy Management Software",
+      "areaServed": {
+        "@type": "Country",
+        "name": "Malaysia"
+      },
+      "description": "Tenancy management software for Malaysian landlords: digital agreements, LHDN e-stamping, rent tracking, renewals, deposits and tenant portal — free during beta."
+    }
+  }
+}
