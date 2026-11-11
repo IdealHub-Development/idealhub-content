@@ -7,5 +7,5 @@ primaryButton:
   href: /contact-us
 secondaryButton:
   label: View open roles
-  href: /contact-us
+  href: /careers
 ---

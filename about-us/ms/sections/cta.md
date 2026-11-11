@@ -7,5 +7,5 @@ primaryButton:
   href: /contact-us
 secondaryButton:
   label: Lihat kekosongan jawatan
-  href: /contact-us
+  href: /careers
 ---

@@ -7,5 +7,5 @@ primaryButton:
   href: /contact-us
 secondaryButton:
   label: 查看职位空缺
-  href: /contact-us
+  href: /careers
 ---
