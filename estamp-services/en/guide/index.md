@@ -84,9 +84,9 @@ Duty is charged on the annual rent, not the monthly figure, and the rate steps u
 
 | LEASE TERM | STAMP DUTY | ON RM21,600 RENT |
 | --- | --- | --- |
-| 1 year or less | RM1 per RM250 | RM87 |
-| 1 to 3 years | RM2 per RM250 | RM174 |
-| Over 3 years | RM4 per RM250 | RM348 |
+| 1 year or less | RM1 per RM250 | **RM87** |
+| 1 to 3 years | RM2 per RM250 | **RM174** |
+| Over 3 years | RM4 per RM250 | **RM348** |
 
 :::note
 Indicative figures. LHDN rounds up to the next RM250 and its assessment is final — always check the amount shown at submission.

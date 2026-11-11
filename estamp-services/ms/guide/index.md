@@ -84,9 +84,9 @@ Duti dikenakan ke atas sewa tahunan, bukan angka bulanan, dan kadar meningkat me
 
 | TEMPOH PAJAKAN | DUTI SETEM | UNTUK SEWA RM21,600 |
 | --- | --- | --- |
-| 1 tahun atau kurang | RM1 bagi setiap RM250 | RM87 |
-| 1 hingga 3 tahun | RM2 bagi setiap RM250 | RM174 |
-| Lebih 3 tahun | RM4 bagi setiap RM250 | RM348 |
+| 1 tahun atau kurang | RM1 bagi setiap RM250 | **RM87** |
+| 1 hingga 3 tahun | RM2 bagi setiap RM250 | **RM174** |
+| Lebih 3 tahun | RM4 bagi setiap RM250 | **RM348** |
 
 :::note
 Angka indikatif. LHDN membundarkan ke RM250 seterusnya dan penilaiannya adalah muktamad — sentiasa semak jumlah yang dipaparkan semasa penyerahan.
